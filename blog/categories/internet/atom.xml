@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Kategorija: internet | McLion's mindstream]]></title>
+  <link href="http://mclion.github.com/blog/categories/internet/atom.xml" rel="self"/>
+  <link href="http://mclion.github.com/"/>
+  <updated>2013-03-23T23:51:41+01:00</updated>
+  <id>http://mclion.github.com/</id>
+  <author>
+    <name><![CDATA[Marko Milost - McLion]]></name>
+    <email><![CDATA[marko@mclion.eu]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Zbogom Posterous, pozdravljen Github!]]></title>
+    <link href="http://mclion.github.com/zbogom-posterous/"/>
+    <updated>2013-03-23T23:40:00+01:00</updated>
+    <id>http://mclion.github.com/zbogom-posterous</id>
+    <content type="html"><![CDATA[<p>Kot že vsi veste, se je Twitter letos po nakupu blogerske platforme Posterous.com odločil, da jo ugasne …</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Merjenje spletnega obiska za laike]]></title>
+    <link href="http://mclion.github.com/merjenje-spletnega-obiska-za-laike/"/>
+    <updated>2013-01-19T00:00:00+01:00</updated>
+    <id>http://mclion.github.com/merjenje-spletnega-obiska-za-laike</id>
+    <content type="html"><![CDATA[<p>Tudi letos so me povabili na FH&Scaron;, da &scaron;tudentom medijskega &scaron;tudija predstavim eno temo v sklopu predmeta Digitalni mediji in družba. Letos mi je nositelj predmeta kot temo predlagal "merjenje obiska na internetu".  Ben, ok &hellip; Tema ni med najbolj zanimivimi za humaniste &hellip; Približno tako kot nabiranje oljk - najde se kak&scaron;en navdu&scaron;enc, ampak večina bi raje komentirala družboslovni vidiku takega početja, mogoče.</p>
+
+
+<p>Predavanje sem dal skozi, ostalo mi je kar nekaj materiala ... Tema je zanimiva za večjo množico, zato sem se odločil, da jo objavim &scaron;e tukaj. Vsebina je poljudna in ne zahteva tehničnega predznanja. Prijetno branje.</p>
+
+
+<p><a href="http://j.mp/13Sfgjz" title="Predstavitev FH&Scaron; 2013" target="_blank">Digitalne diapozitive, ki sem jih med predavanjem uporabljal, dobite na tej povezavi.</a></p>
+
+
+<p>&nbsp;</p>
+
+
+<h2>Zakaj merimo?</h2>
+
+
+<p>Odkar se je človek naučil &scaron;teti, to izkori&scaron;ča in tudi nekateri uživajo v temu. Zanimalo ga je koliko črede je imel, zanimalo ga je koliko hektarjev je potreboval za to čredo in koliko vode bo ta čreda spila. Zanimalo ga je kolik&scaron;na je njegova čreda v primerjavi s sosedovo &hellip; Na koncu pa ga je seveda zanimalo koliko bo lahko zaslužil z njo, podatek o velikosti drugih čred je tudi vplival na ceno (količina na trgu ipd.) &hellip; Podobno je tudi v medijih.</p>
+
+
+<p>Cilj meritev so predvsem primerljivi podatki. Iz stali&scaron;ča ogla&scaron;evalca nas zanima katera TV postaja je bolj spremljana ob določeni uri, kateri radijski program doseže največ poslu&scaron;alcev na svojem področju, kateri časopis je bolj bran in seveda katero spletno mesto ima največ ljudi, ki bi jih zanimal na&scaron; produkt.</p>
+
+
+<p>Takoj je jasno, da pri spletnih meritvah zahtevamo več ... <strong>Ker lahko.</strong></p>
+
+
+<p>Iz vidika nekoga, ki ustvarja vsebino, nam meritev pomaga, da ugotavljamo kak&scaron;ni ljudje jo konzumirajo in glede na to ciljno publiko jo lahko tudi izbolj&scaron;amo. Neka vsebina ne vleče pozornosti? Enostavno, ne izgubljajmo časa z njo. Posvetimo se drugi. Če ugotovimo, da nas spremlja 80 % ljudi, ki so starej&scaron;i od 50 let, bomo zmanj&scaron;ali (ali ukinili) objave namenjene srednje&scaron;olcem in &scaron;tudentom. Vsebino lahko hitreje prilagodimo kot pa spremenimo strukturo na&scaron;ih porabnikov. Spreminjaje ciljne publike je namreč najdražji postopek, iz uredni&scaron;kega vidika.</p>
+
+
+<p>Meritve ponavadi omogočajo tudi analizo prekrivanja dosega medijev oziroma njihovih porabnikov. Tako lahko ogla&scaron;evalec ugotovi kje dobi najbolj&scaron;o publiko, ustvarjalec vsebine pa kje se &scaron;e zadržujejo porabniki njegove vsebine in se recimo lahko odloči, da ne bo podvajal vsebine iz tega oziroma teh medijev.</p>
+
+
+<p>&nbsp;</p>
+
+
+<h2>Kaj merimo?</h2>
+
+
+<p>Zanimajo nas ljudje. Ker je skoraj nemogoče individualno izpra&scaron;ati vsakega posameznika kaj počne v življenju in kaj ga zanima, anketiramo del populacije in glede na to določimo na&scaron;e "vesolje". To vesolje analiziramo (struktura, interesi &hellip;) in ga preslikamo na celotno populacijo. To je osnovni opis, ki velja za večino meritev branosti/gledanosti/obiska &hellip;</p>
+
+
+<p>Za vsako meritev je potrebno plačati. Brezplačni sistemi ne omogočajo primerjanja med "akterji" oziroma, če to omogočajo, gre za plačljivo storitev.</p>
+
+
+<p>Poglejmo posamezne primere.</p>
+
+
+<h3>TV</h3>
+
+
+<p>Gledanost TV programov v Sloveniji meri Nielsen in ga imenujemo Telemetrija. To je kombinacija merilnih naprav (620), ki so postavljene pri ciljnih družinah (450) in poznavanja "vesolja" uporabnikov.  Ti podatki se prenesejo v bazo, kjer se na podlagi vesolja preslikajo v slovensko populacijo.</p>
+
+
+<p>Teoretično se lahko zgodi, da mnogi iz ciljnih družin gledajo nek program, ampak ga izven merjene skupine spremlja zelo malo. To naj se ne bi dogajalo, čeprav laiki občasno opazijo, da se promet omemb nekega programa na socialnih omrežjih (predvsem Twitter in Facebook) ne sklada z ugotovitvami Nielsena oziroma so rezultati diametralni.</p>
+
+
+<p>Tak primer je bil pri par epizodah resničnostnega &scaron;ova Ema 2012, ko je Nielsen pokazal hudo premoč ponudbe na POP TV (Kmetija), socialna omrežja pa so bila polna objav za oddajo na RTV Slovenija &hellip;</p>
+
+
+<p>Nielsenovo raziskavo koristijo vsi, zato je valuta na trži&scaron;ču.</p>
+
+
+<h3>Tisk</h3>
+
+
+<p>Branost tiskanih medijev meri Nacionalna raziskava branosti oz. NRB, ki se izvaja v sklopu Slovenske ogla&scaron;evalske zbornice (SOZ). NRB je uradna valuta za branost tiskanih medijev.</p>
+
+
+<p>Gre fizično raziskavo (CAPI - Computer Aided Personal Interview), kjer podatke podpirajo s centralnim registrom prebivalstva. Dnevno opravijo 16 anket na terenu oziroma 480 anket mesečno. Anketiranci so pred obiskom anketarja obve&scaron;čeni.</p>
+
+
+<p>Podatki se kot pri drugih raziskavah zatem obtežijo na podlagi različnih parametrov (področje izhajanja medija, naklada itd.).</p>
+
+
+<h3>Radio</h3>
+
+
+<p>Radijske meritve so pri nas največja zabava. Ne vem, če bi tukaj uporabil sploh besedo "meritev". Gre za anketiranje po telefonu in spletu.</p>
+
+
+<p>Za poslu&scaron;anost radijskih postaj ni valute. Ni ene skupne raziskave trži&scaron;ča, ampak dva podjetja izvajata svoje raziskave, ugotovitve pa zatem prodajata radijskim postajam in agencijam za ogla&scaron;evanje. Imamo torej RM od Mediane in Radiometrijo od Mediapoola.</p>
+
+
+<p>Kot že napisano, sta meritvi predvsem statistično premetavanje odgovorov iz telefonskih (CATI - Computer Aided Telephone Interview) in spletnih (CAWI - Computer Aided Web Interview) anket. Sicer podatke obtežijo s tehnično sli&scaron;nostjo radijske postaje, ki pa je spet ocena glede na postavitev oddajnikov in populacijo na tistih področjih &hellip; Skratka, gre za analizo interesov potencialnih poslu&scaron;alcev, ne za meritev.</p>
+
+
+<p>Ugotovitve teh dveh meritev niso enakovredne. Včasih so celo diametralne. Pa tudi naročniki jih uporabljajo brez jasno določenih standardov prikaza/promoviranja/poročanja ... Na primer, radijska postaja, ki se želi prikazati kot izjemna, pri podatkih odstrani vsa področja "kjer nas slab&scaron;e sli&scaron;ijo" in izbere področja, kjer je ta sli&scaron;anost izjemna v primerjavi z drugimi postajami. Zatem objavi rezultate v obliki grafov, kjer prikazujejo, da so "Najbolj poslu&scaron;an radio" in pri temu seveda ne lažejo (v izbranem svetu). V Sloveniji imamo kar nekaj "najbolj poslu&scaron;anih radijskih postaj". Nekatere to bolj izpostavljajo, druge manj.</p>
+
+
+<p>Sicer ponudniki merjenja radijske poslu&scaron;anosti med svojo dokumentacijo vključujejo tudi kodeks z nekimi sankcijami. Ne vem, pa če delujejo. Kot poučen laik v tej sceni, delovanja le-teh &scaron;e nisem opazil.</p>
+
+
+<p>Podatki niso javni niti v manj&scaron;i obliki (NRB in MOSS redno prikazujeta splo&scaron;ne analize trga) saj gre za komercialno storitev. Zato zainteresirana javnost ne more preverjati oziroma primerjati metod in ugotovitev, ne da bi investirala v dostop.</p>
+
+
+<p>Če sem iskren ... 10 let sem delal na radiu in so mi bile ves čas te meritve nekak&scaron;na mistika. V smislu, da so bolj podobne črni magiji kot pa nečemu oprijemljivemu, logičnemu. Sem pač naravoslovec. Ampak kaj čmo, dokler se to prodaja, bo obstajalo v tak&scaron;ni obliki in brez državne valute.</p>
+
+
+<h3>Internet</h3>
+
+
+<p>Obisk spletnih mest v Sloveniji beleži projekt MOSS (Merjenje obiska spletnih strani), ki deluje v sklopu <a href="http://soz.si/">SOZ</a>. Dnevno se preko tehničnega sistema meri obiske na več kot 100 spletnih mestih oziroma izmeri več kot 600.000 dnevnih uporabnikov. To se kombinira s spletno anketo na katero odgovori mesečno okoli 20.000 ljudi. Podatki se preslikajo s pomočjo ugotovitev telefonske ankete v kateri vsaka dva meseca pokliče okoli 1000 gospodinjstev. Gre torej za največjo medijsko meritev v Sloveniji po količini izmerjenih in kori&scaron;čenih podatkov.</p>
+
+
+<!-- more -->
+
+
+<p>&nbsp;</p>
+
+
+<h2>MOSS</h2>
+
+
+<p><a href="http://j.mp/VDmXqY" target="_blank">MOSS</a> je neprekinjena meritev. To pomeni, da se dogaja ves čas, brez prekinitev. Sodelujoča spletna mesta imajo v izvorni kodi strani "skrit" klic na merilni sistem, ki ob vsakem kliku po povezavah na strani po&scaron;lje podatke na strežnik, ki jih zabeleži. Zatem se ti podatki po&scaron;ljejo v računski center, kjer pre&scaron;tejejo naprave (pi&scaron;kotke pravzaprav), zapi&scaron;ejo pot uporabni&scaron;kih klikov po merjenih spletnih mestih, jih povežejo na izpolnjene ankete za določanje strukture populacije itd. Zatem izračunajo koliko različnih naprav je v enem mesecu obiskalo merjeni svet (vsa spletna mesta, ki sodelujejo v raziskavi) in to ponovijo za vsako sodelujoče spletno mesto. Naprave ločijo s pomočjo pi&scaron;kotkov (cookies).</p>
+
+
+<p>Merjeni svet se preslika v obiskovalce (ljudi) s pomočjo ugotovitev telefonske ankete. Z njo namreč ugotavljajo koliko ljudi je v tem obdobju pri nas uporabljalo splet.</p>
+
+
+<p><img src="/images/posterous/2013/01/46890111-moss<em>-</em>struktura_vzorcenja.png"></p>
+
+<p>Podatki so izračunani do 15. v mesecu, zatem jih mora Strokovna komisija pregledati in potrditi. Če je vse v redu, so na razpolago za porabo okoli 21. v mesecu za pretekli mesec (21. januarja 2013 bodo podatki za december 2013).</p>
+
+
+<p>MOSS objavi dva tipa javnih podatkov. En je lestvica obiskanosti, ki se nahaja na <a href="http://moss-soz.si/">moss-soz.si</a>, drugo pa so sveži podatki iz tehničnih meritev. To so podatki o brskalnikih, operacijskih sistemih in mobilnih napravah, ki jih koristijo slovenski spletni uporabniki. Ti podatki se objavljajo na <a href="http://www.ranking.si/">ranking.si</a>.</p>
+
+
+<p>Ostale podatke Valicon in SOZ tržita. Omogočajo dostop do sistema, kjer lahko uporabnik ugotovi prekrivanje populacij med spletnimi mesti, analizira podstrani določenega spletnega mesta (tudi po strukturi obiska) in iz tega sklepa glede na svoje cilje (ogla&scaron;evalske, uredni&scaron;ke ali tretje).</p>
+
+
+<h3>Nekaj podatkov o Sloveniji - november 2012</h3>
+
+
+<p><img src="/images/posterous/2013/01/46890110-moss<em>-</em>sociodemografski_podatki.png"></p>
+
+<p>V populaciji od 10 do 75 let je bilo novembra 2012 <strong>80 % mesečnih uporabnikov interneta</strong>, kar predstavlja <strong>1.373.365 prebivalcev</strong> Slovenije v starosti od 10 do 75 let. Ob upo&scaron;tevanju 97% intervala zaupanja je v Sloveniji novembra 2012 med 1.371.656 in 1.375.074 mesečnih uporabnikov interneta. Populacija od 10 do 75 let predstavlja 1.709.050 prebivalcev Slovenije.</p>
+
+
+<p>Med mesečnimi uporabniki interneta je <strong>55% mo&scaron;kih, 45% je žensk</strong>. V primeru da mesečne uporabnike interneta po starostnih razredih razdelimo na tretjine, dobimo naslednjo strukturo: od 10 do 24 let (25%), od 25 do 39 let (30%), od 40 do 75 let (45%). Povprečna starost mesečnih uporabnikov interneta zna&scaron;a 37 let.</p>
+
+
+<p>Glede na zaposlitveni status je delež mesečnih uporabnikov interneta največji v kategoriji zaposlen v podjetju (35%).</p>
+
+
+<p>Valuta je doseg strani v obdobju od 1.11. do 30.11.2012. Izmerjen doseg &ndash; Slovenija na 104-ih merjenih straneh, v obdobju od 1.11. do 30.11.2012, zna&scaron;a 1.332.164 različnih obiskovalcev. Obiskovalci 104-ih strani so v obdobju od 1.11. do 30.11.2012 opravili nekaj več kot 704 mio prikazov. Ocenjen dodatni doseg &ndash; tujina zna&scaron;a 733.114 in predstavlja &scaron;tevilo uporabnikov, ki so dostopali do spletnih strani iz IP &scaron;tevilk, ki niso slovenske. Podatek o ocenjenem dodatnem dosegu iz tujine ni korigiran s podatki telefonske ankete.</p>
+
+
+<p>Največje &scaron;tevilo prikazov je bilo ustvarjeno v drugem tednu meseca novembra (od 5.11. do 11.11.). Prvi in zadnji teden v mesecu novembru ne predstavlja celih 7 dni.</p>
+
+
+<p>V obdobju od 1.11.2012 do 30.11.2012 je bilo &scaron;tevilo obiskovalcev med vikendi za 32% nižje kot ob delavnikih, medtem ko je &scaron;tevilo ogledov vseh spletnih mest ob vikendih v povprečju zna&scaron;alo <strong>42 mio</strong>, ob delavnikih pa <strong>107 mio</strong>.</p>
+
+
+<p>&nbsp;</p>
+
+
+<h2>Kaj pa Facebook?</h2>
+
+
+<p>Mimo Facebooka itak ne moremo. Po njihovih podatkih Facebooka več kot 700.000 registriranih uporabnikov iz Slovenije. Lahko te račune preslikamo v ljudi? Lahko in to brez večjih napak. Zadnja analiza uporabnikov Facebooka je ugotovilo, da je bilo lani na tem omrežju okoli 90 milijonov lažnih računov. Na celotno populacijo 1 milijarde, je to &scaron;čepec soli v morju. Pa tudi, le je odstotek lažnih računov v Sloveniji večji, je statistično gledano podatek bolj točen od večine ostalih meritev slovenskih medijev (z izjemo morda MOSS-a).</p>
+
+
+<p>Oni nimajo torej težav pri preslikavi naprav v ljudi. Tudi sledijo lahko brez zunanjih sistemov vsakemu koraku, ki ga naredite znotraj spletnega mesta. Nekje vam sledijo tudi izven. Ampak to je tema za kdaj drugič.</p>
+
+
+<p>Če imate svojo stran na Facebooku ("Fan page" so temu nekoč rekli, danes pa samo "Facebook page"), potem lahko v razdelku Insigns ugotovite marsikaj o populaciji, ki vidi, prebere oziroma odreagira na objave na zidu va&scaron;e Facebook strani.</p>
+
+
+<p><strong>Največja Facebook stran v Sloveniji </strong>(glede na slovensko populacijo) je v tem trenutku Radio 1, sledi Kolektiva Slovenija in na tretjem mestu je Jurij Zrnec. Sveže podatke o tem dobite na&nbsp;<a href="http://www.socialbakers.com/facebook-pages/slovenia/">SocialBakers pod Facebook -&gt; Slovenia -&gt; Pages</a>.</p>
+
+
+<p>&nbsp;</p>
+
+
+<h2>Prihodnost?</h2>
+
+
+<p>Po mojem mnenju bodo meritve obiska s časom postale vedno manj relevantne, vsaj kar se ogla&scaron;evalskega stali&scaron;ča tiče. Urednike in lastnike medijev bo &scaron;e vedno zanimal surov podatek koliko naprav in/ali ljudi konzumira njihov medij, ogla&scaron;evalci pa bodo zahtevali več.</p>
+
+
+<h3>Kaj več?</h3>
+
+
+<p><strong>Angažiranost</strong> oziroma v angle&scaron;čini engagement.</p>
+
+
+<p>Z manj&scaron;anjem budgetov seveda želimo čim več vloženi denar. Sploh v času, ko ogla&scaron;evanje ni več "zaradi tro&scaron;enja budgeta", ampak mora imeti učinek. Ogla&scaron;evalec si želi, da njegov oglas vzpodbudi reakcijo pri potro&scaron;niku. Tudi zato, ker je množica zelo pasivna. Nekdo, ki se angažira s produktom, se lahko naveže nanj oziroma s tem produktom in/ali blagovno znamko vzpostavi nek čustven odnos. Ta čustven odnos se direktno preslika v prodajo (če se kaj ne zalomi vmes).</p>
+
+
+<p>Zato ne bo več pomembno koliko ljudi je videlo neko objavo, neko oddajo, sli&scaron;alo oddajo &hellip; Ampak koliko ljudi je ta objava angažirala. To so recimo tviti in statusi na Facebooku med soočenjem na TV, telefonski klici med radijsko nagradno igro, poslani kuponi in klicane &scaron;tevilke iz oglasov v tisku. Dejansko se parametrov ne da standardizirati, vsaj v obliko valute, saj so preveč raznolike.</p>
+
+
+<h3>Kaj pa splet?</h3>
+
+
+<p>Na spletu že imamo standardizirane parametre, ki jih že merimo, ampak jih &scaron;e ne cenimo toliko. Vsaj v smislu medijske meritve ne. Ti parametri se imenujejo v&scaron;ečki (likes), tviti, komentarji, +1 in seveda javne delitve (shares).</p>
+
+
+<p>Na spletu lahko merimo angažiranost, ki jo je povzročila neka objava. Lahko določimo vrednost posamezni akciji in iz tega oblikujemo lestvico. Lahko hitro ugotovimo kaj je v nekem trenutku najbolj pomembno, kaj je trend. To se že danes da preslikati v dobro ciljan oglas, pri mediju pa v denar.</p>
+
+
+<p>Seveda pa je za to doseči potrebno stopiti iz znanih okovov in zakorakati v neznano. Morda se vam bo celo izplačalo.</p>
+
+
+<h2>Bonus</h2>
+
+
+<p><a href="http://j.mp/VDhFMa" target="_blank">Povezava do mojega eksperimenta.</a> Sistem, ki meri angažiranost objav slovenskih medijev in jih postavi v spisek. Povezava bo delovala, dokler se bom igral s tem eksperimentom &hellip; :)</p>
+
+
+<p>&nbsp;</p>
+
+
+<p><a href="http://j.mp/13Sfgjz" target="_blank"><strong>Ostalo iz predstavitve si lahko ogledate v digitalnih diapozitivih, ki sem jih predstavil na predavanju.</strong></a></p>
+
+
+<p>&nbsp;</p>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Več oglasov kot ljudi]]></title>
+    <link href="http://mclion.github.com/vec-oglasov-kot-ljudi/"/>
+    <updated>2012-11-08T00:00:00+01:00</updated>
+    <id>http://mclion.github.com/vec-oglasov-kot-ljudi</id>
+    <content type="html"><![CDATA[<p>Slovenski spletni mediji so padli v <strong>ogla&scaron;evalsko</strong> <strong>črno luknj</strong>o, ki sem jo na ObalaNET doživel pred približno &scaron;estimi leti in se je nisem zavedel, dokler tega fenomena nisem opazil pri najbolj branih slovenskih spletnih medijih dana&scaron;njega časa. Tokrat ne bom samo nergal, ampak poskusil najti tudi re&scaron;itev za izbolj&scaron;anje stanja, vsaj iz vidika lastnika spletnega mesta.</p>
+
+
+<p><strong>Na tipičnem nadpovprečno obiskanem slovenskem spletnem mediju dobimo sledeče tipe oglasov:</strong></p>
+
+
+<ul>
+<li>Vodoravne, navpične in kvadratne oglasne pasice nad, pod, ob in med besedilom,</li>
+<li>veliko drsečo pasico na dnu, ki zasede okoli &frac14; okna,</li>
+<li>drsni oglasi, ki se odprejo, ko uporabnik pride na dno članka (in mu premaknejo fokus na oglas),</li>
+<li>lebdeči oglasi, ki prekrijejo vsebino in se včasih ne dajo zapreti,</li>
+<li>oglasni premori pred in po video posnetkih,</li>
+<li>video oglasni premori pred branjem članka,</li>
+<li>oglasna ozadja,</li>
+<li>Piano plačni&scaron;ki zid,</li>
+<li>Double Recall prekinitev, ki zahteva prepis dveh besed iz oglasa,</li>
+<li>Plista "sorodne vsebine" in flyin oglasi iz spodnje desne strani ekrana,</li>
+<li>tekstovni oglasi pod in med vsebino,</li>
+<li>tekstovni oglasi znotraj vsebine.</li>
+</ul>
+
+
+<p><br />Verjetno sem kak&scaron;nega pozabil. Večina od teh oglasnih tipov ni problematična. Težava nastane, ko se več pristopov kombinira na eno spletno stran.</p>
+
+
+<p>Ponavadi uporabnik takega spleti&scaron;ča zadane ob najmanj &scaron;tiri tipe oglasov na vsaki strani in to tudi tisti uporabniki, ki so vplačali <a>Piano</a> oziroma plačujejo kak&scaron;no drugo naročnino. Naročniki sistema Piano tukaj plačajo dvojno, ampak to ni tema tega bloga ...</p>
+
+
+<p>Podobno težavo smo imeli na <a>ObalaNET</a> okoli leta 2006, če me (glede letnice) spomin ne vara. Sicer smo posku&scaron;ali &scaron;tevilo oglasov omejiti, ampak kljub temu se je pri ogromnem &scaron;tevilu prikazov (tudi do 2 milijona dnevno) hitro zgodilo, da je bilo oglasnega prostora več, kot je bilo uporabnikov. Pri tem je bilo najslab&scaron;e dejstvo, da je bilo prikazanih oglasov v vsakem trenutku več, kot jih je bilo zakupljenih.</p>
+
+
+<p>Zato se je zgodila druga težava. Večina neposrednih zakupnikov oglasnega prostora so bila manj&scaron;a podjetja oziroma obrtniki, ki si niso mogli privo&scaron;čiti milijone prikazov. Ponavadi je &scaron;lo za 10 do 100 krat manj&scaron;e zakupe od tega. Zato ravno oglasi teh naročnikov niso pri&scaron;li do izraza. Kar je pomenilo, da se je tak&scaron;no naročilo malokdaj ponovilo.</p>
+
+
+<p>To je bila posledica druge težave, ki smo si jo spletli sami. Imeli smo ogromno prikazov (2 milijona prikazov * 3 lokacije = 6 mio oglasov dnevno), ki niso bili prodani. Zato smo jih oddali agencijam kot sta Iprom in Adpartner. S tem smo sicer povečali zaslužek (sploh s pomočjo Iproma), vendar smo ustvarili tudi <strong>interno konkurenco glede oglasnega prostora.</strong></p>
+
+
+<p>Dejmo en primer. Naročnik pri spletnem mediju zakupi 10.000 prikazov za 50 evrov. Za to vrednost dobi pri agenciji, ki prikazuje na istem spletnem mediju oglase 100 klikov (po ceni 0,5 eur/klik). S 0,1% CTR, ki je neko visoko povprečje pri tak&scaron;nih oglasih, je to okoli 100.000 prikazov. Iz vidika naročnika dobi za isto ceno 10 krat več. Iz vidika spletnega medija, to predstavlja zaslužek okoli 15 eur oz. izgubo 485 evrov, če bi naročnik pri njih zakupil 100.000 prikazov oglasa. V odstotke si preračunajte sami.</p>
+
+
+<p>Imamo torej dve negativni posledici preobilice oglasnih lokacij/sistemov:</p>
+
+
+<ul>
+<li><strong>Mali naročniki ne pridejo do izraza in ne "doživijo" vrednosti svojega nakupa.</strong></li>
+<li><strong>Ustvarili smo si konkurnenco na svojem terenu.</strong></li>
+</ul>
+
+
+<p><br />Če poklikamo po najbolj branih slovenskih spletnih medijih, hitro ugotovimo, da se jim verjetno dogaja ravno to. Prikažejo ogromno oglasov, ampak večino servirajo ogla&scaron;evalske mreže kot so Iprom, Adpartner in po novem tudi Google Adsense. Posledično kar prodajo njihovi tržniki ne pride toliko do izraza in imajo manj&scaron;o uspe&scaron;nost, kot bi jo lahko imeli lahko sicer.</p>
+
+
+<p>Pa tudi, ob preobilici oglasov, postane uporabnik popolnoma slep za relevantno oglasno vsebino. Kar pomeni manj klikov, torej tudi manj&scaron;i zaslužek pri oglasnih mrežah. Začaran krog, ki pa ima posledice tudi v uredni&scaron;tvu, saj odžene uporabnike od vsebine.</p>
+
+
+<p>Pri Dnevniku so to očitno opazili, saj so pri obnovi odstranili nekaj oglasnega prostora in verjamem, da se jim zato zaslužek od oglasov ni spremenil.</p>
+
+
+<p>&nbsp;</p>
+
+
+<!-- more -->
+
+
+<h2>Imam re&scaron;itev!</h2>
+
+
+<p>Iz uporabni&scaron;kega vidika je re&scaron;itev enostavna. Ugasne&scaron; flash oz. naloži&scaron; "flashblock" in/ali "addblock" dodatek, ki obstaja za vsak tip brskalnika in ima&scaron; mir nad večino oglasne vsebine. Upravljalci spletnih mest, pa si verjetno tega ne želite.</p>
+
+
+<p>Leta 2006 sem zato za ObalaNET razvil <strong>drugačen tip ogla&scaron;evanja</strong>. Ni bil novost, obstajal je že nekaj let pred tem in se je uporabljal več ali manj uspe&scaron;no na ameri&scaron;kem trgu. Novost je bila v načinu uporabe le-tega.</p>
+
+
+<p>Ta tip ogla&scaron;evanja se je pred nekaj tedni pojavil tudi pri nas, ampak po mojem mnenju z napačnim pristopom. Prvič, sistem uporablja flash za prikaz oglasov, kar je leta 2012 nesmisel in drugič, gre za zunanji servis, ki ustvari le dodatno konkurenco znotraj spletnega mesta in prinese lastniku zelo malo.</p>
+
+
+<p>Gre se torej za tekstovne oglase, ki se pojavljajo znotraj vsebine člankov, komentarjev, forumov &hellip; Skratka povsod, kjer obstaja uredni&scaron;ko ali uporabni&scaron;ko besedilo.</p>
+
+
+<p>To aplikacijo sem pred &scaron;estimi leti spackal skupaj z željo, da bi jo tržil, ampak nisem na&scaron;el poslovnega partnerja (baje je na&scaron; trg premajhen za karkoli kar ne utripa in/ali drsi pred očmi). Oglasi so neintruzivni, ampak so disruptivni, ker delujejo na radovednost bralca. Lahko bi jim rekli, da so intelektualci med oglasnimi pristopi uporabljenimi na spletu.</p>
+
+
+<p>Pristop deluje tako, da naročnik zakupi ključne besede in če se te pojavijo znotraj besedila, se dvojno podčrtajo. S tem povzročijo zanimanje pri uporabniku, saj so drugačne od ostalih povezav. Ko uporabnik zapelje z mi&scaron;ko čeznje, se odpre okvirček z oglasom. Ob kliku na okvirček, je uporabnik prenesen na ogla&scaron;evalčevo spletno mesto.</p>
+
+
+<p>Na ObalaNET smo ta sistem tržili kombinirano po prikazih in klikih. Uporabnik je zakupil določeno &scaron;tevilo klikov po X ceni, prikazi pa so stali X/20. Tudi sicer je bilo zanimanje ogromno in je vsak oglas dosegel tudi tretjino branosti posamezne vsebine, kjer se je pojavil (tudi po več mesecih uporabe). Kliki so bili v vi&scaron;ini 1-4 % glede na te prikaze, kar je bilo hudo nad povprečjem ostalih tipov oglasov. Prikaze smo računali, ker je &scaron;lo za interakcijo z oglasom in ne le za pasivni prikaz, kot gre &scaron;e danes pri večino ostalih oglasov (razen DoubleRecall).</p>
+
+
+<p>Ta tip ogla&scaron;evanja smo tržili izključno lokalnim ogla&scaron;evalcem, kar mu je dalo dodatno vrednost.</p>
+
+
+<p>&nbsp;</p>
+
+
+<h3><a href="http://j.mp/RkMylH" target="_blank">Postrezite si!</a></h3>
+
+
+<p>Ker je od tega že več kot 6 let in ker programi morajo biti svobodni, sem se odločil, da ta sistem osvobodim oziroma ga podarim vsem, ki ga želijo uporabiti. <a href="http://j.mp/RkMylH" target="_blank"><strong>Naložil sem ga na github</strong></a>, največji zbornik <strong>odprtokodnega </strong>programja na svetu, objavljen pa je pod MIT licenco, kar v grobem pomeni, da lahko s kodo počnete karkoli želite.</p>
+
+
+<p>Koda je sicer &scaron;e od leta 2006 in pristop do programske kode se je medtem popolnoma spremenil, vendar verjamem, da je dovolj razumljiva, da jo boste programerji znali hitro izbolj&scaron;ati oz. vključiti v svoje re&scaron;itve. Ravno zato je na <a href="http://j.mp/RkMylH" target="_blank">githubu</a>.</p>
+
+
+<p>Če pa niste tehničen človek, bi pa vseeno radi na svojem spletnem mestu poganjali ta tip oglasov ali pa potrebujete določene <strong>prilagoditve</strong>, me <strong>kontaktirajte</strong> (mclion na gmailu) in vam bom  rade volje <strong>pomagal</strong>.</p>
+
+
+<p><strong> </strong></p>
+
+
+<p>&nbsp;</p>
+
+
+<p><strong>P.S. </strong>Naj bo jasno. Kar se tiče preobilice oglasnega prostora, menim, da napaka ni pri ogla&scaron;evalskih mrežah, ki ponujajo odlično storitev, ampak na strani skrbnikov spletnih medijev, ki dovolijo prekomerno &scaron;tevilo oglasov z napačno predstavo, da bodo tako več zaslužili. Dober gospodar bi ob postavitvi novega oglasnega prostora ugasnil najmanj enega, ki je najmanj uspe&scaron;en (prinese najmanj&scaron;i zaslužek). Vsakih nekaj mesecev pa bi vajo ponovil in tako zmanj&scaron;al možnostjo, da uporabniki ne postanejo slepi na oglasne lokacije. Ampak to je za večino "strokovnjakov" pri nas nekaj nepojemljivega, vsaj po praksi sodeč ...</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[MOSS je boljši od Google Analytics, ampak zakaj?]]></title>
+    <link href="http://mclion.github.com/moss-je-boljsi-od-google-analytics-ampak-zaka/"/>
+    <updated>2011-12-06T00:00:00+01:00</updated>
+    <id>http://mclion.github.com/moss-je-boljsi-od-google-analytics-ampak-zaka</id>
+    <content type="html"><![CDATA[<p><span>&Scaron;e danes se srečujem z nerazumevanjem delovanja projekta Meritve obiska spletnih strani, ki ga večina pozna pod kratico <strong>MOSS</strong>. Žal prihaja do nerazumevanja ravno v slovenski skupnosti "webmasterjev" in drugih spletnih strokovnjakov, ki bi kot prvi morali razumeti delovanje in pomen tak&scaron;nih projektov.</span></p>
+
+
+<p><span>Dolga leta sem upal in tudi težil odgovornim znotraj projekta </span><strong><a href="http://moss-soz.si/">MOSS</a></strong><span>, da je potrebno izbolj&scaron;ati komunikacijo z naročniki, pristopniki oziroma kakor koli se imenuje tiste, ki sodelujejo v projektu, pa tudi komunikacijo z zainteresirano javnostjo. Žal na Slovenski ogla&scaron;evalski zbornici (SOZ) komunicirajo predvsem prek novinarskih konferenc in očitno &scaron;e danes ne razumejo, da skupnost razvijalcev, webmasterjev in ostalih spletnih zanesenjakov enostavno ne hodi na tiskovke in ne bere člankov na </span><span>24ur.com</span><span> (kjer se samo pohvalijo, da so najbolj&scaron;i, nikoli pa bralcu ne razložijo, v čem). </span></p>
+
+
+<p><span>No, ker se stanje do danes ni izbolj&scaron;alo in ker sem samo v zadnjem tednu na Twitterju zasledil kar dve debati o MOSS, ki sta bili skregani z realnostjo in sta med tvitera&scaron;i povzročili kar nekaj brezvezne jeze, sem se tokrat odločil, da zadeve spravim na ekran. "Če oni ne znajo, bom pa jaz, zaFakinStonj!" sem si rekel ... in se ugriznil v jezik ... a žal je bila obljuba že na Twitterju ... že drugič v enem tednu. :)</span></p>
+
+
+<p><span>MOSS je res dobra zadeva. Problem se skriva v slabi sposobnosti komunikacije SOZ-a z osebami, ki niso v projektu, ampak ustvarjajo mnenje v neki interesni skupnosti. Ta interesna skupnost pa (zadnje čase) ustvarja mnenje med novinarsko ... ki itak ne obiskuje prej omenjenih tiskovk, od katerih lahko odnese predvsem to, da je </span><span>24ur.com</span><span> najbolj obiskano spletno mesto v Sloveniji ... in zraven morda &scaron;e kak&scaron;no zanimivost, kar pa itak kasneje dobijo po elektronski po&scaron;ti že lepo zapakirano za copy&amp;paste postopek. :)</span></p>
+
+
+<p><span>No, začnimo na začetku. V času razvoja MOSS-a je nastalo kar nekaj govoric v stilu "MOSS meri obisk preko telefonskih anket!" ali "Oni tako merijo, da </span><span>najdi.si</span><span> izpade največji!", kar se je v zadnjih letih preoblikovalo v "Oni merijo tako, da </span><span>24ur.com</span><span> izpade največji!"  Se tudi vam zdita zadnji izjavi, ko ju postavite eno ob drugo &hellip; malenkosti izključujoči? Ker sta. </span></p>
+
+
+<p><span>Kako je do tak&scaron;nih prepričanj sploh pri&scaron;lo? </span><br /> <span>Moja teorija ...</span></p>
+
+
+<p><span><br /></span></p>
+
+
+<h2>MOSS v0</h2>
+
+
+<p><span>Prva verzija MOSS-a je bila neke vrste ugotavljanje tople vode in se ni imenovala MOSS (zato sem jo označil z verzijo 0). Takrat so nekateri "akterji slovenskega spleta" ugotavljali, kako bi merili doseg spletnih mest. Ogromno so se pogovarjali, nekaj podjetij (raziskovalnih, ogla&scaron;evalskih in akademskih) je bilo vpletenih, ampak več kot testne meritve niso dosegli. Pa &scaron;e ta se je sesula med samim merjenjem.</span></p>
+
+
+<p><span>Takrat sem se kot &scaron;tudent informatike igral s </span><span>100si.com - Slovensko spletno lestvico</span><span>, kjer smo merili "obisk" slovenskih spletnih mest in ne dosega. Tudi mene so v tistem času kontaktirali iz ene fakultete in vpra&scaron;ali, če bi znal v sklopu 100si.com razviti sistem meritve dosega za slovenski splet in ga tržiti. Slednje je bilo baje zelo pomembno. Storitev ni smela biti brezplačna, da ne bi predstavljala nelojalne konkurence komercialni, ki naj bi bila takrat v razvoju. Razvil sem re&scaron;itev, jo testiral, pokazal nekaj ljudem in večkrat diskutiral z znanci o moji re&scaron;itvi, ampak tega nisem imel namena tržiti. Jaz bi to dal zastonj ven. Nisem videl poante v računanju denarja za neko tehnično meritev. Moja takratna re&scaron;itev ni pretirano obremenjevala strežnika, rezultati pa so "zamujali" le par ur. Z njo sem bil zadovoljen in ker se nisem hotel nikomur zameriti, je nisem nikoli javno lansiral (v praksi pa je v ozadju tekla več kot leto dni).</span></p>
+
+
+<p><span>Spomnim se, da so me ti akterji kar nekajkrat povpra&scaron;ali po tem, kako sem re&scaron;il, da se strežnik, ki zajema podatke, ne vsuje med računanjem le-teh. Ponosno sem se jim nasmehnil. Skratka, izumljali so toplo vodo, vsaj iz mojega takratnega pogleda na svet.</span></p>
+
+
+<p><span>Najverjetneje so vsa ta raziskovanja, debate, nenavadna vpra&scaron;anja in testne meritve, ki so se končale s sesutim stežnikom, za posledico prinesli govorice, ki so se raz&scaron;irile znotraj določenih interesnih skupnosti (med webmasterji). No, pa tudi zamerili so se baje nekaj ljudem ... Zamera, &scaron;ank in pivo v roki pa pogosto ustvari kak&scaron;no zgodbico ali dve ... ki zlahka postanejo kar legende.</span></p>
+
+
+<p><span>Kasneje so vse porodne krče uspe&scaron;no prebrodili in re&scaron;ili vse zaplete, pa tudi telefonske ankete niso nikoli bile namenjene merjenju, ampak nekateri so, kot kaže, &scaron;e danes prepričani, da je temu tako. </span></p>
+
+
+<p><span>Dodatno težavo je povzročila &scaron;e </span><strong><a href="http://www.nrb.info/">NRB</a></strong><span> (Nacionalna raziskava branosti), ki je nekoč "merila" ali &scaron;e "meri" doseg spletnih mest tiskanih medijev, ki so v raziskavi. Raziskava je bila morda res le telefonska in terenska tudi za splet, ampak je ne poznam ... Možno pa, da je ustvarila dodatno zme&scaron;njavo. Skratka, NRB ni MOSS.</span></p>
+
+
+<p>&nbsp;</p>
+
+
+<h2>MOSS v1</h2>
+
+
+<p>V tem času sem uradno vstopil v projekt MOSS. Bila so najbolj&scaron;a leta za <strong>ObalaNET</strong> (kjer sem bil soustanovitelj) in so nas kot takrat večje spletno mesto v Sloveniji povabili k sodelovanju. Takoj sem se prijavil v t.i. Strokovno komisijo in bil tudi potrjen s strani t.i. pristopnikov. Sodeloval sem na raznih sestankih, kjer se je ugotavljalo, ali meritev poteka pravilno in določalo parametre, po katerih je nek obisk (hit) relevanten oziroma irelevanten. Ti parametri so v vsakem sistemu merjenja obiska, vendar so ponavadi skrivnost in jih določa ponudnik re&scaron;itve. Tukaj je parametre določala skupina tehnično osve&scaron;čenih pristopnikov. Osebno se mi zdi tako bolj fer. Če že plačuje&scaron; neko meritev, je dobro, da ve&scaron;, kaj in kako se meri, ter tudi, zakaj se tako meri.</p>
+
+
+<p><span>Da ne bo &scaron;e iz tega nastala kak&scaron;na legenda. Ni &scaron;lo za nikakr&scaron;no magijo. Določeno je bilo, da se meri naprave, ki hranijo pi&scaron;kotke in da se meri tudi naprave, ki jih ne sprejemajo oz. ne hranijo. Določilo se je, kako se to dvoje se&scaron;teje. Določilo se je tudi, kaj pomeni "neveljaven obisk&rdquo;. Kot primer, bil je nek uporabnik, ki je v enem dnevu obiskal neko spletno mesto več kot 400-krat in bil zato označen za robota ter odstranjen iz meritve. Določilo se je parametre ločevanja robotov od realnih uporabnikov. </span></p>
+
+
+<p><span>MOSS v1 je potekal dvakrat letno: okoli aprila in septembra. V tem času sta se izvajali tudi telefonska in spletna anketa. Ta je bila podajana z oglasi (uporabnik je za dostop do spletne ankete moral klikniti na oglas za MOSS). Tehnična meritev, ki je podobna tisti, ki jo izvajajo Google Analytics in podobni sistemi, je bila osnova za izračun dosega. S pomočjo telefonske ankete in statističnimi orodji je bilo ugotovljeno, s koliko napravami v povprečju dostopa slovenski uporabnik do spleta. Upo&scaron;tevani so bili tudi brskalniki, tako da dejansko je &scaron;lo za količnik "&scaron;tevila brskalnikov na vseh napravah". Jasno je, da so bile upo&scaron;tevane tudi naprave, ki jih je koristilo več oseb. Da ne bi zakomplicirali, imenujmo to kombinacijo kar "naprave".</span></p>
+
+
+<p><span>Ta količnik je bil zatem uporabljen pri preslikavi naprav v osebe. Količniki so se po mojem spominu gibali med 0,8 in 1,2 (med vsemi izvedenimi meritvami pod MOSS v1). Problem MOSS v1 je bil v redkosti meritve. Založniki spletnih mest so tempirali novosti in akcije na čas, ko se je izvajala meritev. Po mojem spominu so bili med največjimi ekstremisti pri </span><a href="http://24ur.com/"><span>24ur.com</span></a><span>, kjer so &scaron;tartali Big Brotherja in Kmetijo ravno v času meritve MOSS. Morda je bil to samo zelo zelo srečen slučaj, no... ;) </span></p>
+
+
+<p><span>Jasno, vsi so se v času tistih dveh meritev trudili, da bi čim bolj povečali svoj doseg, saj so imeli rezultati rok trajanja kar pol leta ... pol leta so potencialnim ogla&scaron;evalcem kazali ta doseg (ali pa ga skrivali, odvisno od primera &hellip;).</span></p>
+
+
+<p><span>Nekateri so pri MOSS v1 zamerili tudi njegovo počasnost pri izračunu podatkov. Ponavadi so bili objavljeni 45 dni po zaključku meritve, morda celo kak dan kasneje.</span></p>
+
+
+<p><span>Spletna anketa je služila ugotavljanju strukture obiska posameznega spletnega mesta (starostne skupine, spol, zaslužek, področje bivanja, interesi, ...). Rezultati so bili "denar" za založnike, ki so z njimi lahko pokazali, da njihovo spletno mesto dosega zelo dobro penetracijo v določeni tržni ni&scaron;i, ki je ravno tista, ki jo cilja tudi ta ali oni ogla&scaron;evalec. Pri kolikih je bilo to uspe&scaron;no, žal ne vem, ObalaNET pa je postavilo na slovenski spletni zemljevid in ravno zaradi MOSS smo dobili kar nekaj ogla&scaron;evalcev "iz centra". Podatki iz spletne ankete so dokazovali, da je večina na&scaron;ega obiska lokalnega, torej zelo ciljanega in da ga je "kar nekaj". Drugače povedano, lahko smo dokazali, da pokrivamo večino lokalnega prebivalstva. Skratka, nam se je investicija v MOSS v1 izplačala.</span></p>
+
+
+<p><span>V drugi polovici obstoja MOSS-a v1 so pri <strong>Aragonu</strong>, izvajalcu meritve, razvili tudi sistem prekrivanja rezultatov, ki je odgovore iz ankete in identificirane naprave prekrival med različnimi spletnimi mesti. Tako sta lahko ogla&scaron;evalec oziroma agencija ugotovila, kje se nahaja največ neke ciljne publike. </span></p>
+
+
+<p>&nbsp;</p>
+
+
+<!-- more -->
+
+
+<h2>MOSS v2</h2>
+
+
+<p>V letu 2008 je pogodba z Aragonom tekla h koncu. Pristopniki MOSS so se na seji odločili, da se pripravi razpis oziroma povpra&scaron;evanje. Za izpeljavo projekta se nas je javilo nekaj oseb. Bili smo tudi potrjeni s strani Pristopnikov, sam pa sem bil izglasovan za predsednika te komisije. Glavna zahteva Pristopnikov je bila "kontinuirano merjenje". Seveda pa niso želeli plačevati dosti več kot so plačevali do takrat.</p>
+
+
+<p><span>Na razpis se je javilo kar nekaj ponudnikov. Večinoma jih je bila tujih v sodelovanju s slovenskimi partnerji. Imel sem to čast, če lahko temu tako rečemo, da sem lahko prebral razlago vsakega posameznega sistema merjenja dosega spletnih mest. Za geeka, ki je nekoč programiral "spletno lestvico" in iz radovednosti iskal re&scaron;itve za izračun "dosega", je to bila to huda zabava, priznam.</span></p>
+
+
+<p><span>Izbrana je bila re&scaron;itev <strong>Gemiusa</strong> in <strong>Valicona</strong>. Sistem je bil zaključen, preizku&scaron;en (poglejte si, kaj vse meri </span><a href="http://www.gemius.com/"><span>Gemius</span></a><span>) in bil celo najbolj poceni. Slovenija je majhna, želeli smo kakovosten sistem, ki si ga lahko privo&scaron;či čimvečje &scaron;tevilo založnikov spletnih mest, tudi tistih majhnih. Menim, da nam je v tem smislu uspelo.</span></p>
+
+
+<p><span>Žal večina tistih, ki niso naročniki projekta, &scaron;e danes ne ve, da je od začetka 2009 MOSS čisto drugi sistem, dosti bolj napreden od MOSS-a v1, ki je bil itak že hudo bolj napreden od MOSS v0, ko so govorice tudi nastale. Žal opažam, da je med nevedneži tudi mnogo zaposlenih pri naročnikih/Pristopnikih MOSS-a.</span></p>
+
+
+<p><a href="http://moss-soz.si/si/o_raziskavi/metodologija/"><span>Razlaga iz predstavitve MOSS je nekoliko skopa</span></a><span>, zato je prav, da jo razložim ...</span></p>
+
+
+<p><span>MOSS v2 teče neprekinjeno, tako kot Google Analytics. Za razliko od slednjega se podatki zajemajo na manj&scaron;i fizični oddaljenosti od uporabnika spletnega mesta (podatke zajema slovenski strežnik). Ti se kasneje prenesejo v analizo na sedež podjetja Gemius. Lokacija strežnika igra vlogo pri upočasnjevanju spletnega mesta in pri količini zajetih podatkov. Odstopanja so sicer minimalna, ampak &scaron;e vedno so. Lokalni strežnik zajame nekaj več podatkov. </span></p>
+
+
+<p><span>Gemius ima čas do 15. v mesecu, da analizira izmerjene podatke in jih po&scaron;lje v pregled Strokovni komisiji. &Scaron;e pred tem vsi sodelujoči dobijo opozorilo, da naj preverijo svoje podatke v sistemu tehničnega merjenja (ki je podoben Google Analytics) in podajo svoje opombe. Občasno se zgodi, da kak&scaron;en založnik spremeni kaj na spletnem mestu in s tem zbri&scaron;e ali "pokvari" kodo za merjenje od MOSS v2. Zato je modro založnike redno opozarjati, da preverjajo svoje podatke že v tehničnem sistemu.</span></p>
+
+
+<p><span>MOSS v2 namreč sestavljajo tehnična meritev, telefonska anketa in spletna anketa. Tehnična meritev je podobna vsem ostalim na trži&scaron;ču. Razlika v tehnični meritvi med MOSS-om v1 in MOSS-om v2 je v tem, da zadnji ignorira naprave, ki ne sprejemajo </span><a href="http://en.wikipedia.org/wiki/Web_cookie"><span>pi&scaron;kotkov.</span></a><span> Teh je sicer dandanes zelo malo (</span><a href="http://www.ranking.si/en/rankings/cookies-acceptance-rate.html"><span>okoli 3 odstotke</span></a><span>). Dostop do tehnične meritve v realnem času imajo vsi naročniki (tako mali kot Pristopniki - tisti z več kot 8 % slovenskega dosega).</span></p>
+
+
+<p><span>Telefonska anketa se izvaja &scaron;estkrat letno. Z njo ugotavljajo predvsem &scaron;tevilo uporabnikov slovenskega spleta. Telefonska anketa ne služi kot merilni element, ampak kot zunanja spremenljivka, s katero se utežuje merjene podatke.</span></p>
+
+
+<p><span>Spletna anketa se izvaja neprekinjeno, pojavi se kot pop-up okno naključnim uporabnikom (pogoj je, da je ta uporabnik reden obiskovalec tistega spletnega mesta in da ankete že najmanj 3 mesece ni videl). Ta je zelo kratka, mislim, da vsebuje le pet sklopov, med njimi sta kraj bivanja in spol, občasno &scaron;e kak&scaron;no drugo ciljano vpra&scaron;anje. S temi anketami se ugotavlja struktura obiska spletnih mest. Ankete seveda niso vezane na spletno mesto, kjer je bila re&scaron;ena, ampak se rezultati uporabijo v sklopu celotnega MOSS-a. Recimo, če uporabnik re&scaron;i anketo na Playboy.si in je reden obiskovalec spletnega Dela, bo dodan v "ko&scaron;aro" uporabnikov tudi tistega spleti&scaron;ča. Seveda so vsi ti uporabniki &scaron;e vedno anonimni, nikoli se jih ne povezuje oziroma analizira kot osebe, temveč vedno kot skupine v odstotkih. </span></p>
+
+
+<p><span>Predstavniki Gemiusa so na več predstavitvah </span><a href="http://www.fdim.dk/downloads/method_of_calculating_real_users.pdf"><span>razložili, kako izmerijo točno &scaron;tevilo različnih naprav v določenem obdobju</span></a><span>, zato se v to ne bom poglabljal (na njihovem spletnem mestu je kar nekaj dokumentacije). V grobem: pre&scaron;tejejo največje &scaron;tevilo aktivnih pi&scaron;kotkov v določenem času na določenem spletnem mestu. Zatem pre&scaron;tejejo največje &scaron;tevilo aktivnih pi&scaron;kotkov za celotno merjeno omrežje (recimo temu "svet"). S pomočjo telefonske ankete dobijo s statističnimi metodami podatek o &scaron;tevilu spletnih uporabnikov v Sloveniji. Največje &scaron;tevilo pi&scaron;kotkov v "svetu" preslikajo na &scaron;tevilo ljudi proporcionalno na posamezno spletno mesto. Na koncu se dobi dokaj dober približek realnosti. Seveda gre za statistični podatek, kot je &scaron;lo tudi pri MOSS-u v1, ampak je v primeru MOSS v2 bolj točen.</span></p>
+
+
+<p><span>Obrnimo razlago, da bo &scaron;e ostalim razumljiva. Če je bilo v Sloveniji v novembru en milijon spletnih uporabnikov in v istem obdobju je bilo aktivnih 3 milijone pi&scaron;kotkov, neko spletno mesto pa je obiskalo 1 milijon pi&scaron;kotkov iz iste "ko&scaron;are", je to spletno mesto potemtakem imelo 1/3 obiskovalcev slovenskega spleta. To pomeni, da je v novembru to spletno mesto obiskalo 333.333 slovenskih uporabnikov. Seveda hudo poenostavljam zaradi razumljivosti. Sistem je nekoliko bolj kompleksen in vsebuje dodatne statistične parametre, ki so skupni za vsa merjena mesta.</span></p>
+
+
+<p><span>Pomembna pri vsem tem je primerljivost dosega vseh spletnih mest, ki sodelujejo v raziskavi. Tudi, če predpostavimo, da je &scaron;tevilo slovenskih spletnih uporabnikov popolnoma zgre&scaron;eno, se pozicije na lestvici dosega ne spremenijo, enako velja tudi za razmerje v razlikah dosegov posameznih spletnih mest.</span></p>
+
+
+<p><span>MOSS v2 omogoča Pristopnikom in tistim, ki kupijo podatke analizo prekrivanj, časovnice in &scaron;e en kup "čarovnij" s podatki. Ogla&scaron;evalec lahko s temi orodji zelo precizno določi budget, ki ga potrebuje za pokrivanje svoje ciljne publike, kje mora ogla&scaron;evati, kdaj, in podobno. Res fascinantna zadeva.</span></p>
+
+
+<p><span>Mimogrede, kot del javnih objav pri MOSS-u v2 ni samo </span><a href="http://moss-soz.si/"><span>http://moss-soz.si</span></a><span>, ampak tudi precej uporabno spletno mesto </span><a href="http://www.ranking.si/"><span>http://www.ranking.si/</span></a><span>, kjer lahko ugotovite za večino slovenskih spletnih obiskovalcev, katere brskalnike uporabljajo, katere mobilne telefone, tablice, ... Zanimivo, da teh podatkov ponavadi noben ne citira, ampak raje prevaja ameri&scaron;ke članke, kjer pi&scaron;e, da je Chrome prehitel Firefox in podobne zadeve... </span><a href="http://www.ranking.si/en/rankings/web-browsers-groups.html"><span>V Sloveniji to vsekakor ne velja.</span></a><br /> <a href="http://www.ranking.si/en/rankings/web-browsers-groups.html"></a><br /> <a href="http://www.ranking.si/en/rankings/web-browsers-groups.html"></a><br /> <a href="http://www.ranking.si/en/rankings/web-browsers-groups.html"></a></p>
+
+
+<h2>Zakaj je MOSS bolj&scaron;i od Google Analytics?</h2>
+
+
+<p>Tukaj dejansko primerjamo hru&scaron;ke in <strong>jabolčno pito</strong>. Prvi so sadeži, drugo vsebuje sadje, čisto eno drugo sadje, ki pa raste tako kot prvo na drevesu ... ampak, dajmo vseeno.</p>
+
+
+<p><span><strong>Google Analytics</strong> (GA) ne meri dosega ljudi, ampak dosega naprav (pi&scaron;kotkov). Tehnična meritev MOSS (</span><a href="http://www.gemius.com/pl/products_traffic_about"><span>Gemius Traffic</span></a><span>) meri obisk naprav (pi&scaron;kotkov), ampak tehnična meritev je le del projekta MOSS in ni njegov poglavitni del. Je le eno od orodij, zelo pomembno, ampak le eno od njih. </span></p>
+
+
+<p><span>MOSS in GA zajemata podake tudi na nekoliko drugačne načine. Prvi meri vse naprave v določenem "svetu" (torej Sloveniji), drugi pa vse naprave na nekem spletnem mestu. Tudi zaradi tega pride do manj&scaron;ih odstopanj že pri surovih tehničnih meritvah.</span></p>
+
+
+<p><span>MOSS ne meri obiskovalcev, ki niso v Sloveniji (tehnična meritev vsebuje ta podatek, doseg pa ne). Spletno mesto, ki ima vsebino, ki privlači uporabnike ne glede na jezik (video, fotografije) ima lahko po MOSS meritvi hudo manj&scaron;o &scaron;tevilko dosega, kot je ta prikazana v GA. V tem primeru se se&scaron;teje manko neslovenskih uporabnikov in manko preslikave iz naprav v osebe.</span></p>
+
+
+<p><span>Končni podatki pri GA so tehnične narave (namenjeni spletnim razvojnikom in urednikom pri ugotavljanju, kaj počnejo dobro in česa ne), medtem ko so končni podatki projekta MOSS namenjeni marketing oddelkom podjetij.</span></p>
+
+
+<p><span>Moram pa tukaj poudariti, da je GA v zadnji verziji (tisti, ki jo morate zavestno aktivirati) bolj napredna aplikacija od <strong>Gemius Traffic</strong> in določeni parametri meritve so nad trenutnimi sposobnostmi sistema, ki ga koristi MOSS.</span></p>
+
+
+<p><span>Zanimiva posledica MOSS-a je tudi "<strong>postavitev na zemljevid</strong>". Tisti javni spisek je kot nek meni spletnih mest, ki so na razpolago za ogla&scaron;evanje. Seveda tukaj igra veliko vlogo doseg, ki pa je manj&scaron;a &scaron;tevilka od dosega naprav, ki ga kaže GA. Pogosto pri ljudeh, ki pravijo, da je podatek od GA bolj&scaron;i, gre le za psiholo&scaron;ki občutek, da je večja &scaron;tevilka vedno bolj&scaron;a, ne glede na njen pomen. Temu se ne moremo upreti. Če gledamo na neko cifro, ki jo pokažemo ali povemo nekomu, je GA zmagovalec, ampak ... </span></p>
+
+
+<p><span>GA ne ponuja <strong>strukturiranja populacije</strong>, razen tehnično merljivih podatkov, pa &scaron;e teh ne zna primerjati in/ali prekrivati med različnimi spletnimi mesti. Ogla&scaron;evalca ne zanima, koliko Firefox uporabnikov je na va&scaron;em spletnem mestu, bolj jih zanima, koliko žensk med 20 in 40 let lahko zacilja s svojim oglasom pri vas. V tem primeru pride MOSS do izraza.</span></p>
+
+
+<p><span>MOSS je <strong>odlično orodje za ogla&scaron;evalce</strong> in agencije, če seveda i&scaron;čejo najbolj&scaron;e lokacije za plasiranje čimvečjega &scaron;tevila efektivnih oglasov po čim nižji ceni. To je seveda v teoriji. :)</span></p>
+
+
+<p><span><strong>Je MOSS vreden svojega denarja?</strong> Dokler lahko stro&scaron;ek upravičite s prodajo oglasnega prostora, vsekakor. Prodaja pa ni odvisna samo od va&scaron;ega dosega, ampak tudi od sposobnosti va&scaron;ih tržnikov in stanja na trgu. Trenutno stanje ni med najbolj veselimi, večino pa pobere par velikih igralcev, ki predvsem izkori&scaron;čajo doseg iz drugih področij &hellip; ampak to je debata za kdaj drugič.</span></p>
+
+
+<p><span><strong>Je MOSS najbolj&scaron;e, kar obstaja na trži&scaron;ču?</strong> Ne. V času "družabnih omrežij" je za svetom. Dalo bi se &scaron;e marsikaj nadgraditi, ampak ko ima&scaron; projekt, ki deluje kot mala državica, kjer mora vsak predlog skozi demokratični proces, kjer mora "parlament" (glasovanje Pristopnikov) najprej ugotoviti vse, kar si želi v tem predlogu, sestaviti komisijo, komisija mora pripravi razpis, izbrati najbolj&scaron;o ponudbo, ta mora v potrditev nazaj v "parlament", in če je potrjeno, se komisija spet pogaja oz. skrbi za izvedbo projekta &hellip; ali pa ima to čez spet druga komisija... skratka, zadeve lahko trajajo. :)</span></p>
+
+
+<p><span>Je pa MOSS trenutno najbolj&scaron;e, kar se da dobiti za analizo obiskovalcev v slovenskem delu svetovnega spleta.</span></p>
+
+
+<p>&nbsp;</p>
+
+
+<h2>Disclaimer</h2>
+
+
+<p>Zgornje pisanje je skupek mojega znanja, ki izhaja iz izku&scaron;enj in javne dokumentacije. Pod nobenim pogojem ne trdim, da je zgoraj napisano objektivno. Kot nekdo, ki je več let aktivno sodeloval v projektu, sem pristranski. To je moj pogled na zadevo in moja razlaga, ki se sku&scaron;a izogibati objavi poslovnih skrivnosti. Objavil sem le tisto, kar je splo&scaron;no znano in kar je bilo tudi sicer objavljeno, ampak zelo slabo razloženo.</p>
+
+
+<p><span>Izogibal sem se tudi izpostavljanju lestvične vizije MOSS-a, ki mojem mnenju ni ravno najbolj&scaron;a, ampak ker trenutno ni bolj&scaron;e re&scaron;itve, se mi zdi brezveze zgubljati besede okoli tega. Nekaj ni napačno, dokler ne obstaja bolj&scaron;e re&scaron;itve, pa četudi ti obstoječa ni v&scaron;eč ... Ampak upam, da bom nekoč lahko (vsaj) pisal o bolj&scaron;i re&scaron;itvi od lestvičenja spletnega dosega.</span></p>
+
+
+<p><span>V MOSS sem bil nekje od začetka prave merive, torej MOSS v1 (žal se leta ne spomnim), do februarja 2011, ko sem odstopil zaradi menjave delovnega mesta (nova firma ni bila Pristopnik in po pravilih nisem mogel obdržati svoje vloge v projektu). Če se je v projektu vmes kaj izbolj&scaron;alo, kar sam nisem opazil, se opravičujem. Cilj sestavka je bil razložiti magijo za projektom MOSS in z znanjem zanikati, da gre za kakr&scaron;no koli ... magijo. :)</span></p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Sortiraj Facebook po lastni želji!]]></title>
+    <link href="http://mclion.github.com/sortiraj-facebook-po-lastni-zelji/"/>
+    <updated>2011-11-15T00:00:00+01:00</updated>
+    <id>http://mclion.github.com/sortiraj-facebook-po-lastni-zelji</id>
+    <content type="html"><![CDATA[<p>
+<img src="/images/posterous/2011/11/34349863-sprememba%20izpisa.png">
+</p>
+
+
+<p>Facebook je pred približno enim mesecem uvedel spremembe v načinu izpisa zgodb na zidovih uporabnikov. Kot vsaka sprememba, je tudi ta mnoge razjezila ...&nbsp;</p>
+
+
+<p />
+<div>Razvijalci na Facebooku so se odločili, da je bolj pomembno prikazovati zgodbe (objave prijateljev in drugih strani) urejene po pomembnosti in ne po času. &Scaron;e najhuje je, da pomembnost določajo po nedokumentiranih parametrih, ki jih spreminjajo iz tedna v teden.&nbsp;
+<p />
+<div>Z eksperimentiranjem so nekateri blogerji ugotovili, da je en od parametrov tudi vir iz kjer je bil vpis objavljen. Prednost ima seveda <a href="http://facebook.com" target="_blank">facebook.com</a>.&nbsp;</div>
+<p />
+<div>Osebno si želim na svojem zidu tako "notranje" kot "zunanje" zgodbe in rad bi videl tudi tiste, ki ne dobijo nobenega "v&scaron;ečka" ali komentarja. Ne zaupam najbolj programju na Facebooku, ko določa&nbsp;kaj je meni bolj pomembno in kaj ni, <a href="http://edgerank.net/" target="_blank">čeprav gre v ozadju le za enačbe</a>. Mnogi so podobnega mnenja kot jaz in očitno dovolj glasni, da je Facebook dodal možnost nastavitve sortiranja objav na va&scaron;em zidu. To je prvič, da so pri Facebooku stopili korak nazaj in omogočili spet nekaj kar so povozili z zadnjo "nadgradnjo".</div>
+<p />
+<div>Tisti, ki uporabljate Facebook v angle&scaron;čini ste te dni&nbsp;dobili eno <strong>novo opcijo</strong>.<strong> <a href="http://www.facebook.com/help?faq=225283394204551" target="_blank">Na vrhu izpisa zgodb se je pojavila na desni strani opcija SORT</a></strong> (poglej priloženo sliko). Če kliknete nanjo, se vam bo odprl meni, kjer lahko izberete novo sortiranje, kjer usodo prepu&scaron;čate Facebooku, ali pa časovno sortiranje, kjer vidite pač najnovej&scaron;e vpise. Osebno imam raje to opcijo in upam, da kdaj postane privzeta, saj se nemalokdaj dogaja, da se moje objave pojavijo na zidovih nekaterih <a href="http://mclion.posterous.com/imas-0-prijateljev">Facebook frendov</a> tudi &scaron;ele 6 dni po tem, ko sem jih objavil ...</div>
+<p />
+<div>Če imate Facebook v angle&scaron;čini in opcije &scaron;e ni, potrpite &scaron;e kak&scaron;en dan in se bo pojavila. S sloven&scaron;čini pa bo verjetno vidna kak&scaron;en teden za tem, ko bo aktivirana za vse Facebook uporabnike in jo bodo prostovoljci prevedli, glasovali o prevodu in najbolj&scaron;ega potrdili za uporabo ...</div>
+<p />
+<div>Če se vam mudi, lahko začasno <a href="https://www.facebook.com/settings?tab=account&amp;section=language&amp;t" target="_blank">preklopite jezik vmesnika v "English (US)"</a>, vklopite drugačno sortiranje objav in nazaj nastavite jezik na sloven&scaron;čino ...</div>
+</div>
+
+]]></content>
+  </entry>
+  
+</feed>

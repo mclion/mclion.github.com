@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Kategorija: facebook | McLion's mindstream]]></title>
+  <link href="http://mclion.github.com/blog/categories/facebook/atom.xml" rel="self"/>
+  <link href="http://mclion.github.com/"/>
+  <updated>2013-03-23T23:51:41+01:00</updated>
+  <id>http://mclion.github.com/</id>
+  <author>
+    <name><![CDATA[Marko Milost - McLion]]></name>
+    <email><![CDATA[marko@mclion.eu]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Sortiraj Facebook po lastni želji!]]></title>
+    <link href="http://mclion.github.com/sortiraj-facebook-po-lastni-zelji/"/>
+    <updated>2011-11-15T00:00:00+01:00</updated>
+    <id>http://mclion.github.com/sortiraj-facebook-po-lastni-zelji</id>
+    <content type="html"><![CDATA[<p>
+<img src="/images/posterous/2011/11/34349863-sprememba%20izpisa.png">
+</p>
+
+
+<p>Facebook je pred približno enim mesecem uvedel spremembe v načinu izpisa zgodb na zidovih uporabnikov. Kot vsaka sprememba, je tudi ta mnoge razjezila ...&nbsp;</p>
+
+
+<p />
+<div>Razvijalci na Facebooku so se odločili, da je bolj pomembno prikazovati zgodbe (objave prijateljev in drugih strani) urejene po pomembnosti in ne po času. &Scaron;e najhuje je, da pomembnost določajo po nedokumentiranih parametrih, ki jih spreminjajo iz tedna v teden.&nbsp;
+<p />
+<div>Z eksperimentiranjem so nekateri blogerji ugotovili, da je en od parametrov tudi vir iz kjer je bil vpis objavljen. Prednost ima seveda <a href="http://facebook.com" target="_blank">facebook.com</a>.&nbsp;</div>
+<p />
+<div>Osebno si želim na svojem zidu tako "notranje" kot "zunanje" zgodbe in rad bi videl tudi tiste, ki ne dobijo nobenega "v&scaron;ečka" ali komentarja. Ne zaupam najbolj programju na Facebooku, ko določa&nbsp;kaj je meni bolj pomembno in kaj ni, <a href="http://edgerank.net/" target="_blank">čeprav gre v ozadju le za enačbe</a>. Mnogi so podobnega mnenja kot jaz in očitno dovolj glasni, da je Facebook dodal možnost nastavitve sortiranja objav na va&scaron;em zidu. To je prvič, da so pri Facebooku stopili korak nazaj in omogočili spet nekaj kar so povozili z zadnjo "nadgradnjo".</div>
+<p />
+<div>Tisti, ki uporabljate Facebook v angle&scaron;čini ste te dni&nbsp;dobili eno <strong>novo opcijo</strong>.<strong> <a href="http://www.facebook.com/help?faq=225283394204551" target="_blank">Na vrhu izpisa zgodb se je pojavila na desni strani opcija SORT</a></strong> (poglej priloženo sliko). Če kliknete nanjo, se vam bo odprl meni, kjer lahko izberete novo sortiranje, kjer usodo prepu&scaron;čate Facebooku, ali pa časovno sortiranje, kjer vidite pač najnovej&scaron;e vpise. Osebno imam raje to opcijo in upam, da kdaj postane privzeta, saj se nemalokdaj dogaja, da se moje objave pojavijo na zidovih nekaterih <a href="http://mclion.posterous.com/imas-0-prijateljev">Facebook frendov</a> tudi &scaron;ele 6 dni po tem, ko sem jih objavil ...</div>
+<p />
+<div>Če imate Facebook v angle&scaron;čini in opcije &scaron;e ni, potrpite &scaron;e kak&scaron;en dan in se bo pojavila. S sloven&scaron;čini pa bo verjetno vidna kak&scaron;en teden za tem, ko bo aktivirana za vse Facebook uporabnike in jo bodo prostovoljci prevedli, glasovali o prevodu in najbolj&scaron;ega potrdili za uporabo ...</div>
+<p />
+<div>Če se vam mudi, lahko začasno <a href="https://www.facebook.com/settings?tab=account&amp;section=language&amp;t" target="_blank">preklopite jezik vmesnika v "English (US)"</a>, vklopite drugačno sortiranje objav in nazaj nastavite jezik na sloven&scaron;čino ...</div>
+</div>
+
+]]></content>
+  </entry>
+  
+</feed>

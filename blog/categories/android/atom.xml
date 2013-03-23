@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Kategorija: android | McLion's mindstream]]></title>
+  <link href="http://mclion.github.com/blog/categories/android/atom.xml" rel="self"/>
+  <link href="http://mclion.github.com/"/>
+  <updated>2013-03-23T23:51:41+01:00</updated>
+  <id>http://mclion.github.com/</id>
+  <author>
+    <name><![CDATA[Marko Milost - McLion]]></name>
+    <email><![CDATA[marko@mclion.eu]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Dobil sem Jelly Bean!]]></title>
+    <link href="http://mclion.github.com/dobil-sem-jelly-bean/"/>
+    <updated>2012-07-25T00:00:00+02:00</updated>
+    <id>http://mclion.github.com/dobil-sem-jelly-bean</id>
+    <content type="html"><![CDATA[<p>Končno mi je Google nadgradil Androida na <strong>Jelly Bean</strong>. Bil sem kar neučakan, čeprav sem verjetno med prvimi v Sloveniji z zadnjo verzijo androida. Zanimalo me je predvsem kako se v Sloveniji izkažeta novi Google Voice Search in Google Now ...</p>
+
+
+<p>Včeraj sem preko vsemogočnih radijskih zvez dobil nadgradnjo mojega NEXUS S telefona na Jelly Bean oz.<strong> Android 4.1</strong>. Hitrih nadgradenj so deležne samo NEXUS naprave, ostali pa morajo počakati, da se proizvajalci odločijo, če se splača podalj&scaron;ati življenjsko dobo aparata in kdaj bodo to storili. Razlog zakaj va&scaron; aparat "ne NEXUS" aparat ne bo doživel nadgradnje je torej pogosto predvsem marketin&scaron;ki.</p>
+
+
+<p>Nova verzija prina&scaron;a kar nekaj googlove magije, ki odlično deluje v Ameriki, Kako se pa obnese pri nas? Moram priznati, da dokaj klavrno, približno tako slabo, kot se obnese Applov iOS. Smo pač majhni. Ampak vseeno, pojdimo po vrsti.</p>
+
+
+<p><span style="font-size: medium;"><br /></span></p>
+
+
+<h2>Uporabni&scaron;ki vmesnik</h2>
+
+
+<p>Malenkost je polep&scaron;an, določene neumnosti so odstranjene. Nadvse me navdu&scaron;uje nekaj, kar ima iOS že od začetka in to je avtomatično razporejanje ikon, ko eno premika&scaron; po ekranu. To me je na Androidu hudo jezilo. Sedaj mi ni potrebno več vnaprej pripravljati prostora za neko ikono ali widget. Yeey!</p>
+
+
+<p>Razveselila me je tudi nova ikonca v galeriji - <strong>kanta za smeti</strong>. Za brisanje slik je sedaj ta ikona ves čas vidna in lahko po fotografiranju neumnosti takoj pobri&scaron;em. Prej si za brisanje moral klikniti gumb za meni in tam izbrati opcijo Delete. Končno.</p>
+
+
+<p>Bolj&scaron;i je tudi način za izbiro privzete aplikacije za neko povezavo ali akcijo, je bolj pregleden, čeprav zahteva klik več.</p>
+
+
+<p>Takih malenkosti je malo morje in so razložene na Android 4.1 changelog, kjer si jih lahko v miru preberete.</p>
+
+
+<p><span style="font-size: medium;"><br /></span></p>
+
+
+<h2>Uporabni&scaron;ka izku&scaron;nja</h2>
+
+
+<p>Google je večkrat izpostavil, da je Jelly Bean "more buttery", kar bi po slovensko pomenilo, da je bolj maslen &hellip; Morda bi moral to prevesti bolj pomensko ... Teče "kot po maslu", tako. :)</p>
+
+
+<p>Uporabni&scaron;ki vmesnik je dejansko hitrej&scaron;i in to kljub temu, da pri meni teče starem in že hudo obremenjenem Nexus S telefonu, ki poganja &scaron;e kup programov v ozadju, ki jih "nujno rabim", ampak se ne spomnim več kaj počnejo.</p>
+
+
+<p>V tej verziji so dodali grafične prehode med programi, animacijo ob fotografiranju in povsod drugod, kjer je doslej uporabnik strmel v enobarven (bel ali črn) ekran medtem, ko je telefon procesiral podatke. To pomeni, da so <strong>uporabili grafični procesor</strong> (GPU) v telefonu v času, ko je glavni procesor (CPU) pod največjim stresom in ga tako razbremenili, uporabnika pa s tem zamotijo. Nekaj takega počne Apple v iOS skoraj od samega začetka. Trik torej ni novost - če uporabnika zamoti&scaron; med čakanjem, se mu zdi, da sploh ne čaka. Priznam, ta malenkost me je prav razveselila.</p>
+
+
+<p><strong>Bolj hiter</strong> je tudi vmesnik za telefoniranje, tudi pri mojem ogromnem telefonskem imeniku (več kot 1000 kontaktov). Prej sem zgubljal potrpljenje pri čakanju, da mi izpi&scaron;e spisek zadnjih klicev, sedaj pa se to zgodi v par sekundah.</p>
+
+
+<p>&nbsp;</p>
+
+
+<h2>Google Voice Search</h2>
+
+
+<p>Igral sem se v angle&scaron;čini, ker slovensko ne zna. Verjamem, da je za ameri&scaron;ko trži&scaron;če hudo uporabno, saj zna ogromno podatkovno bazo znanja povezati z navadami uporabnika telefona in s pomočjo grafa znanja (Knowledge Graph) ponuditi tisto, kar uporabnika zanima. Razume stanje cest, vreme, &scaron;portne rezultate in podatke o restavracijah in razne zanimivosti (recimo vi&scaron;ino hriba).</p>
+
+
+<p><strong>V Sloveniji se ne izkaže najbolje</strong>. Baza restavracij in druge ponudbe je zelo skopa in če vpis obstaja, vsebuje ponavadi le naziv in lokacijo, včasih celo napačno (ker je s.p. registriran drugod).</p>
+
+
+<p>Sicer ta verzija bolje razume mojo polomljeno angle&scaron;čino (sem Primorec), kar mu &scaron;tejem v plus, ampak kaj, ko je baza lokalnega znanja zelo zelo majhna. Vreme mi pokaže in ve, da sem v Kopru, ampak temperature prikaže po ameri&scaron;ko. Fahrenheitovih stopinj ne znam na pamet pretvarjat &hellip;  Obstaja pa finta. Če ga vpra&scaron;am "show me the weather", mi pokaže rezultat iz Google.com, ki pa je v stopinjah Celzija.</p>
+
+
+<p>Google Voice Search je prav lu&scaron;tna igrača. Žal za nas skoraj popolnoma neuporabna, tudi recimo za klicanje kontaktov &hellip; Razen za tiste, ki znate imena svojih prijateljev spačiti po angle&scaron;ko in imate ob tem &scaron;e obilico sreče.</p>
+
+
+<p>Zadevo sem preskusil &scaron;e v italijan&scaron;čini. Niti vremena mi ni pokazalo. Sicer je pokazalo iskalnik z rezultati povezanimi z vremenom, ampak nič neposrednega. V italijan&scaron;čini deluje samo usmerjanje po cesti.</p>
+
+
+<p>&nbsp;</p>
+
+
+<!-- more -->
+
+
+<h2>Google Now</h2>
+
+
+<p>To je najbolj mindblowing zadeva &hellip; v Ameriki. :) <strong>Googlov iskalnik brez iskanja</strong>, ker Google že ve.</p>
+
+
+<p>Če se spomnite komplikacij pred nekaj meseci, ko je Google združil vse pravilnike v enega skupnega in so nekateri paničarili? No, to je posledica tega združevanja. Tisto, kar je Google prej vedel, sedaj odkrito prizna in nam pokaže.</p>
+
+
+<p>Google Now naj bi glede na tvojo lokacijo in navade vedel kaj namerava&scaron; storiti in ti predlagal re&scaron;itve. Zna te usmeriti po manj prometni cesti do službe in domov, prikazati vozni red vlakov in letal, preračunati valute in prevesti tekst. Pri nas pride do izraza pot do službe in domov, na&scaron;ih voznih redov pa ne pozna. Sicer ne vem, če ima dostop do podatkov o obremenitvah cest. Verjetno ne.</p>
+
+
+<p>Me je <strong>presenetil</strong>, priznam. Zjutraj mi je predlagal pot do službe. S tem, da sem kot službo nekoč označil pisarno, ki je 100 m stran od trenutne. Ta nove mu nisem nikoli določil, ampak se je naučil preko GPS-a oz. WiFi omrežij na katere se je priklopil moj telefon. Google pač ve. Kmalu zatem me je ponovno presenetil, ampak predvsem z WTF predlogom. Namreč okoli 13h mi je predlagal, da naj se peljem do koprskih gasilcev. Ne vem iz kje je to potegnil, ker tega "sestanka" nisem imel v koledarju ne nikjer drugje, je pa pred točno enim tednom bila na tej lokaciji tiskovna konferenca (na kateri sicer nisem bil, sem pa dobil povabilo v službeni email, ki teče na Google Apps). Mogoče je bil tam datum zapisan čudno in ker sloven&scaron;čine ne razume najbolje &hellip; No, se bo že naučil. Počutim se kot, ko gledam otroka, ki se razvija in prihaja do bizarnih napačnih ugotovitev.</p>
+
+
+<p>&nbsp;</p>
+
+
+<h2>Podpora sloven&scaron;čini in Sloveniji</h2>
+
+
+<p>Celoten vmesnik je preveden tudi v sloven&scaron;čino. Ne vem, če je bilo tako tudi prej, saj sem ga tokrat prvič preskusil. Ni mi v&scaron;eč. Sistem podpira črnovalnike, ampak slovenskega (&scaron;e) ni, je pa hrva&scaron;ki. Spoznave govora za na&scaron; jezik seveda ni, je pa za latin&scaron;čino recimo &hellip; Verjetno obstaja razlog za njeno podporo. Bi pa hudo zameril, če razvijejo spoznavo govora za klingon&scaron;čino prej kot za sloven&scaron;čino.</p>
+
+
+<p>Za tipkovnico sem si zato pustil <strong>Swiftkey 3</strong>, ki vsebuje tudi slovenski slovar.</p>
+
+
+<p>Kar nekaj kup Googlovega programja je neuporabnega, ker se v Sloveniji da preko trgovine Play kupiti le programe.</p>
+
+
+<p>&Scaron;e vedno ne dela <strong>navigacija</strong>. V Kopru mi jo sicer ponuja, ker sem fizično blizu Italije, ampak čim ugotovi, da mora po na&scaron;em ozemlju, me opozori, da ni podprto in zaključi program. Mora bit kak&scaron;nen pravni razlog. Ni mi v&scaron;eč. Sploh ker mi Google Now ponuja pot do neke lokacije in ob kliku mi sporoči, da mi ne more pokazati poti. Sicer zadeva deluje, ko ne ponudi navigacije, ampak samo prikaz na mapi &hellip; Življenje ob meji je stresno. :)</p>
+
+
+<p>&nbsp;</p>
+
+
+<h2>Ugotovitve</h2>
+
+
+<p>Jelly Bean je v splo&scaron;nem tudi marketin&scaron;ka nadgradnja. Googlovi servisi so bolje integrirani vanj, nadgradnja doda morje novih ikon za razne nakupe, ki pa pri nas (&scaron;e) ne delujejo. En tak primer je nakup pesmi. Zadevo so poenostavili, da je pravi užitek videti (kako bi lahko delala). Obstaja namreč en widget, ki ob kliku ugotovi katero pesem poslu&scaron;a&scaron; (kot npr. Soundhound) in ti ponudi možnost nakupa le-te. Seveda nakup dela samo v ZDA. Podobno je s knjigami in filmi. Samo v ZDA.</p>
+
+
+<p>Vsekakor se telefon splača nadgraditi že zaradi pohitritve vmesnika, ki me končno ne spravlja ob živce &hellip; Ker me zamotijo animacije. :)</p>
+
+
+<p>
+<img src="/images/posterous/2012/07/43217873-Screenshot_2012-07-24-20-57-48.png">
+<img src="/images/posterous/2012/07/43217879-Screenshot_2012-07-24-21-40-41.png">
+<img src="/images/posterous/2012/07/43217884-Screenshot_2012-07-24-23-24-04.png">
+<img src="/images/posterous/2012/07/43217889-Screenshot_2012-07-25-17-31-04.png">
+<img src="/images/posterous/2012/07/43217874-Screenshot_2012-07-24-20-57-59.png">
+<img src="/images/posterous/2012/07/43217880-Screenshot_2012-07-24-21-53-52.png">
+<img src="/images/posterous/2012/07/43217885-Screenshot_2012-07-25-00-07-33.png">
+<img src="/images/posterous/2012/07/43217890-Screenshot_2012-07-25-17-32-37.png">
+<img src="/images/posterous/2012/07/43217876-Screenshot_2012-07-24-21-10-27.png">
+<img src="/images/posterous/2012/07/43217881-Screenshot_2012-07-24-21-54-01.png">
+<img src="/images/posterous/2012/07/43217886-Screenshot_2012-07-25-00-19-00.png">
+<img src="/images/posterous/2012/07/43217877-Screenshot_2012-07-24-21-19-07.png">
+<img src="/images/posterous/2012/07/43217882-Screenshot_2012-07-24-22-58-13.png">
+<img src="/images/posterous/2012/07/43217887-Screenshot_2012-07-25-17-28-12.png">
+<img src="/images/posterous/2012/07/43217878-Screenshot_2012-07-24-21-19-12.png">
+<img src="/images/posterous/2012/07/43217883-Screenshot_2012-07-24-23-12-42.png">
+<img src="/images/posterous/2012/07/43217888-Screenshot_2012-07-25-17-28-30.png">
+</p>
+
+]]></content>
+  </entry>
+  
+</feed>
