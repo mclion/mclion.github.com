@@ -27,8 +27,8 @@ email: marko@mclion.eu
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
 root: /
-#permalink: /:year/:month/:day/:title/
-permalink: /:title/
+permalink: /:year/:month/:day/:title/
+#permalink: /:title/
 source: source
 destination: public
 plugins: plugins
