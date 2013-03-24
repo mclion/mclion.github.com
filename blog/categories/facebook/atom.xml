@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Kategorija: facebook | McLion's mindstream]]></title>
-  <link href="http://mclion.github.com/blog/categories/facebook/atom.xml" rel="self"/>
-  <link href="http://mclion.github.com/"/>
-  <updated>2013-03-24T02:42:36+01:00</updated>
-  <id>http://mclion.github.com/</id>
+  <link href="http://mclion.eu/blog/categories/facebook/atom.xml" rel="self"/>
+  <link href="http://mclion.eu/"/>
+  <updated>2013-03-24T17:14:27+01:00</updated>
+  <id>http://mclion.eu/</id>
   <author>
     <name><![CDATA[Marko Milost - McLion]]></name>
     <email><![CDATA[marko@mclion.eu]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Sortiraj Facebook po lastni želji!]]></title>
-    <link href="http://mclion.github.com/2011/11/15/sortiraj-facebook-po-lastni-zelji/"/>
+    <link href="http://mclion.eu/2011/11/15/sortiraj-facebook-po-lastni-zelji/"/>
     <updated>2011-11-15T00:00:00+01:00</updated>
-    <id>http://mclion.github.com/2011/11/15/sortiraj-facebook-po-lastni-zelji</id>
+    <id>http://mclion.eu/2011/11/15/sortiraj-facebook-po-lastni-zelji</id>
     <content type="html"><![CDATA[<p>
 <img src="/images/posterous/2011/11/34349863-sprememba%20izpisa.png">
 </p>
