@@ -4,7 +4,7 @@
   <title><![CDATA[Kategorija: internet | McLion's mindstream]]></title>
   <link href="http://mclion.github.com/blog/categories/internet/atom.xml" rel="self"/>
   <link href="http://mclion.github.com/"/>
-  <updated>2013-03-24T02:37:32+01:00</updated>
+  <updated>2013-03-24T02:42:36+01:00</updated>
   <id>http://mclion.github.com/</id>
   <author>
     <name><![CDATA[Marko Milost - McLion]]></name>
@@ -33,6 +33,8 @@
 <p>Prvi problem je bil prenos šablone (template) bloga. Na tisto na Posterousu sem bil že navezan. Decembra sem jo osvežil z novimi fonti in spremenil nekaj elementov. Kar je zahtevalo kar nekaj kopanja po CSS-ju ene od dostopnih šablon. Par tednov zatem so mi sporočili, da ukinjajo Posterous. Počutil sem se uspešen kot sam Sizif!</p>
 
 <p>Ok, priznam. Ni se mi dalo učiti SASS samo zato, da prenesem blog. Zato sem začasno zadeve poflikal z navadnim CSS. "Za sedaj bo, potem pa bom popravil … Ko bom imel kaj več časa in volje." Tako ja. Lažem si. To je prvi korak do uspeha (v razvoju). Laži in to javno priznaj. Morda sem kaj zamešal.</p>
+
+<p>Največ časa je šlo v prenašanju slik, saj Posterous vsebuje galerije. Nekaj vpisov sem zato ročno uredil (dopisal slike vanje), nekaj sem jih pobrisal. Zgubil sem en vpis, ki je imel vključeno eno pesem. Zdelo se mi je preveč dela za en vpis iz leta 2009. Moram še urediti en spodoben prikaz galerij (trenutno se slike prikazujejo ena pod drugo) … Dovolj.</p>
 
 <p>No, to je novi blog na novi lokaciji in v novi obliki, ki spominja na staro. S časom bom dodal ostale malenkosti, sedaj je poglavitno, da dela. Posterous bodo ukinili že konec aprila.</p>
 
