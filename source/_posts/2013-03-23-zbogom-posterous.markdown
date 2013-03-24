@@ -21,6 +21,8 @@ Prvi problem je bil prenos šablone (template) bloga. Na tisto na Posterousu sem
 
 Ok, priznam. Ni se mi dalo učiti SASS samo zato, da prenesem blog. Zato sem začasno zadeve poflikal z navadnim CSS. "Za sedaj bo, potem pa bom popravil … Ko bom imel kaj več časa in volje." Tako ja. Lažem si. To je prvi korak do uspeha (v razvoju). Laži in to javno priznaj. Morda sem kaj zamešal.
 
+Največ časa je šlo v prenašanju slik, saj Posterous vsebuje galerije. Nekaj vpisov sem zato ročno uredil (dopisal slike vanje), nekaj sem jih pobrisal. Zgubil sem en vpis, ki je imel vključeno eno pesem. Zdelo se mi je preveč dela za en vpis iz leta 2009. Moram še urediti en spodoben prikaz galerij (trenutno se slike prikazujejo ena pod drugo) … Dovolj.
+
 No, to je novi blog na novi lokaciji in v novi obliki, ki spominja na staro. S časom bom dodal ostale malenkosti, sedaj je poglavitno, da dela. Posterous bodo ukinili že konec aprila.
 
 ***Naslednjič predstavim moj najbolj uspešen test in vas vprašam kaj naj storim kot naslednji korak …***
