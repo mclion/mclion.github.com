@@ -268,7 +268,7 @@ h3,#search-button {border-color: #333333;}
 
 
 
-.entry-content .title a, .entry-title, .entry-title a, .entry-title a:hover, h2, h2 a, h2.entry-title, h2.entry-title a, h3, h4, h5 {font-family: 'Oswald', sans-serif;font-weight: bold;font-size:150%;}
+.entry-content .title a, .entry-title, .entry-title a, .entry-title a:hover, h2, h2 a, h2.entry-title, h2.entry-title a, h3, h4, h5 {font-family: 'Oswald', sans-serif;font-weight: bold;font-size:120%;}
 
 /* Updates for octopress */
 .meta, .meta a {color: #FFFFFF; width: 100%}
