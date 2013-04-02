@@ -4,7 +4,7 @@
   <title><![CDATA[Kategorija: internet | McLion's mindstream]]></title>
   <link href="http://mclion.eu/blog/categories/internet/atom.xml" rel="self"/>
   <link href="http://mclion.eu/"/>
-  <updated>2013-04-01T20:15:44+02:00</updated>
+  <updated>2013-04-02T09:36:42+02:00</updated>
   <id>http://mclion.eu/</id>
   <author>
     <name><![CDATA[Marko Milost - McLion]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Kaj Slovence zanima?]]></title>
+    <link href="http://mclion.eu/2013/04/02/kaj-slovence-zanima/"/>
+    <updated>2013-04-02T08:30:00+02:00</updated>
+    <id>http://mclion.eu/2013/04/02/kaj-slovence-zanima</id>
+    <content type="html"><![CDATA[<p>To vprašanje si postavlja marsikateri tržnik, marsikateri novinar in predvsem vsak politik. No, tudi navadnega državljana zanima kaj navdušuje sotrpnike.</p>
+
+<p>Zato sem se pred par meseci lotil vikend projekta, ki se je razširil na več vikendov in zrasel v obliko, ki jo lahko trenutno testirate na <a href="http://mclion.tuinzdaj.net/novicev/">mclion.tuinzdaj.net/novicev/</a>.</p>
+
+<p>Na tem spletnem mestu boste dobili odgovor "Kaj Slovence danes zanima?". Odgovor bo v obliki spiska novic, ki je obtežen po zanimanju slovenskih bralcev in časom objave. Večje kot je zanimanje v določenem času, višje se bo izpisala.</p>
+
+<p>Tako lahko hitro ugotovite kaj zabava, kaj muči in kaj … Slovence. Slovence pa zato, ker za vir informacij jemljem slovenske medije.</p>
+
+<p>Pa ne naredite si prehitro slabega mnenja o naših obsesijah. Občasno so kičaste, čudne, plebejske in zelo neintelektualne, ampak vedno so zanimive, če ne drugo iz antropološkega vidika.</p>
+
+<p><img src="/images/2013/garden-hose.jpg" alt="image" /></p>
+
+<h3>Kako deluje?</h3>
+
+<p>Program v ozadju sledi objavam okoli 40 slovenskih medijev. Pregleda Facebook, Twitter in Google+ in ugotovi koliko zanimanja povzročijo te objave na omenjenih socialnih platformah. Večje kot je skupno zanimanje, višja je številka.</p>
+
+<p>Naj poudarim, da gre predvsem za peskovnik, kjer testiram razne pristope in včasih tudi pridem do odgovorov, ki me zanimajo. Če mi to uspe, dodatek ostane v aplikaciji, sicer ga odstranim.</p>
+
+<h3>Vam je všeč?</h3>
+
+<p>Če vam je servis všeč, si naslov shranite. Je na začasnem strežniku, ampak ko ga bom premaknil, bom poskrbel, da ne boste izgubili naslova. Če bo dovolj interesa, bom iz njega naredil seveda "pravo stran".</p>
+
+<h2>Rabim vašo pomoč</h2>
+
+<p>Sedaj sem pred dilemo. Kako bi razvijal ta servis naprej? Naj iz njega izdelam mobilno aplikacijo ali naj to spletno mesto uredim, da bo čimbolj lično in uporabno ter ga objavim na nekem enostavnem naslovu, ki si ga boste zapomnili?</p>
+
+<p>Dodam komentarje? Možnost delitve (share) objav? Možnost označevanja prebranega? Možnost … ?</p>
+
+<p>Odgovore pustite v komentarjih ali pa mi pišite na <a href="http://twitter.com/mclion">Twitterju</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Zbogom Posterous, dobrodošel Github!]]></title>
@@ -579,36 +616,6 @@
 
 
 <p><span>V MOSS sem bil nekje od začetka prave merive, torej MOSS v1 (žal se leta ne spomnim), do februarja 2011, ko sem odstopil zaradi menjave delovnega mesta (nova firma ni bila Pristopnik in po pravilih nisem mogel obdržati svoje vloge v projektu). Če se je v projektu vmes kaj izbolj&scaron;alo, kar sam nisem opazil, se opravičujem. Cilj sestavka je bil razložiti magijo za projektom MOSS in z znanjem zanikati, da gre za kakr&scaron;no koli ... magijo. :)</span></p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Sortiraj Facebook po lastni želji!]]></title>
-    <link href="http://mclion.eu/2011/11/15/sortiraj-facebook-po-lastni-zelji/"/>
-    <updated>2011-11-15T00:00:00+01:00</updated>
-    <id>http://mclion.eu/2011/11/15/sortiraj-facebook-po-lastni-zelji</id>
-    <content type="html"><![CDATA[<p>
-<img src="/images/posterous/2011/11/34349863-sprememba%20izpisa.png">
-</p>
-
-
-<p>Facebook je pred približno enim mesecem uvedel spremembe v načinu izpisa zgodb na zidovih uporabnikov. Kot vsaka sprememba, je tudi ta mnoge razjezila ...&nbsp;</p>
-
-
-<p />
-<div>Razvijalci na Facebooku so se odločili, da je bolj pomembno prikazovati zgodbe (objave prijateljev in drugih strani) urejene po pomembnosti in ne po času. &Scaron;e najhuje je, da pomembnost določajo po nedokumentiranih parametrih, ki jih spreminjajo iz tedna v teden.&nbsp;
-<p />
-<div>Z eksperimentiranjem so nekateri blogerji ugotovili, da je en od parametrov tudi vir iz kjer je bil vpis objavljen. Prednost ima seveda <a href="http://facebook.com" target="_blank">facebook.com</a>.&nbsp;</div>
-<p />
-<div>Osebno si želim na svojem zidu tako "notranje" kot "zunanje" zgodbe in rad bi videl tudi tiste, ki ne dobijo nobenega "v&scaron;ečka" ali komentarja. Ne zaupam najbolj programju na Facebooku, ko določa&nbsp;kaj je meni bolj pomembno in kaj ni, <a href="http://edgerank.net/" target="_blank">čeprav gre v ozadju le za enačbe</a>. Mnogi so podobnega mnenja kot jaz in očitno dovolj glasni, da je Facebook dodal možnost nastavitve sortiranja objav na va&scaron;em zidu. To je prvič, da so pri Facebooku stopili korak nazaj in omogočili spet nekaj kar so povozili z zadnjo "nadgradnjo".</div>
-<p />
-<div>Tisti, ki uporabljate Facebook v angle&scaron;čini ste te dni&nbsp;dobili eno <strong>novo opcijo</strong>.<strong> <a href="http://www.facebook.com/help?faq=225283394204551" target="_blank">Na vrhu izpisa zgodb se je pojavila na desni strani opcija SORT</a></strong> (poglej priloženo sliko). Če kliknete nanjo, se vam bo odprl meni, kjer lahko izberete novo sortiranje, kjer usodo prepu&scaron;čate Facebooku, ali pa časovno sortiranje, kjer vidite pač najnovej&scaron;e vpise. Osebno imam raje to opcijo in upam, da kdaj postane privzeta, saj se nemalokdaj dogaja, da se moje objave pojavijo na zidovih nekaterih <a href="http://mclion.posterous.com/imas-0-prijateljev">Facebook frendov</a> tudi &scaron;ele 6 dni po tem, ko sem jih objavil ...</div>
-<p />
-<div>Če imate Facebook v angle&scaron;čini in opcije &scaron;e ni, potrpite &scaron;e kak&scaron;en dan in se bo pojavila. S sloven&scaron;čini pa bo verjetno vidna kak&scaron;en teden za tem, ko bo aktivirana za vse Facebook uporabnike in jo bodo prostovoljci prevedli, glasovali o prevodu in najbolj&scaron;ega potrdili za uporabo ...</div>
-<p />
-<div>Če se vam mudi, lahko začasno <a href="https://www.facebook.com/settings?tab=account&amp;section=language&amp;t" target="_blank">preklopite jezik vmesnika v "English (US)"</a>, vklopite drugačno sortiranje objav in nazaj nastavite jezik na sloven&scaron;čino ...</div>
-</div>
 
 ]]></content>
   </entry>

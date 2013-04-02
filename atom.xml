@@ -4,7 +4,7 @@
   <title><![CDATA[McLion's mindstream]]></title>
   <link href="http://mclion.eu/atom.xml" rel="self"/>
   <link href="http://mclion.eu/"/>
-  <updated>2013-04-01T20:15:44+02:00</updated>
+  <updated>2013-04-02T09:36:42+02:00</updated>
   <id>http://mclion.eu/</id>
   <author>
     <name><![CDATA[Marko Milost - McLion]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Kaj Slovence zanima?]]></title>
+    <link href="http://mclion.eu/2013/04/02/kaj-slovence-zanima/"/>
+    <updated>2013-04-02T08:30:00+02:00</updated>
+    <id>http://mclion.eu/2013/04/02/kaj-slovence-zanima</id>
+    <content type="html"><![CDATA[<p>To vprašanje si postavlja marsikateri tržnik, marsikateri novinar in predvsem vsak politik. No, tudi navadnega državljana zanima kaj navdušuje sotrpnike.</p>
+
+<p>Zato sem se pred par meseci lotil vikend projekta, ki se je razširil na več vikendov in zrasel v obliko, ki jo lahko trenutno testirate na <a href="http://mclion.tuinzdaj.net/novicev/">mclion.tuinzdaj.net/novicev/</a>.</p>
+
+<p>Na tem spletnem mestu boste dobili odgovor &#8220;Kaj Slovence danes zanima?&#8221;. Odgovor bo v obliki spiska novic, ki je obtežen po zanimanju slovenskih bralcev in časom objave. Večje kot je zanimanje v določenem času, višje se bo izpisala.</p>
+
+<p>Tako lahko hitro ugotovite kaj zabava, kaj muči in kaj … Slovence. Slovence pa zato, ker za vir informacij jemljem slovenske medije.</p>
+
+<p>Pa ne naredite si prehitro slabega mnenja o naših obsesijah. Občasno so kičaste, čudne, plebejske in zelo neintelektualne, ampak vedno so zanimive, če ne drugo iz antropološkega vidika.</p>
+
+<p><img src="http://mclion.eu/images/2013/garden-hose.jpg" alt="image" /></p>
+
+<h3>Kako deluje?</h3>
+
+<p>Program v ozadju sledi objavam okoli 40 slovenskih medijev. Pregleda Facebook, Twitter in Google+ in ugotovi koliko zanimanja povzročijo te objave na omenjenih socialnih platformah. Večje kot je skupno zanimanje, višja je številka.</p>
+
+<p>Naj poudarim, da gre predvsem za peskovnik, kjer testiram razne pristope in včasih tudi pridem do odgovorov, ki me zanimajo. Če mi to uspe, dodatek ostane v aplikaciji, sicer ga odstranim.</p>
+
+<h3>Vam je všeč?</h3>
+
+<p>Če vam je servis všeč, si naslov shranite. Je na začasnem strežniku, ampak ko ga bom premaknil, bom poskrbel, da ne boste izgubili naslova. Če bo dovolj interesa, bom iz njega naredil seveda &#8220;pravo stran&#8221;.</p>
+
+<h2>Rabim vašo pomoč</h2>
+
+<p>Sedaj sem pred dilemo. Kako bi razvijal ta servis naprej? Naj iz njega izdelam mobilno aplikacijo ali naj to spletno mesto uredim, da bo čimbolj lično in uporabno ter ga objavim na nekem enostavnem naslovu, ki si ga boste zapomnili?</p>
+
+<p>Dodam komentarje? Možnost delitve (share) objav? Možnost označevanja prebranega? Možnost … ?</p>
+
+<p>Odgovore pustite v komentarjih ali pa mi pišite na <a href="http://twitter.com/mclion">Twitterju</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Zbogom Posterous, dobrodošel Github!]]></title>
@@ -665,40 +702,6 @@
 <img src="http://mclion.eu/images/posterous/2009/09/2938101-IMG_0823.jpg">
 <img src="http://mclion.eu/images/posterous/2009/09/2938159-IMG_0875.JPG">
 </p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Arr! Danes govorim kot pirat!]]></title>
-    <link href="http://mclion.eu/2009/09/19/arr-danes-govorim-kot-pirat/"/>
-    <updated>2009-09-19T00:00:00+02:00</updated>
-    <id>http://mclion.eu/2009/09/19/arr-danes-govorim-kot-pirat</id>
-    <content type="html"><![CDATA[<p>Ahoy morske podgane!<strong> Dvignimo krigle <a href="http://www.kulinarika.net/recept.asp?ID=3136">groga</a> in nazdravimo na piratski dan!</strong><p />Danes, 19. september, je svetovno praznovani &#8221;<strong><a href="http://www.talklikeapirate.com/">Talk like a Pirate day</a></strong>&#8221; ali po slovensko &#8220;Dan, ko govorimo kot gusarji&#8221;. Osebno raje uporabljam besedo &#8220;pirat&#8221;, saj &#8220;gusar&#8221; pri nas ni večpomenka.<p /> Ta praznik so <strong>internetniki</strong> začeli praznovati po letu 2002, čeprav ima 19. september dosti starej&scaron;e korenine. Vsaj tako stare, kot je biv&scaron;a žena od <strong>Marka Summersa (&#8220;Cap&#8217;n Slappy&#8221;)</strong>, ki si je praznik izmislil skupaj s kolegom <strong>Johnom Baurjem (&ldquo;Ol&rsquo; Chumbucket&rdquo;)</strong>. Kolega sta se leta 1995 med sabo mal podjebavala in sestavila govorico, ki temelji predvsem na starih ameri&scaron;lkih filmskih likih, datum pa sta postavila zato, ker je tisti dan imela Summersova žena rojstni dan in zato si je ta dan zapomnil. Kot že omenjeno, je &#8221;<a href="http://en.wikipedia.org/wiki/Talk_like_a_pirate">Talk like a pirate day</a>&#8221; postal mednarodno sprejet leta 2002, ko ga je ameri&scaron;ki kolumnist Dave Barry opisal v svoji kolumni, ki je bila takrat objavljena v več ameri&scaron;kih časnikih. Ker pa je bila ideja dovolj zabavna, je hitro postala internet senzacija. <p /> Piratski dan se praznuje mednarodno (<a href="http://www.talklikeapirate.com/tlapd09_2.html#Europe">a &scaron;e ne v Sloveniji</a>), na ta dan govorimo kot pirati, pijemo kot pirati, se hecamo kot pirati..skratka, se spro&scaron;čamo kot pravi pirati in se malo spozabimo na vse ostale realnosti, ki znajo biti tako depresivno&#8230;realne.<p /> Ampak <strong>kako govoriti kot pirat</strong>? Najbolj pomembna je seveda izgovorjava. Pirati so dolga leta preživljali na morju, slani zrak jim je drsal po grlu, alkohol jim je topil požiralnik in zato zvenijo bolj praskasto in sploh &#8220;kot pravi pirati&#8221;. Priporočam ogled kak&scaron;nega piratskega filma (s tem na film o piratih, neglede ali ste ga pobrali ali plačali). Za tiste neučakane, pa je tukaj &scaron;e kratek posnetek, ki vse lepo razloži:<p />
-<object type="application/x-shockwave-flash" height="392" width="480">
-<param name="Movie" value="http://flash.revver.com/player/1.0/player.swf?mediaId=62077" />
-<param name="FlashVars" value="allowFullScreen=true" />
-<param name="AllowFullScreen" value="true" />
-<param name="AllowScriptAccess" value="always" /><embed src="http://flash.revver.com/player/1.0/player.swf?mediaId=62077" type="application/x-shockwave-flash" height="392" flashvars="allowFullScreen=true" width="480"></embed>
-</object>
-<a href="http://revver.com/video/62077/how-to-talk-like-a-pirate/">http://revver.com/video/62077/how-to-talk-like-a-pirate/</a><p />Pa &scaron;e nekaj spletnih zanimivosti povezanih s tem dnem:</p>
-<ul>
-<li><a href="http://www.talklikeapirate.com/howto.html">Kako govoriti kot pirat</a>?</li>
-<li><a href="http://www.google.com/webhp?hl=xx-pirate">Kako googlati kot pirat?</a></li>
-<li><a href="http://www.talklikeapirate.com/translator.html">Angle&scaron;ko-piratski prevajalnik</a></li>
-<li><a href="http://postlikeapirate.com/twitter.php">Angle&scaron;ko-piratski prevajalnik za Twitter (z avtomatično objavo)</a></li>
-<li><a href="http://singing4sdad.xanga.com/674512599/item/">Mačji pirati</a></li>
-<li><a href="http://www.killingtime.com/Pegu/2009/09/18/arrrr-it-be-international-talk-like-a-pirate-day/">Nekaj receptov za piratske alkoholi&scaron;čine</a></li>
-<li><a href="http://www.pirateparenting.com/OrderBook.html">Za tiste z malimi kričečimi je na razpolago brezplačna elektronska knjiga kako vzgojiti malega pirata</a></li>
-<li><a href="http://www.thepirateking.com/movies/">Spisek &#8220;vseh piratskih filmov, kar so bili posneti doslej&#8221;</a></li>
-<li><a href="http://www.blockbuster.co.uk/collections/rent_or_buy/top_20_pirate_movies_dvds-page-0.htm">Spisek &#8220;ta bolj-bolj&scaron;ih&#8221; dvajset piratskih filmov</a></li>
-<li><a href="http://www.wired.com/geekdad/2009/09/arrrrrr-you-ready-for-international-talk-like-a-pirate-day/">Dana&scaron;nji intervju s prvima, ki sta govorila kot pirata</a>&nbsp;</li>
-<li><a href="http://edition.cnn.com/2009/LIVING/09/18/talk.like.a.pirate/index.html">Dana&scaron;nja piratska novica iz CNN-a</a></li>
-<li><a href="http://twitter.com/thecapnslappy">Cap&#8217;n Slappy na Twitterju</a></li>
-<li><a href="http://www.myspace.com/pirateguys">Talk like a pirate na MySpace</a></li>
-<li><a href="http://www.facebook.com/group.php?gid=15569242647">Talk like a pirate na Facebook (grupa)</a></li>
-</ul>
-<p><br />Žal je piratski dan zelo anglo-centričen, se pa prijema tudi v državah, kjer angle&scaron;čina ni prvi jezik. Nemci so tako že ustvarili svoj slovar, drugi pa &scaron;e delajo na tem. Kako bi pirat&scaron;čina zvenela v sloven&scaron;čini? :)<p /> <iframe src="http://www.youtube.com/embed/WfYoymsfTpA?wmode=transparent" allowfullscreen frameborder="0" height="417" width="500"></iframe></p>
-<p><img src="http://mclion.eu/images/posterous/2009/09/2727969-Talk_Like_a_Pirate_Day.png"></p>
 ]]></content>
   </entry>
   
