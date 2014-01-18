@@ -3,7 +3,7 @@ layout: post
 title: "Prepričan v svoj dvom"
 date: 2014-01-19 10:54
 comments: true
-categories: zabava
+categories: zabava, osebno
 ---
 Rad bi zaupal v eno vero, v eno stranko, v en poklic, v en zato. Rad bi bil kot večina ljudi, ker sem že dolgo zapustil obdobje upora in norij. 
 
