@@ -3,11 +3,11 @@ layout: post
 title: "Prepričan v svoj dvom"
 date: 2014-01-19 10:54
 comments: true
-categories: zabava, osebno
+categories: zabava, blebetanje
 ---
-Rad bi zaupal v eno vero, v eno stranko, v en poklic, v en zato. Rad bi bil kot večina ljudi, ker sem že dolgo zapustil obdobje upora in norij. 
+Rad bi zaupal v eno vero, v eno stranko, v en poklic in v en zato. Rad bi bil tak kot večina ljudi, ker sem že dolgo prebolel obdobje upora in norij. 
 
-Rad bi znal narediti spisek dobrih in slabih, ločeval na črne in bele ... Tako kot to počnejo politiki, razvajenci in kreteni. Rad bi znal pokazati s prstom na tisto pošast: "On je kriv, da nisem naredil ničesar v svojem življenju, **ON**!"
+Rad bi znal narediti spisek dobrih in slabih ljudi, jih ločeval na črne in bele ... Tako kot to počnejo politiki, razvajenci in kreteni. Rad bi znal pokazati s prstom na tisto pošast: "On je kriv, da nisem naredil ničesar v svojem življenju, **ON**!"
 
 Rad ne bi razmišljal o pravih razlogih. Kriv je "[New world order](http://en.wikipedia.org/wiki/New_world_order_\(politics\))", da JAZ ne vem kaj bi počel. Omenuje me pri uspehu, saj je brez veze kaj ustvariti, če pa mi bodo vse pofukali. Rad bi bil tako naiven in **NIKOLI** sebe krivil za neuspehe. "Kriv je on, vidiš, kažem ga s prstom, točno on in nihče drug! Zakaj bi se potem boril?"
 
@@ -15,7 +15,7 @@ Rad bi bil del tiste črede, ki je prepričana, da pobeg spremeni njihovo bistvo
 
 Te pošasti ne moremo pokazati s prstom, ker se dobro skriva. Najbolje. Težko si je priznati, da je vsak potencialni Hitler, da je večina morilcev družinskih članov oz. kako drugače zelo blizu žrtvi … Pošast je v meni, pošast je v tebi, pošast je v vseh. Ne čaka, da bi prišla ven, saj živi z nami ves čas, je del nas. Vprašanje je le, kako dobro jo izkoriščaš ali kako močno se trudiš jo ignorirati. Rad bi verjel, da je vsak človek v osnovi dober, ampak mi ta pošast preprečuje to naivnost. 
 
-Včasih boli, ko skušam zbežati iz svoje kože, saj bolj kot sem star, globje koplje skozi mene, v mojo zavest … In peče, sploh na svetlobi, ki se dviga iz moje prihodnosti. Bolj sem osvetljen, bolj je vidna moja žival, ki me vleče naprej ... Kot bager.
+Včasih boli, ko skušam zbežati iz svoje kože, saj bolj kot sem star, pošast globje koplje skozi mene, v mojo zavest … In peče, sploh na svetlobi, ki se dviga iz moje prihodnosti. Bolj sem osvetljen, bolj je vidna moja žival, vleče vleče me naprej ... Kot bager.
 
 Rad bi se počutil dobro v čredi, ki bere samo še esemese in objave na Facebooku, katere edino znanje so poročila na 24ur ali Dnevniku. Rad bi bil med temi, ki ne čutijo dvoma, ki vedo kaj je prava demokracija, pravo delo, kaj je pravica in kaj zakon. Ki poznajo zunanjega sovražnika in se počutijo bolje, ko vidijo, da je nekomu slabše kot jim. 
 
@@ -23,7 +23,7 @@ Rad bi se počutil dobro v čredi, ki bere samo še esemese in objave na Faceboo
 
 Rad bi bil kot oni, ki se ne počutijo, da živijo v nekakšnih kletkah, katerih stene so njihova prepričanja. Zelo trdna prepričanja.
 
-Poslušam ljudi okoli sebe. Želijo si predvsem boljšega sveta, boljšega življenja, mira in ljubezni (zase) … Ampak nihče ničesar ne postori, nihče ne brcne z boso nogo v zid. Besede so zastonj, tudi te na tvojem ekranu in tiste v pesmi, ki ti ne gre iz glave, ker "zadene bistvo mojega počutja". Besede pomagajo, ampak le brca nekaj spremeni, pa čeprav s krvavimi posledicami.
+Slišim ljudi okoli sebe, želijo si predvsem boljšega sveta, boljšega življenja, mira in ljubezni (zase) … Ampak nihče ničesar ne postori, nihče ne brcne z boso nogo v zid. Besede so zastonj, tudi te na tvojem ekranu in tiste v pesmi, ki ti ne gre iz glave, ker "zadene bistvo mojega počutja". Besede pomagajo, ampak le brca nekaj spremeni, pa čeprav s krvavimi posledicami.
 
 Rad bi bil del družbe, katere glavni cilj je delati, jesti, spati in fukati. No, zadnjo besedo občasno spremeni oz. jo polepša z neko, ki pomeni daljšo pot do fuka. [Potem pa ponovi](http://www.youtube.com/watch?v=3w2kL_4vplU). 
 
@@ -38,6 +38,6 @@ Včasih to boli ... Sploh ob vseh teh dvomih, ki ob tem nastanejo.
 ![image](/images/2014/mclion-sthsth.jpg)
 
 
-**P.S.** Ta "drugačen" spis je posledica ene pesmi, ki me spremlja že skoraj leto dni in me vsakič zadane, zato sem misli moral spraviti "na list". Besedilo je moje razmišljanje o tej pesmi, z nekaj citati iz nje. Enkrat toliko ni zgodba iz zunaj, kar upam, da mi ne zamerite preveč. Pravzaprav mi je vseeno. :)  
+**P.S.** To je moja interpretacija/razmišljanje ob pesmi, ki me spremlja že skoraj leto dni in me vsakič zadane … Zato sem misli moral spraviti "na list". V besedilu je kar nekaj citatov iz te pesmi, iz njih sem izhajal v svoje razmišljanje … No, enkrat toliko ni zgodba iz zunaj, kar upam, da mi ne zamerite preveč. Pravzaprav mi je vseeno. :)
 
-Pesem: [http://www.youtube.com/watch?v=-Y3H6774diY](http://www.youtube.com/watch?v=-Y3H6774diY)
+Izvirna pesem: [http://www.youtube.com/watch?v=-Y3H6774diY](http://www.youtube.com/watch?v=-Y3H6774diY)
