@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://mclion.eu/sitemap.xml 
+Sitemap: http://blog.mclion.eu/sitemap.xml 

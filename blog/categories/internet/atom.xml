@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Kategorija: internet | McLion's mindstream]]></title>
-  <link href="http://mclion.eu/blog/categories/internet/atom.xml" rel="self"/>
-  <link href="http://mclion.eu/"/>
-  <updated>2014-01-20T00:38:02+01:00</updated>
-  <id>http://mclion.eu/</id>
+  <link href="http://blog.mclion.eu/blog/categories/internet/atom.xml" rel="self"/>
+  <link href="http://blog.mclion.eu/"/>
+  <updated>2014-01-20T00:58:20+01:00</updated>
+  <id>http://blog.mclion.eu/</id>
   <author>
     <name><![CDATA[Marko Milost - McLion]]></name>
     <email><![CDATA[marko@mclion.eu]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Kaj Slovence zanima?]]></title>
-    <link href="http://mclion.eu/2013/04/02/kaj-slovence-zanima/"/>
+    <link href="http://blog.mclion.eu/2013/04/02/kaj-slovence-zanima/"/>
     <updated>2013-04-02T08:30:00+02:00</updated>
-    <id>http://mclion.eu/2013/04/02/kaj-slovence-zanima</id>
+    <id>http://blog.mclion.eu/2013/04/02/kaj-slovence-zanima</id>
     <content type="html"><![CDATA[<p>To vprašanje si postavlja marsikateri tržnik, marsikateri novinar in predvsem vsak politik. No, tudi navadnega državljana zanima kaj navdušuje sotrpnike.</p>
 
 <p>Zato sem se pred par meseci lotil vikend projekta, ki se je razširil na več vikendov in zrasel v obliko, ki jo lahko trenutno testirate na <a href="http://mclion.tuinzdaj.net/novicev/">mclion.tuinzdaj.net/novicev/</a>.</p>
@@ -52,9 +52,9 @@
   
   <entry>
     <title type="html"><![CDATA[Zbogom Posterous, dobrodošel Github!]]></title>
-    <link href="http://mclion.eu/2013/03/23/zbogom-posterous/"/>
+    <link href="http://blog.mclion.eu/2013/03/23/zbogom-posterous/"/>
     <updated>2013-03-23T23:40:00+01:00</updated>
-    <id>http://mclion.eu/2013/03/23/zbogom-posterous</id>
+    <id>http://blog.mclion.eu/2013/03/23/zbogom-posterous</id>
     <content type="html"><![CDATA[<p>Kot že verjetno veste, se je <strong>Twitter</strong> na začetku leta odločil, da ugasne blogersko platformo <strong>Posterous.com</strong> in zaposlene preusmeri na nekaj bolj profitabilnega. O tem se je sicer špekuliralo že pred letom, ko je Twitter kupil Posterous … No, to sedaj sploh ni pomembno. Brezplačni servisi nastajajo in se ugašajo ne glede na naše želje. To je del njihove definicije brezplačnosti.</p>
 
 <p>Skratka, kot mnogi sem bil postavljen pred odločitev: <strong>Kam prenesti blog?</strong></p>
@@ -87,9 +87,9 @@
   
   <entry>
     <title type="html"><![CDATA[Merjenje spletnega obiska za laike]]></title>
-    <link href="http://mclion.eu/2013/01/19/merjenje-spletnega-obiska-za-laike/"/>
+    <link href="http://blog.mclion.eu/2013/01/19/merjenje-spletnega-obiska-za-laike/"/>
     <updated>2013-01-19T00:00:00+01:00</updated>
-    <id>http://mclion.eu/2013/01/19/merjenje-spletnega-obiska-za-laike</id>
+    <id>http://blog.mclion.eu/2013/01/19/merjenje-spletnega-obiska-za-laike</id>
     <content type="html"><![CDATA[<p>Tudi letos so me povabili na FH&Scaron;, da &scaron;tudentom medijskega &scaron;tudija predstavim eno temo v sklopu predmeta Digitalni mediji in družba. Letos mi je nositelj predmeta kot temo predlagal "merjenje obiska na internetu".  Ben, ok &hellip; Tema ni med najbolj zanimivimi za humaniste &hellip; Približno tako kot nabiranje oljk - najde se kak&scaron;en navdu&scaron;enc, ampak večina bi raje komentirala družboslovni vidiku takega početja, mogoče.</p>
 
 
@@ -313,9 +313,9 @@
   
   <entry>
     <title type="html"><![CDATA[Več oglasov kot ljudi]]></title>
-    <link href="http://mclion.eu/2012/11/08/vec-oglasov-kot-ljudi/"/>
+    <link href="http://blog.mclion.eu/2012/11/08/vec-oglasov-kot-ljudi/"/>
     <updated>2012-11-08T00:00:00+01:00</updated>
-    <id>http://mclion.eu/2012/11/08/vec-oglasov-kot-ljudi</id>
+    <id>http://blog.mclion.eu/2012/11/08/vec-oglasov-kot-ljudi</id>
     <content type="html"><![CDATA[<p>Slovenski spletni mediji so padli v <strong>ogla&scaron;evalsko</strong> <strong>črno luknj</strong>o, ki sem jo na ObalaNET doživel pred približno &scaron;estimi leti in se je nisem zavedel, dokler tega fenomena nisem opazil pri najbolj branih slovenskih spletnih medijih dana&scaron;njega časa. Tokrat ne bom samo nergal, ampak poskusil najti tudi re&scaron;itev za izbolj&scaron;anje stanja, vsaj iz vidika lastnika spletnega mesta.</p>
 
 
@@ -435,9 +435,9 @@
   
   <entry>
     <title type="html"><![CDATA[MOSS je boljši od Google Analytics, ampak zakaj?]]></title>
-    <link href="http://mclion.eu/2011/12/06/moss-je-boljsi-od-google-analytics-ampak-zaka/"/>
+    <link href="http://blog.mclion.eu/2011/12/06/moss-je-boljsi-od-google-analytics-ampak-zaka/"/>
     <updated>2011-12-06T00:00:00+01:00</updated>
-    <id>http://mclion.eu/2011/12/06/moss-je-boljsi-od-google-analytics-ampak-zaka</id>
+    <id>http://blog.mclion.eu/2011/12/06/moss-je-boljsi-od-google-analytics-ampak-zaka</id>
     <content type="html"><![CDATA[<p><span>&Scaron;e danes se srečujem z nerazumevanjem delovanja projekta Meritve obiska spletnih strani, ki ga večina pozna pod kratico <strong>MOSS</strong>. Žal prihaja do nerazumevanja ravno v slovenski skupnosti "webmasterjev" in drugih spletnih strokovnjakov, ki bi kot prvi morali razumeti delovanje in pomen tak&scaron;nih projektov.</span></p>
 
 

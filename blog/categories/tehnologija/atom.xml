@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Kategorija: tehnologija | McLion's mindstream]]></title>
-  <link href="http://mclion.eu/blog/categories/tehnologija/atom.xml" rel="self"/>
-  <link href="http://mclion.eu/"/>
-  <updated>2014-01-20T00:38:02+01:00</updated>
-  <id>http://mclion.eu/</id>
+  <link href="http://blog.mclion.eu/blog/categories/tehnologija/atom.xml" rel="self"/>
+  <link href="http://blog.mclion.eu/"/>
+  <updated>2014-01-20T00:58:20+01:00</updated>
+  <id>http://blog.mclion.eu/</id>
   <author>
     <name><![CDATA[Marko Milost - McLion]]></name>
     <email><![CDATA[marko@mclion.eu]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Dobil sem Jelly Bean!]]></title>
-    <link href="http://mclion.eu/2012/07/25/dobil-sem-jelly-bean/"/>
+    <link href="http://blog.mclion.eu/2012/07/25/dobil-sem-jelly-bean/"/>
     <updated>2012-07-25T00:00:00+02:00</updated>
-    <id>http://mclion.eu/2012/07/25/dobil-sem-jelly-bean</id>
+    <id>http://blog.mclion.eu/2012/07/25/dobil-sem-jelly-bean</id>
     <content type="html"><![CDATA[<p>Končno mi je Google nadgradil Androida na <strong>Jelly Bean</strong>. Bil sem kar neučakan, čeprav sem verjetno med prvimi v Sloveniji z zadnjo verzijo androida. Zanimalo me je predvsem kako se v Sloveniji izkažeta novi Google Voice Search in Google Now ...</p>
 
 
@@ -160,9 +160,9 @@
   
   <entry>
     <title type="html"><![CDATA[Slovenski črkovalnik v Mac OSX (Snow) Leopard in Lion]]></title>
-    <link href="http://mclion.eu/2012/02/23/slovenski-crkovalnik-v-mac-osx-snow-leopard-i/"/>
+    <link href="http://blog.mclion.eu/2012/02/23/slovenski-crkovalnik-v-mac-osx-snow-leopard-i/"/>
     <updated>2012-02-23T00:00:00+01:00</updated>
-    <id>http://mclion.eu/2012/02/23/slovenski-crkovalnik-v-mac-osx-snow-leopard-i</id>
+    <id>http://blog.mclion.eu/2012/02/23/slovenski-crkovalnik-v-mac-osx-snow-leopard-i</id>
     <content type="html"><![CDATA[<p>Na spletu je moč najti navodila kako naložiti slovenski črkovalnik v OSX s pomočjo paketa Aspell. Ta metoda ni najbolj optimalna, je pa bila edina do nedavnega edina. Mnogi so spregledali, da OSX od verzije 10.6 podpira nalaganje drugih slovarjev preko odprtega sistema. Apple je namreč v Leopardu zamenjal črkovalnik in uporabil odprto-kodnega, ki koristi slovarje istega formata kot Openoffice.org (oz. sedaj LibreOffice).<p /> Tukaj so navodila kako to storimo na nov način, ki ne zahteva instalacije posebnih programov, deluje pa v vseh t.i. Cocoa aplikacijah, torej tudi v iWork paketih, Safariju, Twitterju in podobno &hellip;<br /><strong><br />Kako naložimo slovenski črkovalnik v OSX Leopard, Snow Leopard ali Lion?</strong></p>
 <ol>
 <li>*Prenesite črkovalnik iz <a href="http://extensions.services.openoffice.org/en/project/pack-sl" target="_blank">http://extensions.services.openoffice.org/en/project/pack-sl</a>.&nbsp;</li>
@@ -189,9 +189,9 @@
   
   <entry>
     <title type="html"><![CDATA[Pogled skozi star iPhone...]]></title>
-    <link href="http://mclion.eu/2009/09/24/pogled-skozi-star-iphone/"/>
+    <link href="http://blog.mclion.eu/2009/09/24/pogled-skozi-star-iphone/"/>
     <updated>2009-09-24T00:00:00+02:00</updated>
-    <id>http://mclion.eu/2009/09/24/pogled-skozi-star-iphone</id>
+    <id>http://blog.mclion.eu/2009/09/24/pogled-skozi-star-iphone</id>
     <content type="html"><![CDATA[<p><b>Včeraj</b> sem spravil mojega dobrega starega <b>iPhona</b> v penzijo. Ne vem sicer če je to dokončno ali ne, trenutno imam <b>HTC Magic</b> &quot;v testu&quot;, bomo videli kako se bo obnesel...<p />Odločil sem se objaviti posnetke &quot;<b>panoram</b>&quot;, ki sem jih v zadnjih <b>dveh letih in pol posnel z iPhonom</b>. Kot nekakšen obredni korak ob menjavi naprave, ki je bila ob meni nepretrgoma ves ta čas...<p /> Večinoma gre dejansko za panorame, nekaj jih je bolj &quot;pogled trenutka v eno smer, še sam ne vem zakaj, ne spomnem se niti kam&quot;. Ne bom jih interpretiral, ne bom jih naložil niti v pravem vrstnem redu, naj <b>avtomatika</b> poskrbi za to, če se ji da. Prepustim vsem radovednežem v pogled. Lahko si tudi dol poberete, če si želite, lahko postanejo del vaše spletne prisotnosti, če se vam tako zdi...v tem primeru pa navedite mene kot avtorja.<p /> Kar se tiče lokacij posnetkov... Nobena in vse kjer sem se potikal zadnje dve leti in pol<b></b>. Posneto je bilo kjerkoli mi je padlo oko. Ali je bilo to pred domom, v Grčiji, v slovenskih gozdovih in gmajni ali v centru koprskega Miamija, ni bilo pomembno...lokacija pravzaprav ni nikoli bila (in prvi iphone nima GPS čipa, da bi jo shranil), bolj pomemben je bil <b>trenutek</b>, <b>občutek</b> ko sem pritisnil na ekran in je telefon shranil deformiran <b>posnetek</b> moje trenutne <b>vizije</b>.<p /> V miru počivaj (iPhone), sedaj je čas za <b>Google</b>...<p /> <p>
 <img src="/images/posterous/2009/09/2938021-IMG_0050.jpg">
 <img src="/images/posterous/2009/09/2938045-IMG_0352.JPG">
@@ -252,9 +252,9 @@
   
   <entry>
     <title type="html"><![CDATA[Končno prava slovenska tipkovnica]]></title>
-    <link href="http://mclion.eu/2009/06/22/konno-prava-slovenska-tipkovnica/"/>
+    <link href="http://blog.mclion.eu/2009/06/22/konno-prava-slovenska-tipkovnica/"/>
     <updated>2009-06-22T00:00:00+02:00</updated>
-    <id>http://mclion.eu/2009/06/22/konno-prava-slovenska-tipkovnica</id>
+    <id>http://blog.mclion.eu/2009/06/22/konno-prava-slovenska-tipkovnica</id>
     <content type="html"><![CDATA[<p><img src="/images/posterous/2009/06/710138-64597788_tipkovnica.jpg"></p>
 
 

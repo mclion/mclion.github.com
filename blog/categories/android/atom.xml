@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Kategorija: android | McLion's mindstream]]></title>
-  <link href="http://mclion.eu/blog/categories/android/atom.xml" rel="self"/>
-  <link href="http://mclion.eu/"/>
-  <updated>2014-01-20T00:38:02+01:00</updated>
-  <id>http://mclion.eu/</id>
+  <link href="http://blog.mclion.eu/blog/categories/android/atom.xml" rel="self"/>
+  <link href="http://blog.mclion.eu/"/>
+  <updated>2014-01-20T00:58:20+01:00</updated>
+  <id>http://blog.mclion.eu/</id>
   <author>
     <name><![CDATA[Marko Milost - McLion]]></name>
     <email><![CDATA[marko@mclion.eu]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Dobil sem Jelly Bean!]]></title>
-    <link href="http://mclion.eu/2012/07/25/dobil-sem-jelly-bean/"/>
+    <link href="http://blog.mclion.eu/2012/07/25/dobil-sem-jelly-bean/"/>
     <updated>2012-07-25T00:00:00+02:00</updated>
-    <id>http://mclion.eu/2012/07/25/dobil-sem-jelly-bean</id>
+    <id>http://blog.mclion.eu/2012/07/25/dobil-sem-jelly-bean</id>
     <content type="html"><![CDATA[<p>Končno mi je Google nadgradil Androida na <strong>Jelly Bean</strong>. Bil sem kar neučakan, čeprav sem verjetno med prvimi v Sloveniji z zadnjo verzijo androida. Zanimalo me je predvsem kako se v Sloveniji izkažeta novi Google Voice Search in Google Now ...</p>
 
 
