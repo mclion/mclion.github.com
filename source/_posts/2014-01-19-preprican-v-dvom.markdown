@@ -3,7 +3,7 @@ layout: post
 title: "Prepričan v svoj dvom"
 date: 2014-01-19 10:54
 comments: true
-categories: zabava, blebetanje
+categories: [zabava, blebetanje]
 ---
 Rad bi zaupal v eno vero, v eno stranko, v en poklic in v en zato. Rad bi bil tak kot večina ljudi, ker sem že dolgo prebolel obdobje upora in norij. 
 
@@ -27,9 +27,9 @@ Slišim ljudi okoli sebe, želijo si predvsem boljšega sveta, boljšega življe
 
 Rad bi bil del družbe, katere glavni cilj je delati, jesti, spati in fukati. No, zadnjo besedo občasno spremeni oz. jo polepša z neko, ki naredi kakšen ovinek … [Potem pa ponovi](http://www.youtube.com/watch?v=3w2kL_4vplU). 
 
-Rad bi se predal intelektualcem, kjer je en kup ideologije in kjer magija izgine. Kjer so misli zabasane v čednih urejenih škatlicah, kjer je moja vedno lepša od sosedove. Predefinicije kot definicija popačenih "dejstev". Tako. Počutil bi se proti in se obnašal čisto enako. Bil bi del krdela in se lahko izgovarjal na ukaze iz višjega, na tete iz ozadja ali **sveto joško**!
+Rad bi se predal intelektualcem, kjer je en kup ideologije in kjer magija izgine. Kjer so misli zabasane v čednih urejenih škatlicah, kjer je moja vedno lepša od sosedove. Predefinicije kot definicija popačenih ustaljenih predpostavk. Tako. Počutil bi se proti in se obnašal čisto enako. Bil bi del krdela in se lahko izgovarjal na ukaze iz višjega, na tete iz ozadja ali **sveto joško**!
 
-Ampak imam eno stalno napako, ki me od časa do časa popolnoma spremeni. Imam tudi obsesijo z glasbo, ki se spreminja, kot se moj koncept življenja. Imam veliko potrebo po znanju, ki nikoli ne ugasne, željo po vprašanjih, ki se noče pomiriti, analizo vsega doživetega, ki nikoli ne spi, v sebi mentalni boj, ki se bije od moje prve svetlobe in ta občutek, da divjam in se mi prav nič ne mudi ustaviti. 
+Ampak imam eno stalno napako, ki me od časa do časa popolnoma spremeni. Imam veliko potrebo po znanju, ki nikoli ne ugasne, željo po vprašanjih, ki se noče pomiriti, analizo vsega doživetega, ki nikoli ne spi, v sebi mentalni boj, ki se bije od moje prve svetlobe in ta občutek, da divjam in se mi prav nič ne mudi ustaviti. 
 
 Včasih to boli ... Sploh ob vseh teh dvomih, ki pri tem nastanejo.
 
