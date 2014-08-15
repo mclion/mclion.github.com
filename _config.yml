@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: http://blog.mclion.eu
-title: McLion's mindstream
+title: McLion's Mindstream
 subtitle: Kar pride pred moje oči in se mi zdi nujno deliti s spletnim planetom.
 author: Marko Milost - McLion
 simple_search: http://google.com/search
@@ -13,7 +13,7 @@ description: McLion's personal blog. Sometimes with userful information. Mostly 
 # You can customize the format as defined in
 # http://www.ruby-doc.org/core-1.9.2/Time.html#method-i-strftime
 # Additionally, %o will give you the ordinal representation of the day
-date_format: "%d.%m.%Y"
+date_format: "%d. %m. %Y"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /atom.xml
@@ -44,13 +44,12 @@ recent_posts: 10       # Posts in the sidebar Recent Posts section
 excerpt_link: "Se nadaljuje &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
 
 titlecase: false       # Converts page and post titles to titlecase
-
 future: false
 
 
 # list each of the sidebar modules you want to include, in the order you want them to appear.
 # To add custom asides, create files in /source/_includes/custom/asides/ and add them to the list like 'custom/asides/custom_aside_name.html'
-default_asides: [custom/asides/about.html, custom/asides/twitter.html, asides/recent_posts.html, asides/googleplus.html, asides/github.html ]
+default_asides: [custom/asides/about.html, custom/asides/twitter.html, asides/recent_posts.html, custom/asides/instagram.html, asides/googleplus.html, asides/github.html ]
 
 # Each layout uses the default asides, but they can have their own asides instead. Simply uncomment the lines below
 # and add an array with the asides you want to use.
@@ -98,6 +97,14 @@ google_analytics_tracking_id: UA-10554500-1
 
 # Facebook Like
 facebook_like: true
+
+# Instagram
+instagram_user: mmclion
+instagram_key: 80271884e3794c3b94d36a7e89dc6df8
+instagram_secret: 06e4c5e77cd64f88b0896f41ac463709
+instagram_token: 30671300.467ede5.18d4d29b1d0942efab3a743343612839
+instagram_userid: 30671300
+
 
 # ------------------ #
 # Social             #
