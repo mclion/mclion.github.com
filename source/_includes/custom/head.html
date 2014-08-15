@@ -1,66 +1,36 @@
-<!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-{% comment %}
-<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-{% endcomment %}
-<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,700|Oswald:400,700&amp;subset=latin-ext,latin" rel="stylesheet" type="text/css" />
-<link href="/stylesheets/m82.css" rel="stylesheet" type="text/css" media="screen, projection" />
-
-<!-- Facebook open graph -->
-{% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% elsif site.permalink contains category_dir %}{{ '/' | page.url | remove:'index.html' | '/' }}{% else %}{{ page.url | remove:'index.html' | '/' }}{% endif %}{% endcapture %}
-{% capture description %}{% if page.description %}{{ page.description }}{% else %}{{ content | raw_content }}{% endif %}{% endcapture %}
-
-{% if page.title %}
-<meta property="og:type" content="article" />
-<meta property="og:title" content="{{ page.title }}" />
-{% else %}
-<meta property="og:type" content="website" />
-<meta property="og:title" content="{{ site.title }}" />
-{% endif %}
-{% if site.title %}
-<meta property="og:site_name" content="{{ site.title }}" />
-{% endif %}
-{% if page.url %}
-<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-{% else %}
-<meta property="og:url" content="{{ canonical }}">
-{% endif %}
-{% if page.date %}
-<meta property="article:published_time" content="{{page.date | date_to_xmlschema}}" />
-{% endif %}
-{% if site.owner_link %}
-<meta property="article:author" content="{{ site.owner_link }}" />
-{% endif %}
-{% if page.content %}
-<meta property="og:description" content="{{ description | strip_html | truncatewords:70 }}" />
-{% endif %}
-<meta property="og:locale" content="sl_SI">
-{% if page.share_image %}
-<meta property="og:image" content="{{ site.blog_images_url }}{{ page.share_image }}" />
-{% endif %}
-
-<!-- Twitter card -->
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:site" content="@mclion">
-{% if page.title %}
-<meta name="twitter:title" content="{{ page.title }}">
-<meta name="twitter:description" content="{{ description | strip_html | truncatewords:50 }}">
-{% endif %}
-<meta name="twitter:creator" content="@mclion">
-<meta name="twitter:image:src" content="http://blog.mclion.eu/images/2014/gozd-pot.jpg">
-<meta name="twitter:domain" content="mclion.eu">
-{% if page.share_image %}
-<meta property="twitter:image:src" content="{{ site.blog_images_url }}{{ page.share_image }}" />
-{% endif %}
-
-<!-- Google -->
-{% if page.title %}
-<meta itemprop="name" content="{{ page.title }}">
-{% else %}
-<meta itemprop="name" content="{{ site.title }}">
-{% endif %}
-
-<meta itemprop="description" content="{{ description | strip_html | truncatewords:70 }}">
-{% if page.share_image %}
-<meta itemprop="image" content="{{ site.blog_images_url }}{{ page.share_image }}">
-{% endif %}
+	<!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+	{% comment %}
+	<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+	<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+	{% endcomment %}
+	<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,700|Oswald:400,700&amp;subset=latin-ext,latin" rel="stylesheet" type="text/css" />
+	<link href="/stylesheets/m82.css" rel="stylesheet" type="text/css" media="screen, projection" />
+	{% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% elsif site.permalink contains category_dir %}{{ '/' | page.url | remove:'index.html' | '/' }}{% else %}{{ page.url | remove:'index.html' | '/' }}{% endif %}{% endcapture %}
+	{% capture description %}{% if page.description %}{{ page.description }}{% else %}{{ content | raw_content }}{% endif %}{% endcapture %}
+	<!-- Facebook open graph -->
+	{% if page.title %}<meta property="og:type" content="article" />
+	<meta property="og:title" content="{{ page.title }}" />
+	{% else %}<meta property="og:type" content="website" />
+	<meta property="og:title" content="{{ site.title }}" />{% endif %}
+	{% if site.title %}<meta property="og:site_name" content="{{ site.title }}" />{% endif %}
+	{% if page.url %}<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+	{% else %}<meta property="og:url" content="{{ canonical }}">{% endif %}
+	{% if page.date %}<meta property="article:published_time" content="{{page.date | date_to_xmlschema}}" />{% endif %}
+	{% if site.owner_link %}<meta property="article:author" content="{{ site.owner_link }}" />{% endif %}
+	{% if page.content %}<meta property="og:description" content="{{ description | strip_html | truncatewords:70 }}" />{% endif %}
+	<meta property="og:locale" content="sl_SI">
+	{% if page.share_image %}<meta property="og:image" content="{{ site.blog_images_url }}{{ page.share_image }}" />{% endif %}
+	<!-- Twitter card -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@mclion">
+	{% if page.title %}<meta name="twitter:title" content="{{ page.title }}">
+	<meta name="twitter:description" content="{{ description | strip_html | truncatewords:50 }}">{% endif %}
+	<meta name="twitter:creator" content="@mclion">
+	<meta name="twitter:image:src" content="http://blog.mclion.eu/images/2014/gozd-pot.jpg">
+	<meta name="twitter:domain" content="mclion.eu">
+	{% if page.share_image %}<meta property="twitter:image:src" content="{{ site.blog_images_url }}{{ page.share_image }}" />{% endif %}
+	<!-- Google -->
+	{% if page.title %}<meta itemprop="name" content="{{ page.title }}">
+	{% else %}<meta itemprop="name" content="{{ site.title }}">{% endif %}
+	<meta itemprop="description" content="{{ description | strip_html | truncatewords:70 }}">
+	{% if page.share_image %}<meta itemprop="image" content="{{ site.blog_images_url }}{{ page.share_image }}">{% endif %}
