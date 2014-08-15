@@ -15,12 +15,13 @@
 	<meta property="og:title" content="{{ page.title }}" />
 {% else %}
 	<meta property="og:type" content="website" />
+	<meta property="og:title" content="{{ site.title }}" />
 {% endif %}
 {% if site.title %}
 	<meta property="og:site_name" content="{{ site.title }}" />
 {% endif %}
 {% if page.url %}
-	<meta property="og:url" content="{{ site.url }}{{ page.url | strip_slash }}" />
+	<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
 {% else %}
 	<meta property="og:url" content="{{ canonical }}">
 {% endif %}
