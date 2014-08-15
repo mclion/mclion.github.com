@@ -6,13 +6,13 @@ comments: true
 share_image: /2014/gozd-pot.jpg
 categories: zgodbe
 ---
-Sobota. Zaključujem najbolj uspešno **dieto** doslej. Tudi prvo v svojem življenju. Pet tednov brez sladkorja, alkohola in drugih dobrot, za katere se ne spomnim več imen. Željo po hrani počasi zamenjuje **potreba po premikanju**. V več smislih.
+Sobota. Zaključujem najbolj uspešno **dieto** doslej. Tudi prvo v svojem življenju. Pet tednov brez sladkorja, alkohola in drugih dobrot, katerih sem pozabil imena. Željo po hrani počasi zamenjuje **potreba po premikanju**. V več smislih.
 
 Že dolgo nisem bil na **Slavniku**. Tri, morda štiri leta. Verjetno nisem najbolj v formi zanj, ampak brez poskusa ni uspeha, pravijo … Prepričam sestro, da mi dela družbo. Najbolje držiš ritem tako, da slediš nekomu, pa če je pred ali za tabo.
 
 Pa smo šli. Dela prost dan zahteva dodaten spanec, zato ni bilo prav nič zgodaj zjutraj. Pravzaprav je bil čas, ko besedo "jutro" uporabijo samo še dijaki in študentje. Pa poletje je bilo. Če dobro pomislim, ta časovna kombinacija ni bila med najbolj optimalnimi.
 
-Začelo se je dobro. Jaz poln energije marširal strumno in veselo, sestra godrnjajoče za mano in pes, ki mu nikoli ne zmanjka baterij, pred obema. Direkt v klanec. Položne poti namreč nisem našel ali je pa nisem želel najti. Slednje naj ostane **skrivnost**.
+Začelo se je dobro. Jaz poln energije marširal strumno in veselo, sestra godrnjajoče za mano in pes, ki mu nikoli ne zmanjka baterij, pred obema. Direktno v klanec. Položne poti namreč nisem našel ali je pa nisem želel najti. Slednje naj ostane **skrivnost**.
 
 Nekje na pol četrt se **razideva**. Pravi, da ji moje "dirkanje v hrib" ne ugaja in se odpravi po položni poti naprej. Tukaj pa se prične moja avantura, če jo lahko tako poimenujem ...
 
