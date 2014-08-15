@@ -9,8 +9,7 @@
 	{% capture description %}{% if page.description %}{{ page.description }}{% else %}{{ content | raw_content }}{% endif %}{% endcapture %}
 	<!-- Facebook open graph -->
 	{% if page.title %}<meta property="og:type" content="article" />
-	<meta property="og:title" content="{{ page.title }}" />
-	{% else %}<meta property="og:type" content="website" />
+	<meta property="og:title" content="{{ page.title }}" />{% else %}<meta property="og:type" content="website" />
 	<meta property="og:title" content="{{ site.title }}" />{% endif %}
 	{% if site.title %}<meta property="og:site_name" content="{{ site.title }}" />{% endif %}
 	{% if page.url %}<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
@@ -30,7 +29,6 @@
 	<meta name="twitter:domain" content="mclion.eu">
 	{% if page.share_image %}<meta property="twitter:image:src" content="{{ site.blog_images_url }}{{ page.share_image }}" />{% endif %}
 	<!-- Google -->
-	{% if page.title %}<meta itemprop="name" content="{{ page.title }}">
-	{% else %}<meta itemprop="name" content="{{ site.title }}">{% endif %}
+	{% if page.title %}<meta itemprop="name" content="{{ page.title }}">{% else %}<meta itemprop="name" content="{{ site.title }}">{% endif %}
 	<meta itemprop="description" content="{{ description | strip_html | truncatewords:70 }}">
 	{% if page.share_image %}<meta itemprop="image" content="{{ site.blog_images_url }}{{ page.share_image }}">{% endif %}

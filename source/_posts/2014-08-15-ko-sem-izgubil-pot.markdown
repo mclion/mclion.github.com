@@ -6,7 +6,9 @@ comments: true
 share_image: /2014/gozd-pot.jpg
 categories: zgodbe
 ---
-Sobota. Zaključujem najbolj uspešno **dieto** doslej. Tudi prvo v svojem življenju. Pet tednov brez sladkorja, alkohola in drugih dobrot, katerih sem pozabil imena. Željo po hrani počasi zamenjuje **potreba po premikanju**. V več smislih.
+Sobota. Zaključujem najbolj uspešno **dieto** doslej. Tudi prvo v svojem življenju. Čas je za naslednji korak.
+
+Pet tednov brez sladkorja, alkohola in drugih dobrot, katerih sem pozabil imena je pustilo nekaj posledic. Željo po hrani počasi zamenjuje **potreba po premikanju**. V več smislih.
 
 Že dolgo nisem bil na **Slavniku**. Tri, morda štiri leta. Verjetno nisem najbolj v formi zanj, ampak brez poskusa ni uspeha, pravijo … Prepričam sestro, da mi dela družbo. Najbolje držiš ritem tako, da slediš nekomu, pa če je pred ali za tabo.
 
