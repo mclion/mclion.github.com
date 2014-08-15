@@ -3,6 +3,7 @@ layout: post
 title: "Kaj Slovence zanima?"
 date: 2013-04-02 08:30
 comments: true
+share_image: /2013/garden-hose.jpg
 categories: internet
 ---
 

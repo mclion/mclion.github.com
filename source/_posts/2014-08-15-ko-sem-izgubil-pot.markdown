@@ -3,6 +3,7 @@ layout: post
 title: "Ko sem izgubil pot ..."
 date: 2014-08-15 14:39
 comments: true
+share_image: /2014/gozd-pot.jpg
 categories: zgodbe
 ---
 Sobota. Zaključujem najbolj uspešno **dieto** doslej. Tudi prvo v svojem življenju. Pet tednov brez sladkorja, alkohola in drugih dobrot, za katere se ne spomnim več imen. Željo po hrani počasi zamenjuje **potreba po premikanju**. V več smislih.

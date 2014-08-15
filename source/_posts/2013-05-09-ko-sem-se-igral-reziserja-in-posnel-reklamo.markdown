@@ -3,6 +3,7 @@ layout: post
 title: "Ko sem se igral režiserja in posnel reklamo"
 date: 2013-05-09 02:21
 comments: true
+share_image: /2013/mclion_camera.jpg
 categories: zabava
 ---
 Za mano je kar zabavno (poslovno) leto. Namreč približno v tem času sem lani zapustil toplo **pisarno** in se podal v avanturistične vode **dela od doma**. Bilo je zanimivo in tudi utrujajoče. Pri delu od doma si je najtežje vzeti samo osem ur delavnika, saj živiš v pisarni, vsak dan si je podoben in hitro se osamiš (ne, internet ni prava socializacija).

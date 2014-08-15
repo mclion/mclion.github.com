@@ -3,6 +3,7 @@ layout: post
 title: "Ko sem špilal glavnega igralca v videospotu"
 date: 2013-11-16 19:43
 comments: true
+share_image: /2013/marko-mclion-in-blowrider.jpg
 categories: zabava
 ---
 Letošnja pomlad je bila … Posebna. Odločil sem se storiti kakšen bolj konkreten korak v življenju in storil sem ga. Verjetno je bilo povezano z bližajočim se rojstnim dnevom, verjetno pa sem enostavno bil sit vsega. Dal sem odpoved v podjetju, katerega sem soustanovil in odšel iskati novo avanturo. Sledilo je nekaj razgovorov, večinoma v Ljubljani.

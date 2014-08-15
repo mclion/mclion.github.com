@@ -3,6 +3,7 @@ layout: post
 title: "Zbogom Posterous, dobrodošel Github!"
 date: 2013-03-23 23:40
 comments: true
+share_image: /2013/22-GitHub-588x450.png
 categories: internet
 ---
 Kot že verjetno veste, se je **Twitter** na začetku leta odločil, da ugasne blogersko platformo **Posterous.com** in zaposlene preusmeri na nekaj bolj profitabilnega. O tem se je sicer špekuliralo že pred letom, ko je Twitter kupil Posterous … No, to sedaj sploh ni pomembno. Brezplačni servisi nastajajo in se ugašajo ne glede na naše želje. To je del njihove definicije brezplačnosti.

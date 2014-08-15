@@ -98,3 +98,8 @@ google_analytics_tracking_id: UA-10554500-1
 
 # Facebook Like
 facebook_like: true
+
+# ------------------ #
+# Social             #
+# -------------------#
+blog_images_url: http://blog.mclion.eu/images

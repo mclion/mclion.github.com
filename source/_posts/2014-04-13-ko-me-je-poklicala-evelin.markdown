@@ -3,6 +3,7 @@ layout: post
 title: "Ko me je Evelin poklicala"
 date: 2014-04-13 16:22
 comments: true
+share_image: /2014/obmorju.jpg
 categories: zgodbe
 ---
 Nedelja. Prijeten pomladni dan. Ne prevroč in niti prehladen. Sedim ob morju in se predajam prijetnemu vetriču, ki mi polni nosnice z omamnim vonjem morja. **Idila**. 
