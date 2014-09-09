@@ -6,7 +6,7 @@ comments: true
 share_image: /2014/gozd-pot.jpg
 categories: zgodbe
 ---
-Sobota. Zaključujem najbolj uspešno **dieto** doslej. Tudi prvo v svojem življenju. Čas je za naslednji korak.
+Poletna sobota. Zaključujem najbolj uspešno **dieto** doslej. Tudi prvo v svojem življenju. Čas je za naslednji korak.
 
 Pet tednov brez sladkorja, alkohola in drugih dobrot, katerih sem pozabil imena je pustilo nekaj posledic. Željo po hrani počasi zamenjuje **potreba po premikanju**. V več smislih.
 
