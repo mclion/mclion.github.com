@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kako skuhati uspešen projekt?"
-date: 2014-09-08 22:25
+date: 2014-09-09 15:25
 comments: true
 share_image: /2014/recipe-book-Emily.jpg
 categories: internet, tehnologija
