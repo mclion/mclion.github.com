@@ -4,7 +4,7 @@
   <title><![CDATA[Kategorija: internet, | McLion's Mindstream]]></title>
   <link href="http://blog.mclion.eu/blog/categories/internet/atom.xml" rel="self"/>
   <link href="http://blog.mclion.eu/"/>
-  <updated>2014-09-10T14:22:39+02:00</updated>
+  <updated>2014-09-30T23:23:44+02:00</updated>
   <id>http://blog.mclion.eu/</id>
   <author>
     <name><![CDATA[Marko Milost - McLion]]></name>
@@ -14,11 +14,107 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Kako skuhati uspešen projekt: Ekipa]]></title>
+    <link href="http://blog.mclion.eu/2014/09/30/kako-skuhati-uspesen-projekt-ekipa/"/>
+    <updated>2014-09-30T19:42:00+02:00</updated>
+    <id>http://blog.mclion.eu/2014/09/30/kako-skuhati-uspesen-projekt-ekipa</id>
+    <content type="html"><![CDATA[<p><em>TL;DR - Ekipa je srce projekta, to so kuharji ki zmešajo sestavine. Brez njih se nič ne skuha, saj "replikatorji" iz Star Treka še niso bili izumljeni. :) Kakšna pa je uspešna ekipa?</em></p>
+
+<h4><a href="/2014/09/09/kako-skuhati-uspesen-projekt/">Prejšnjič: Recept za uspešen projekt in kako do dobre ideje</a></h4>
+
+<p>Zadnjič sem razpredal o receptu za uspešen projekt oz. sestavinah zanj. Tokrat nadaljujem z eno najpomembnejših sestavin, ki pa pri nas povzroča tudi največ preglavic. Gre za družabno sestavino, ki lahko še tako dober projekt popolnoma uniči, če njena interakcija ne deluje konstruktivno.</p>
+
+<p>Dobra ekipa lahko naredi dober produkt tudi iz slabe ideje. Sestavljati jo morajo sposobni ljudje, ki verjamejo v projekt in so pripravljeni delati zanj ne glede na finančno spodbudo. V projektu ne smejo biti zaradi morebitnega bogastva, ki jih čaka na koncu poti, ampak zaradi poti same. Verjeti morajo v produkt, ki ga ustvarjajo oz. vzdržujejo.</p>
+
+<p>Ampak, ti ljudje niso strošek, ljudje so kapital produkta (podjetja). Znana IT podjetja (Google,  Facebook, Apple) kupujejo startup podjetja zaradi ljudi, ne toliko zaradi produktov. To pri nas pozabljamo oz. naš svet je v tem primeru obrnjen.</p>
+
+<p>Danes ni težko dobiti sposobnih ljudi, ki se bodo lotili marsičesa, sploh globalno gledano, težava je dobiti ljudi, ki bodo v "receptu" delovali skupaj. Po naravni poti boste sicer verjetno med časom priprave produkta in skozi proces vzdrževanja le-tega ugotovili katere člane ekipe je potrebno menjati … Pri tem morate paziti, da vas ne omejujejo čustva, četudi je potrebno za dobrobit projekta odstraniti ravno sebe.</p>
+
+<h2>Idealni sodelavec</h2>
+
+<p>Idelanega ni, osebno pa izbiram raje tiste, ki so sposobni hitrega učenja, jim to ni breme oz. celo uživajo v dobivanju novega znanja. Takšni se bodo hitreje prilagodili v primeru slabe vodstvene odločitve, ki bo povsročila preusmeritev ciljev.</p>
+
+<h2>Specializirani vseznalci</h2>
+
+<p>Moderne ekipe so majhne in nimajo formalnega vodjo. Znotraj male ekipe naj ne bi bilo specializacij. Sploh v <strong>Agile</strong> razvojnem pristopu naj bi vsi člani vse znali in bili medsebojno izmenljivi. Vsak naj bi bil sposoben prevzeti tuje opravilo …</p>
+
+<p>V praksi ni tako. Ljudje smo različni, smo ljudje. Temu se je brezpredmetno upirati. Nekdo je boljši v ekonomskih zadevah, drugi je boljši z ljudmi, tretji se bi najraje zaprl v sobo in programiral dokler ne umre, četrtega pa moti, če je izpis odmika za pol piksla od zlatega reza. Načeloma naj bi vsi razumeli vse, ampak če hočemo hitro do produkta je najbolje izkoristiti njihovo znanje in dovoliti naravno specializacijo. Notranji eksperti so znotraj ekipe tudi bolj spoštovani in to spoštovanje jim povečuje zadovoljstvo.</p>
+
+<p>Pri specializaciji le pazite, da vsi člani (male) ekipe vedo kako je bilo ostalo ustvarjeno in so sposobni to vzdrževati, čeprav za to porabijo nekajkrat več časa, kot bi izvirni avtor.</p>
+
+<h2>Kdo je šef?</h2>
+
+<p>V malih ekipah ne sme biti formalnih šefov, nastanejo pa neformalni. To so tisti z več izkušnjami, taki ki se hitreje učijo ali pa ki imajo močnejši ego od ostalih. Te osebe, četudi lastniki kapitala, morajo nastopati na istem nivoju kot drugi, če želijo da le-ti naredijo več in bolje (sploh v Sloveniji, kjer so tisti s službo prepričani, da preveč delajo za tisto plačo).</p>
+
+<p>Če je projekt vaš, potem boste vi neformalni šef, pa čeprav boste delali več kot ostali in tudi bolj banalne stvari. Dober vodja je tisti, ki daje dober vzgled - naredi še malo več in še vedno skrbi za svoje zdravje, zna pa se tudi pošaliti in pelje ekipo na pivo, ko bi se le-ta najraje med sabo pobila zaradi nekega internega stresa.</p>
+
+<h2>Zadovoljstvo</h2>
+
+<p>Zadovoljstvo je v ekipi vitalnega pomena. Zadovoljni sodelavci, so produktivni sodelavci.</p>
+
+<p>Kot neformalni vodja morate poskrbeti, <strong>da se sodelavci dobro počutijo</strong>.</p>
+
+<p>Sem spada recimo primerna delovna oprema ... Če je slaba naj bo slaba za vse, če pa ima nekdo boljšo, naj jo imajo vsi oz. tisti, ki je (še) nimajo, naj bodo objektivno obveščeni zakaj je tako.</p>
+
+<p>Pod vzdrževanje zadovoljstva sodi tudi občasno nagrajevanje za vloženi trud. Pri startupih je trud samoumeven, ampak v življenju ni. Majhna zadeva kot "častim pivo, ker si legenda" ali pa "tu imaš baterije za miško, sem videl da ti bo kmalu zmanjkalo" ali prigrizki in kofein ob nočnih nadurah, ker je deadline pred vrati ali se je zgodila izjemna situacija ... Malenkosti, ki presenetijo sodelavce in povečajo medsebojno povezanost.</p>
+
+<p><strong>Družabni dogodki?</strong> So dobri, če se zgodijo spontano. Recimo član ekipe ima nek izjemni dogodek pa povabi sodelavce. Team building dogodki lahko delujejo ravno nasprotno pri nekaterih, sploh ljudeh iz razvoja. Najboljši razvojnik je morda zelo zaprte narave in ga s takšnimi "prisilami" spravite v neprijeten položaj ...</p>
+
+<p>Skratka, <strong>zadovoljna ekipa, je lahko složna</strong>, če je kompatibilna.</p>
+
+<h2>Složna ekipa</h2>
+
+<p>To je najtežji del in je pogosto stvar sreče, sploh če mešamo nam neznane ljudi. Dokler lahko razpolagamo z ekipo prijateljev, je lažje, čeprav lahko ravno projekt zrahlja to prijateljstvo. Potrebno je opazovati in dovolj hitro reagirati, če želimo da projekt nadaljuje svojo pot.</p>
+
+<p>Tukaj se bom ustavil za trenutek in napisal kratko zgodbo iz časov <strong>ObalaNET</strong>, pravzaprav s koncem nekoč najmočnejše lokalne skupnosti v Sloveniji …</p>
+
+<p>ObalaNET sva ustvarila prijatelja, ki sva imela idejo, ki je nastala ob skupnem druženju. "Radi bi združili prebivalstvo na Obali." Takrat sem imel oddajo na Radiu Morje, prijatelj pa je programiral pri eni firmi, ki je skušala predreti na ameriški trg s pomočjo spletnih aplikacij. Denar ni bil problem, saj sva se oba še šolala, kar pomeni, da sva živela pri starših.</p>
+
+<p>Bila sva dobra prijatelja in znala sva se na hitro pomeniti, vsaj kar se tiče realizacije idej. Na začetku je on programiral, jaz sem pa imel ideje, ki so bile povezane z mojo radijsko oddajo. Naredili smo <strong>ObalaIN</strong>, zbornik dogodkov na Obali. Napisal je aplikacijo, jaz sem pa vzdrževal bazo zabav in jo uporabljal v svoji tematski radijski oddaji.</p>
+
+<p>ObalaIN je počasi zrasla v ObalaNET. Dogodki so bili pravzaprav prvi modul portala. Z razvojem foruma in osebnih sporočil, ob pomoči zelo posrečene oglasne kampanje, se je na portalu razvila <strong>uporabniška skupnost</strong> ...</p>
+
+<p>V par letih nam je res uspelo <strong>združiti prebivalce Obale pod eno "zastavo"</strong>. Ta zastava je bila tako vidna, da je imela neposreden vpliv na lokalne (politične) odločitve (100.000 volivcev, ki delujejo složno, predstavlja veliko moč).</p>
+
+<p>Ustvarili smo podjetje in se zaposlili v njemu, takrat se je začelo lomiti. Jaz nisem imel podjetniške žilice, videl sem predvsem ustvarjanje (vsebine in skupnosti), angažiranje ljudi, povezovanje virtualnega sveta in realnosti, on pa je užival v programiranju in poslovnih projektih. Dodali smo še nekaj ljudi v mešanico in nastali so prvi konflikti. Mešanica razočaranj povezanih z denarjem in predvsem neupoštevanjem medsebojnih idej.</p>
+
+<p>Torej kombinacija, ki je odlično delovala na začetku se je zlomila, ko je bilo potrebno stopiti čez prag ustvarjanja v fazo vzdrževanja ("pogrevanje" v našem receptu uspešnega projekta).</p>
+
+<p>Na koncu smo podjetje z vsem kar mu je pripadalo enostavno prodali in vsak je šel po svoji poti ... <strong>Prijateljstva je bilo konec</strong>.</p>
+
+<p>ObalaNET je brez naju z leti zgubljala na mesečnem obisku, po zadnji prenovi pa so skupnost enostavno ukinili. Trenutno je le senca tistega, kar je bila recimo leta 2008, čeprav grafično lepše zgleda.</p>
+
+<h2>Kaj pa večje ekipe?</h2>
+
+<p>Pri večjih ekipah stopijo v igro <a href="http://en.wikipedia.org/wiki/Social_network_analysis">analiza socialnih omrežij</a> in <a href="http://en.wikipedia.org/wiki/Game_theory">teorija iger</a>. O tem znajo povedati več sociologi in matematiki, sploh tisti, ki se igrajo s podatki prijateljevanj iz Facebooka in poslovnih kontaktov iz Linkedina. Sam nimam izkušenj s tem, sem se le s kdaj poigral s temi podatki, ampak z drugačnimi cilji. Zanimive zadeve.</p>
+
+<p>V tujini imajo večja podjetja zato zaposlene <strong>sociologe</strong>, pri nas pa je ta praksa bolj izjema kot pravilo.</p>
+
+<p><img src="/images/2014/xooltime2013.jpg" alt="image" /></p>
+
+<h2>Za konec</h2>
+
+<p><strong>Potrebujemo ljudi, ki bodo, vsak s svojim posebnim, tvorili celoto znotraj projekta.</strong> Če je to medij, potrebujemo tako ljudi, ki znajo izvesti in vzdrževati infrastrukturo, kot tiste, ki bodo ustvarjali privlačno vsebino in tiste, ki bodo vse skupaj znali spraviti v finančno stabilno obliko. Vse vloge so enakovredne, ne glede na "ceno" le-te. Tudi, če nekdo ne ustvarja neposredno kapitala, ker ustvarja produkt, ne pomeni, da je manj vreden od tistega, ki ta produkt prodaja, ko ga proda. To pogosto pozabljamo.</p>
+
+<p>Potrebujemo pa take ljudi, ki se po prvi ali drugi težavi ne bodo naveličali, ampak bodo šli naprej, četudi bo naslednji korak lahko polom.</p>
+
+<p><strong>Tudi polom je oblika zmage. Daje nam izkušnje, ki so bližnjica do uspeha.</strong></p>
+
+<br><br>
+
+
+<h4>Naslednjič: Za sedmimi gorami, tremi jezeri ...</h4>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Kako skuhati uspešen projekt?]]></title>
     <link href="http://blog.mclion.eu/2014/09/09/kako-skuhati-uspesen-projekt/"/>
     <updated>2014-09-09T15:25:00+02:00</updated>
     <id>http://blog.mclion.eu/2014/09/09/kako-skuhati-uspesen-projekt</id>
-    <content type="html"><![CDATA[<p>Vsako leto me povabijo na <strong>Fakulteto za humanistične študije</strong>, kjer odpredavam kakšno temo. Prva leta sem razlagal svojo zgodbo iz <strong>ObalaNET</strong> in jo povezal s praktično uporabo v njihovem svetu, potem pa sem se tega naveličal in začel iskati kaj novega iz svojih izkušenj, ki pa ni iz obdobja ObalaNET ...</p>
+    <content type="html"><![CDATA[<p><em>TL;DR - Delim izkušnje kako ustvariti uspešen projekt. Kaj so osnovne sestavine in kako priti do dobre ideje? Preberite ... :)</em></p>
+
+<p>Vsako leto me povabijo na <strong>Fakulteto za humanistične študije</strong>, kjer odpredavam kakšno temo. Prva leta sem razlagal svojo zgodbo iz <strong>ObalaNET</strong> in jo povezal s praktično uporabo v njihovem svetu, potem pa sem se tega naveličal in začel iskati kaj novega iz svojih izkušenj, ki pa ni iz obdobja ObalaNET ...</p>
 
 <p>Od takrat sem poskusil kar nekaj poslovnih eksperimentov. Par mi jih je uspelo, nekaj pa je katastrofalno počasi <strong>propadlo</strong>, z dokaj velikimi finančnimi izgubami pravzaprav. Ampak ravno te izkušnje so v poslovnem svetu uporabne. Ne samo uspehi, tudi padci. Porazi nas utrdijo, uspehi pa zmehčajo.</p>
 
@@ -114,7 +210,7 @@ Morda vam pomaga pri iskanju novih idej. Angleški izraz "to disrupt" je sveti g
 <p>Rešitev ni vse, potrebujete ljudi, da jo bodo uporabili in iz nje naredili dogodek/zgodbo. Potrebujete <strong>vsebino</strong>. Pa naj bo to aplikacija za telefon ali leseni dildo.
 </span></p>
 
-<p><strong>Naslednjič: Ekipa brez katere se še čevelj pravilno ne obuje. :)</strong></p>
+<h2><a href="/2014/09/09/kako-skuhati-uspesen-projekt-ekipa/">Nadaljevanje: Brez ekipe ni projekta</a></h2>
 
 <ul>
 <li><em><a href="https://flic.kr/p/7QPvjg">Photo of iPad and cat by Veronica Belmont</a></em>.</li>
