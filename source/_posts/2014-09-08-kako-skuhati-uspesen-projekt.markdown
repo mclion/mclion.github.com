@@ -102,9 +102,9 @@ Rešitev ni vse, potrebujete ljudi, da jo bodo uporabili in iz nje naredili dogo
 {% endpullquote %}
 
 
-## [Nadaljevanje: Brez ekipe ni projekta](/2014/09/09/kako-skuhati-uspesen-projekt-ekipa/)
+#### [Nadaljevanje: Brez ekipe ni projekta](/2014/09/09/kako-skuhati-uspesen-projekt-ekipa/)
 
-
+<br><br><br>
 
 
 + *[Photo of iPad and cat by Veronica Belmont](https://flic.kr/p/7QPvjg)*.
