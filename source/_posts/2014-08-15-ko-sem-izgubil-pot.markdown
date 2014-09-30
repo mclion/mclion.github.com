@@ -59,5 +59,3 @@ Svetloba, jasa, zunaj sem! Pred mano se odpre prelep pogled vse do morja. Ločim
 Oh, saj res, nekaj mi je sledilo?! Ničesar ni, morda se je ustavilo v gozdu. Mogoče je samo vročina, ki mi je skisala misli. Hodim naprej. Pred mano je še samo par kilometrov do koče.
 
 Tam srečam sestro. Imela je prav sproščen sprehod do vrha: "Dosadno dolga pot, navzdol sekamo skozi gozd. Aja, si videl table, ki opozarjajo na **volkove**?"
-
-![image](/images/2014/gozd-razgled_do_morja.jpg)

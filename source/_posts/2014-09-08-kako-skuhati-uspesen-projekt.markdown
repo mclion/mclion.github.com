@@ -6,6 +6,8 @@ comments: true
 share_image: /2014/recipe-book-Emily.jpg
 categories: internet, tehnologija
 ---
+*TL;DR - Delim izkušnje kako ustvariti uspešen projekt. Kaj so osnovne sestavine in kako priti do dobre ideje? Preberite ... :)*
+
 Vsako leto me povabijo na **Fakulteto za humanistične študije**, kjer odpredavam kakšno temo. Prva leta sem razlagal svojo zgodbo iz **ObalaNET** in jo povezal s praktično uporabo v njihovem svetu, potem pa sem se tega naveličal in začel iskati kaj novega iz svojih izkušenj, ki pa ni iz obdobja ObalaNET ...
 
 Od takrat sem poskusil kar nekaj poslovnih eksperimentov. Par mi jih je uspelo, nekaj pa je katastrofalno počasi **propadlo**, z dokaj velikimi finančnimi izgubami pravzaprav. Ampak ravno te izkušnje so v poslovnem svetu uporabne. Ne samo uspehi, tudi padci. Porazi nas utrdijo, uspehi pa zmehčajo.
@@ -100,7 +102,7 @@ Rešitev ni vse, potrebujete ljudi, da jo bodo uporabili in iz nje naredili dogo
 {% endpullquote %}
 
 
-**Naslednjič: Ekipa brez katere se še čevelj pravilno ne obuje. :)**
+## [Nadaljevanje: Brez ekipe ni projekta](/2014/09/09/kako-skuhati-uspesen-projekt-ekipa/)
 
 
 
