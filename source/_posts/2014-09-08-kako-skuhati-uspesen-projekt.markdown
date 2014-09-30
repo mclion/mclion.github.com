@@ -102,7 +102,7 @@ Rešitev ni vse, potrebujete ljudi, da jo bodo uporabili in iz nje naredili dogo
 {% endpullquote %}
 
 
-#### [Nadaljevanje: Brez ekipe ni projekta](/2014/09/09/kako-skuhati-uspesen-projekt-ekipa/)
+#### [Nadaljevanje: Brez ekipe ni projekta](/2014/09/30/kako-skuhati-uspesen-projekt-ekipa/)
 
 <br><br><br>
 
