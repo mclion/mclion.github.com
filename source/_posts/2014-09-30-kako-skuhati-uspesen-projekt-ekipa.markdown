@@ -3,7 +3,7 @@ layout: post
 title: "Kako skuhati uspešen projekt: Ekipa"
 date: 2014-09-30 19:42
 comments: true
-share_image: /images/2014/xooltime2013.jpg
+share_image: /2014/xooltime2013.jpg
 categories: internet, tehnologija
 ---
 *TL;DR - Ekipa je srce projekta, to so kuharji ki zmešajo sestavine. Brez njih se nič ne skuha, saj "replikatorji" iz Star Treka še niso bili izumljeni. :) Kakšna pa je uspešna ekipa?*
