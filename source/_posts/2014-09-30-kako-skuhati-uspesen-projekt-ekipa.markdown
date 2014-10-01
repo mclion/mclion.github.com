@@ -8,7 +8,7 @@ categories: internet, tehnologija
 ---
 *TL;DR - Ekipa je srce projekta, to so kuharji ki zmešajo sestavine. Brez njih se nič ne skuha, saj "replikatorji" iz Star Treka še niso bili izumljeni. :) Kakšna pa je uspešna ekipa?*
 
-#### [Prejšnjič: Recept za uspešen projekt in kako do dobre ideje](/2014/09/09/kako-skuhati-uspesen-projekt/)
+#### [Pred tem: Recept za uspešen projekt in kako do dobre ideje](/2014/09/09/kako-skuhati-uspesen-projekt/)
 
 Zadnjič sem razpredal o receptu za uspešen projekt oz. sestavinah zanj. Tokrat nadaljujem z eno najpomembnejših sestavin, ki pa pri nas povzroča tudi največ preglavic. Gre za družabno sestavino, ki lahko še tako dober projekt popolnoma uniči, če njena interakcija ne deluje konstruktivno.
 
