@@ -25,9 +25,8 @@
 	{% if page.title %}<meta name="twitter:title" content="{{ page.title }}">
 	<meta name="twitter:description" content="{{ description | strip_html | truncatewords:50 }}">{% endif %}
 	<meta name="twitter:creator" content="@mclion">
-	<meta name="twitter:image:src" content="http://blog.mclion.eu/images/2014/gozd-pot.jpg">
 	<meta name="twitter:domain" content="mclion.eu">
-	{% if page.share_image %}<meta property="twitter:image:src" content="{{ site.blog_images_url }}{{ page.share_image }}" />{% endif %}
+	{% if page.share_image %}<meta property="twitter:image:src" content="{{ site.blog_images_url }}{{ page.share_image }}" />{% else %}<meta name="twitter:image:src" content="http://blog.mclion.eu/images/2014/gozd-pot.jpg">{% endif %}
 	<!-- Google -->
 	{% if page.title %}<meta itemprop="name" content="{{ page.title }}">{% else %}<meta itemprop="name" content="{{ site.title }}">{% endif %}
 	<meta itemprop="description" content="{{ description | strip_html | truncatewords:70 }}">
