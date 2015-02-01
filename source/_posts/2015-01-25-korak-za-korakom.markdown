@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Korak za korakom, tek!"
-date: 2015-02-02 11:54
+date: 2015-02-01 21:54
 comments: true
 categories: zgodbe
 share_image: /2015/winter-runner.jpg
