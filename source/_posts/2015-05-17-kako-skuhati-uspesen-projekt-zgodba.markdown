@@ -5,7 +5,7 @@ date: 2015-05-17 17:14
 comments: true
 share_image: /2015/facebook-story.jpg
 categories: internet, tehnologija
-published: false
+published: true
 ---
 
 *TL;DR - Brez zgodbe ni projekta.*
