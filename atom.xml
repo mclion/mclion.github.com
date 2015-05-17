@@ -4,7 +4,7 @@
   <title><![CDATA[McLion's Mindstream]]></title>
   <link href="http://blog.mclion.eu/atom.xml" rel="self"/>
   <link href="http://blog.mclion.eu/"/>
-  <updated>2015-05-17T18:47:14+02:00</updated>
+  <updated>2015-05-17T18:50:59+02:00</updated>
   <id>http://blog.mclion.eu/</id>
   <author>
     <name><![CDATA[Marko Milost - McLion]]></name>
@@ -12,6 +12,169 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Kako skuhati uspešen projekt - Zgodba]]></title>
+    <link href="http://blog.mclion.eu/2015/05/17/kako-skuhati-uspesen-projekt-zgodba/"/>
+    <updated>2015-05-17T17:14:00+02:00</updated>
+    <id>http://blog.mclion.eu/2015/05/17/kako-skuhati-uspesen-projekt-zgodba</id>
+    <content type="html"><![CDATA[<p><em>TL;DR - Brez zgodbe ni projekta.</em></p>
+
+<h4><a href="http://blog.mclion.eu/2014/09/09/kako-skuhati-uspesen-projekt-ekipa/">Pred tem: Uspešen projekt - Ekipa</a></h4>
+
+<p>Življenje je zgodba. Svet doživljamo in opisujemo v obliki krajših dogodkov, ki tvorijo celoto. Zato projekt, ki ne zna sporočiti zgodbe, ne more ustvariti povpraševanja, še manj pa navezanosti na storitve/produkte, ki jih želi tržiti.</p>
+
+<p>Seveda ni vsaka zgodba dobra. Definicija dobrega je subjektivna, znamo pa vse dobre zgodbe enostavno obnoviti. Zgodba vašega projekta mora biti tako enostavna, da jo znate razložiti v eni povedi. To ni mogoče? Če vi ne razumete zgodbe vašega produkta, je verjetno ne bodo niti vaši potrošniki. Razen, če zmagate na loteriji. V tem primeru pa raje pojdite strele loviti, imate več možnosti. :)</p>
+
+<p>Nekaj primerov projektov in njihove zgodbe v eni povedi:</p>
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th>  Produkt </th>
+<th> Zgodba   </th>
+<th> </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td> <strong>FaceBook</strong> </td>
+<td> Skupnost prijateljev za vzdrževanje stikov in ustvarjanje novih. </td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td> <strong>Twitter</strong> </td>
+<td> Kaj se ravnokar dogaja? </td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td> <strong>LinkedIn</strong> </td>
+<td> Iščem službo, rabim kader. </td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td> <strong>24ur.com</strong> </td>
+<td> Šokantne, seksi, zanimive novice. </td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td> <strong>slovenskenovice.si</strong> </td>
+<td> Šokantne, seksi, zanimive novice. </td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td> <strong>Zmenkarije</strong> </td>
+<td> Kjer dobim lahko zmenek, prijatelja &#8230; </td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td> <strong>Keramični lonec</strong> </td>
+<td> Ker, INOX ni več zdrav &#8230; </td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td> <strong>Colgate</strong> </td>
+<td> Za bolj bele zobe in dišeč zadah, dovolj je dvakrat dnevno. </td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td> <strong>Delmonte sadje</strong> </td>
+<td> Dobro, ker ga izbira gospod Del Monte osebno. </td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td> <strong>Hofer</strong> </td>
+<td> So poceni, so fer. </td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td> <strong>Ikea</strong> </td>
+<td> Poceni, lahko pogosto menjam pohištvo, čeprav ga ne bom. </td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td> <strong>Lego</strong> </td>
+<td> Kocke, ki pri otroku razvijajo ustvarjalnost. </td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td> <strong>ObalaNET</strong> </td>
+<td> Združujemo Obalo. </td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td> <strong>Cockta</strong> </td>
+<td> Pijača naše mladosti. </td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td> <strong>Mobilni telefon</strong> </td>
+<td> Ker sem rad povezan. </td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+
+<p>Zgodbe so skoraj kot razlogi, pravzaprav je pri produktih to skorajda sinonim.</p>
+
+<p>Včasih zgodba ne pove nič, sploh če je preveč splošna. Pri 24ur.com in Slovenskih novicah ni ločnice v pogledu uporabnika. Oboje pogosto konzumirajo brez večjih preferenc, razlika je predvsem v njihovi ciljni publiki, ki se ne prekriva preveč (politično-družbeni profili).</p>
+
+<p>Verjetno ste že ugotovili, da si zgodbo naredi uporabnik, proizvajalec mu jo lahko predvsem sugerira. Kot za Yugo, ki je dobil moto &#8220;ne traje dugo&#8221;, čeprav so ga imeli v Jugoslaviji skoraj vsi. Ta moto je bil želja &#8220;po nečem več&#8221;, zato ne bo trajal dolgo. To posmehovanje je pomagalo v prodaji, kazalo ga je kot avtomobil, ki si ga privoščim, dokler ne bo denarja za nekaj boljšega &#8230;</p>
+
+<p>Uporabnik potrebuje zgodbo s katero se lahko poistoveti, jo naredi za svojo. <strong>Uporabnik potrebuje svojo zgodbo.</strong></p>
+
+<p>Zgodba pa ni le stanje, je tudi pot. Take zgodbe imamo recimo pri igračah, ki same po sebi niso nekaj izjemnega, ampak nam proizvajalec poda neko izhodišče/navodila, otrok pa to zgodbo nadgradi oz. izpelje po svoje. Barbika je konec koncev le suhljata lutka, ampak je dosti več; Barbika igra vlogo od princeske do astronavta ali celo bojevnika, odvisno od otroka, ki se igra z njo. Je lahko tudi izobraževalno orodje. Pravzaprav je pri otrocih oblika produkta skoraj nepomembna, če jo znaš zapakirati v privlačno zgodbo.</p>
+
+<p>Svet se v odraslih letih bolj malo spremeni. Produkt mora priti z zgodbo, da lahko z njim &#8220;nekje začnemo&#8221;. Kmalu to zgodbo razširimo v svojo ali jo zavržemo, ko ugotovimo, da ni za nas. Tak produkt je recimo Apple Watch, ki je vse prej kot ura, ampak začne se uporabljati tako. Mnogi bodo našli ob njegovi uporabi nove zgodbe, mnogo jih bo pa noviteto zavrglo kot &#8220;še ni čas&#8221; ali &#8220;to ni zame&#8221;.</p>
+
+<p>Zgodba je torej zelo pomembna. Pravzaprav brez nje ni produkta. Brez zgodbe ne moremo ločiti Facebooka od Baduja, Twoo, Google+ ali Twitterja.</p>
+
+<p>Priznam, rad pripovedujem zgodbe in jih znam vgraditi v skoraj vsak produkt in osebo, ko jo vsaj malo spoznam. Zgodba nastane skozi moj filter, je osebna. Večina to počne, morda le ne toliko zavestno. <strong>To pa moramo oz. lahko pri svojem produktu izkoristimo.</strong></p>
+
+<p><img src="http://blog.mclion.eu/images/2015/zgodba-lucka.jpg" alt="Ne glej v sonce brez lučke" /></p>
+
+<h1>Primeri</h1>
+
+<p>O <strong>Apple</strong> je skoraj brez predmetno izgubljati besede. Njihovi produkti so &#8220;naravni&#8221;, izjemni in dajejo občutek potrošniške ekskluzive. So nekoliko dražji kot podobni na tržišču in čeprav jih ima množica, boste še vedno imeli občutek &#8220;nečesa več&#8221;. Apple je &#8220;nekaj več&#8221;.</p>
+
+<p>Primer zgodbe &#8220;nekaj več&#8221; so tudi ustekleničene vode. Recimo bolj komercialna voda <strong>Fuji</strong>, ki jo polnijo na Japonskem, stane kot da bi prišla iz Marsa, pakirana pa je v kvadratnih plastenkah. Neposredno iz vrha hriba Fuji na Japonskem, iz te eksotične države, vse do nas, ki jo pijemo v kafiču na dopustu &#8230;  Ali pa voda <strong>Cristal</strong>, ki jo dobite le v ekskluzivnih lokalih in je pakirana v buteljkah iz kristala ter vas bo stala kot večerja v povprešni restavraciji. Tri deci, seveda. Konec koncev pa je le voda. Kakšen občutek imate, ko jo pijete, je pa druga zgodba &#8230; Endorfini so vredni vsakega centa.</p>
+
+<p>Če pa vzamemo slovenski primer. <a href="http://zlati-ghee.si/"><strong>Zlati Ghee</strong></a> je primer dobre zgodbe. V osnovi ni nič posebnega, gre za maslo, ampak odprite si njihovo spletno mesto in si preberite vse kar so znali spisati na to. Zakaj ga še nimate doma? Tak pristop ima seveda večina projektov na Kickstarterju. Predvsem uspešnih. Še niste prepričani?</p>
+
+<p><strong>Hiše s strahovi.</strong> Ne gre za klasičen produkt, je pa še vedno produkt zgodbe. Hiša je hiša, ponavadi je stara, v slabšem stanju, v njej vse škripa, vlažno je in prepihe ima &#8230; Z zgodbo postane strašna. V njej so duhovi &#8230; Vsako škripanje in žvižganje, ki bi jih sicer človek razumel kot širjenje/krčenje lesa ali prepih, postane neka entiteta. :)</p>
+
+<h2>ObalaNET zgodba</h2>
+
+<p>Za zaključek pa nekaj iz moje druge uspešne poslovne zgodbe v življenju. Nastala je organsko in mi kot študentu ni bilo najbolj jasno kako je vse uspelo. <strong>ObalaNET</strong> je bil spletni projekt, ki je začel kot želja popisati dogajanje na Obali in se je imenoval na začetku ObalaIN.</p>
+
+<p>Kasneje smo ga razširili na ObalaNET, ko je prijatelj, znan pod psevdonimom Duck, spisal večino kode za nekega delodajalca (za ameriški trg) in to prenesel na portal. Tako so dogodki postali le ena storitev, dodali pa smo ji še ostale elemente, ki jih potrebuje spletna skupnost - novice, fotografije, male oglase in predvsem zasebna sporočila (informiranje, vojerstvo in komunikacija).</p>
+
+<p>Vse to smo zapakirali v moto <strong>&#8220;Združujemo Obalo&#8221;</strong>. Zelo enostavno in razumljivo.</p>
+
+<p>Ko smo portal propagirali, smo vsakič povedali isto, zelo kratko, zelo enostavno. Ljudem je bilo takoj jasno in so zadevo preizkusili. Zatem so zaradi fotografij, novic in osebnih sporočil postali redni uporabniki in propagirali med prijatelji na isti način. Namreč, če so prijatelji gor, lahko hitreje/enostavneje komuniciraš z njimi.</p>
+
+<p>Nam je uspelo združiti Obalo? Seveda. Skupnost je bila tako močna, da je vplivala na lokalno politiko, če je želela &#8230; Potem so se razvile interne težave, ravno v času, ko je Facebook odprl dostop celotnemu svetu in kot ekipa nismo odreagirali, <a href="http://blog.mclion.eu/2014/09/30/kako-skuhati-uspesen-projekt-ekipa/">ker smo se pač kregali</a> &#8230; Takrat je bila edina rešitev prodaja vsega in ločitev osebnih poti ustanoviteljev, nekoč najboljših prijateljev &#8230; Ampak o tem kdaj drugič.</p>
+
+<h4>Naslednjič: Izvedba projekta je tudi del recepta.</h4>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Korak za korakom, tek!]]></title>
@@ -943,15 +1106,6 @@ Odložim. Srce mi razbija. Take zgrešene številke še ne &#8230;</p>
     <updated>2010-09-02T00:00:00+02:00</updated>
     <id>http://blog.mclion.eu/2010/09/02/spet-imam-po-glavi-tisti-komad</id>
     <content type="html"><![CDATA[[[posterous-content:iKZksiJYmNChx3UZjVh2]]<p>Tudi danes se je zgodilo. Zbudim se, tišina..skoraj kot v centru Portoroža sredi sezone. Osebno me ne moti, ampak mr.brain pa je očitno ne prenaša. Začnem brundati, neham..spet brundam, ampak tokrat brez da bi spuščal zvokov. Damn mr.brain!<p /> Ja, <b>tista pesem </b>- tista, ki se vrti non-stop po radiu, ki se je vrtela nekoč, ali pa se nikoli ni in mi je ravno danes skočila iz sanj v zavest. Že vem, danes ne bo šla iz glave, nič ne bo pomagalo, cel dan bo težila&#8230;in če komu to omenim, me bo v toku dneva še najmanj 3x spomnil nanjo, da je ja ne bi pozabil&#8230;prijatelji pa taki. </p><p /><div>Tudi počnem tudi jaz. :) Užitek je gledati človeka, ki “trpi” zaradi tistega komada, ki ne gre in ne gre iz glave.<p />Ampak na spletu se je pojavila <b>rešitev</b>. Saj vemo, splet vedno pomaga in če danes ne, pa bo čez čas. Spletno mesto <b><a href="http://Unhearit.com" target="_blank">Unhearit.com</a></b> je namenjeno reševanju mojega današnjega problema.<p /> Kot pravijo snovalci spletnega mesta <a href="http://Unhearit.com" target="_blank">Unhearit.com</a> so za reševanje problema, ki tare velik del populacije razvitega sveta, uporabili najnovejše tehnike vzvratno-slušno-melodično-odblokiravanja. S temi modernimi tehnikami omogočijo uporabnikom, da <b>zbijejo</b> pesem iz glave s pomočjo nove pesmi. Prav ste razumeli, nova pesem zbije staro pesem iz glave po principu kladivo se s kladivom zbija.<p /> Včasih tudi deluje&#8230;vsaj dokler ti kot kladva ne servira skupino <a href="http://www.youtube.com/watch?v=2H5uWRjFsGc">Chambawamba</a> ali kaj podobno možgano-lepljivega.</div>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Kanegra incident]]></title>
-    <link href="http://blog.mclion.eu/2010/08/30/the-kanegra-incident/"/>
-    <updated>2010-08-30T00:00:00+02:00</updated>
-    <id>http://blog.mclion.eu/2010/08/30/the-kanegra-incident</id>
-    <content type="html"><![CDATA[<div style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; background-color: transparent; font-size: medium;"><span style="font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">Zadnja petkova noč v letošnjem avgustu bo za vse večne čase znana po incidentu med Kanegro in Portorožem in bo verjetno v zgodovino zapisana kot “</span><span style="font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: bold; font-style: normal; text-decoration: none; vertical-align: baseline;">tista noč, ki je zakomplicirala vse</span><span style="font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">”. Tukaj ciljam na mejni sporazum med Hrvaško in Slovenijo, ki bo verjetno zaradi tega nepredstavljivega napada razuzdanih mladostnikov na speče portoroško prebivalstvo padel v vodo.</span><br /> <span style="font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;"></span><br /><span style="font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">Ampak pričnimo na začetku. Bil je zadnji petek v avgustu, peti zapovrstjo.</span><span style="font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: bold; font-style: normal; text-decoration: none; vertical-align: baseline;"> Pet petkov v avgustu </span><span style="font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">se baje zgodi samo enkrat na milijone milijard let in jasno je, da je že samo ta podatek razkuril prebivalce Portoroža, kateri so v </span><span style="font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: bold; font-style: normal; text-decoration: none; vertical-align: baseline;">meko obalnega počitka</span><span style="font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;"> prišli iz vseh suhih koncev Slovenije in drugih držav - nekateri celo iz tam, kjer še rek nimajo&#8230;razen ob poplavah. </span><br /> <span style="font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;"></span><br /><span style="font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">Skratka, bil je prekleti peti petek v avgustu, “domačini” pa razkačeni zaradi datumskega podaljšanja sezone. Vroče je bilo, res vroče. Najbolj topel petek celotnega avgusta. Namreč ves avgust je bil idealen za “lokalce”, saj je skoraj vsak konec tedna deževalo in mladina ter ostali nepridipravi niso imeli možnosti razgrajati in motiti sobotni spanec. In ta petek, zadnji petek v avgustu, PETI petek v avgustu se še vreme ni hotelo menit za uboge spalce..in kaj pripravi narava? Vročino&#8230;mislim, vročino na koncu avgusta, si predstavljate?! No, tudi zato so bili razkačeni.</span><br /> <span style="font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;"></span><br /><span style="font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">Zgodilo se pa je še nekaj nepredvidljivega, skoraj kot peti petek v avgustu. V kampu Kanegra, v že tako zasovraženi občini Buje&#8230;ja, tisti občini, ki je prepričana, da je hiša od Jorasa, še enega od predstavnikov “lokalcev”, pravzaprav v njihovi občini. Pa pozabimo na to, da imajo za to podpisane listine z joško gor. To je druga zgodba. Vrnimo se v Kanegro. Ja, letovišče Kanegra, ki zaradi očitne hrvaške slaboželjnosti stoji nasproti Portoroža, tako da lahko vse žure, joj te žure&#8230;oziroma njihov “kažin” lahko preusmerijo v ubogi Portorož, ki si ne želi dosti več kot mirnih poletnih noči&#8230;kjer se ne sliši črička v zraku. Samo to&#8230;</span><br /> <span style="font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;"></span><br /><span style="font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">V Kanegri so v petek zvečer </span><a href="http://www.zurnal24.si/fotogalerije/beach-festival-v-kanegri-182501/galerija"><span style="font-size: 11pt; color: rgb(0, 0, 153); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: underline; vertical-align: baseline;">organizirali </span><span style="font-size: 11pt; color: rgb(0, 0, 153); background-color: transparent; font-weight: bold; font-style: normal; text-decoration: underline; vertical-align: baseline;">živalsko razgrajanje</span></a><span style="font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">, ki ga tukajšnji “lokalci” ljubkovalno imenujejo “RAVE” zabava, posledice te na nezabavarje pa “bumbanje”. Slednja beseda izhaja iz tega, kar sami zaradi vse nabrane grenkobe več ne počno. Beseda ponavadi opisuje nekaj lepega, kot je ritmično in energično dotikanje (bumbanje) dveh pregretih ter prepotenih teles v skupnem užitku&#8230;ti ”domačini” pa jo dandanes uporabljajo za moteč občutek ob “RAVE” zabavi na katero niso bili povabljeni.</span><br /> <span style="font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;"></span><br /><span style="font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">Zabava se je dogajala 12 ur, </span><a href="http://delo.si/clanek/119229"><span style="font-size: 11pt; color: rgb(0, 0, 153); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: underline; vertical-align: baseline;">vsaj tako poroča</span></a><span style="font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;"> zelo znan, resen in sploh eden zadnjih predstavnikov papirnatih medijev v Sloveniji. Teh dvanajst ur verjetno ne bi bilo toliko problematičnih, če se ne bi dogajale sredi noči.</span><span style="font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;"> To je v času, ko lokalno prebivalstvo (med petkom in soboto) pričakuje vsaj pogrebno tišino, če se le ne da tišje. Po pisanju še ne omenjenega dnevnika </span><span style="font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: bold; font-style: normal; text-decoration: none; vertical-align: baseline;">naj 5000 ljudi celo noč ne bi zatisnilo oči</span><span style="font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">. Tukaj se ne bom spuščal v način zbiranja podatkov in analize le-teh. Verjetno je novinarja kontaktiralo vseh teh 5000 oseb in je zato tudi spisal članek. Simpatiziram z njim.</span><br /> <span style="font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;"></span><br /><span style="font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">Zatorej je razumljivo, da se je v gostilni Pri ribiču na rtu Seča organizirala civilna iniciativa, ki bo v zgodovini odnosov med Hrvaško in Slovenijo verjetno imela še zelo velik pomen, morda celo večji kot nacionalni Joško. Ta civilna iniciativa - imenujmo jo kar “Pri ribiču”, se je odločila </span><span style="font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: bold; font-style: normal; text-decoration: none; vertical-align: baseline;">protestno zapreti tri mejne prehode v Istri.</span><span style="font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;"> Kdaj bodo ta zapiranja in ali bodo počakali, da se turisti spakirajo čez mejo ali ne, bo znano šele jutri, ko bo veliko zasedanje vseh prizadetih.</span><br /> <span style="font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;"></span><br /><span style="font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">Držimo pesti in upajmo, da se “</span><span style="font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; text-decoration: none; vertical-align: baseline;"><b>The Kanegra incident</b></span><span style="font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">”</span><span style="color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;"><span style="font-size: small;">*</span></span><span style="font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;"> ne bo sprevrgel v velik upor portoroških suhozemcev, ljubiteljev polke, valčka in turbo folka proti hrvaški mladini. Še bolj pa upajmo, da “Pri ribiču” ne ugotovijo, da je na zabavi sodelovalo kar nekaj slovenske mladine, ki je nacionalno harmoniko nadomestila z divjim “bumbanjem” &#8230; </span><br /> <span style="font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;"></span><br /><span style="font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">Upajmo tudi, da “Pri ribiču” zaradi tega ne bodo pričeli gladovne stavke&#8230;za gostilno se to ne bi spodobilo.</span><br /> <span style="font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;"></span><br /><span style="font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;"></span><br /> <span style="font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; text-decoration: none; vertical-align: baseline;"><i>* Naziv je v angleščini, da se izognem privilegiranju ene ali druge strani.</i></span></div>
 ]]></content>
   </entry>
   
