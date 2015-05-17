@@ -89,4 +89,4 @@ Potrebujemo pa take ljudi, ki se po prvi ali drugi težavi ne bodo naveličali, 
 **Tudi polom je oblika zmage. Daje nam izkušnje, ki so bližnjica do uspeha.**  
 <br><br>
       
-#### Naslednjič: Za sedmimi gorami, tremi jezeri ...
+#### [Nadaljevanje: Zgodba!](/2015/05/17/kako-skuhati-uspesen-projekt-zgodba/)
