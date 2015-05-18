@@ -10,7 +10,7 @@ published: true
 
 *TL;DR - Brez zgodbe ni projekta.*
 
-#### [Pred tem: Uspešen projekt - Ekipa](/2014/09/09/kako-skuhati-uspesen-projekt-ekipa/)
+#### [Pred tem: Uspešen projekt - Ekipa](/2014/09/30/kako-skuhati-uspesen-projekt-ekipa/)
 
 Življenje je zgodba. Svet doživljamo in opisujemo v obliki krajših dogodkov, ki tvorijo celoto. Zato projekt, ki ne zna sporočiti zgodbe, ne more ustvariti povpraševanja, še manj pa navezanosti na storitve/produkte, ki jih želi tržiti.
 
