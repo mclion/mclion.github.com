@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Strah nas lahko reši"
-date: 2015-10-27 13:13
+date: 2015-10-25 13:13
 comments: true
 share_image: /2015/weepingangel.jpg
 categories: zgodbe, zabava
@@ -48,9 +48,13 @@ Za pokušino pa nekaj mojih starih horror zgodb v 140 znakih ali manj:
 
 <blockquote class="twitter-tweet" lang="en"><p lang="sl" dir="ltr">Starejši ljudje bolj dišijo. Kvaliteta vonja kaže njihov socialni status. Tega so se tudi zombiji naučili in pustijo penzioniste pri miru.</p>&mdash; Kratke Zgodbe (@kratkazgodba) <a href="https://twitter.com/kratkazgodba/status/622444159350272000">July 18, 2015</a></blockquote> 
 
-<blockquote class="twitter-tweet" lang="en"><p lang="sl" dir="ltr">Stopila sem v sinovo sobo.Ga objela in poljubila.Nekaj se je premaknilo, pod posteljo.Bil je moj sin,paničen:&quot;Nekdo je v moji postelji!&quot; <a href="https://twitter.com/hashtag/kz?src=hash">#kz</a></p>&mdash; Marko McLion (@mclion) <a href="https://twitter.com/mclion/status/440229822636519424">March 2, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" lang="en"><p lang="sl" dir="ltr">Stopila sem v sinovo sobo.Ga objela in poljubila.Nekaj se je premaknilo, pod posteljo.Bil je moj sin,paničen:&quot;Nekdo je v moji postelji!&quot; <a href="https://twitter.com/hashtag/kz?src=hash">#kz</a></p>&mdash; Marko McLion (@mclion) <a href="https://twitter.com/mclion/status/440229822636519424">March 2, 2014</a></blockquote> 
 
+<blockquote class="twitter-tweet" lang="en"><p lang="sl" dir="ltr">Trka na vrata. Kot otrok je ful jokal. Nisem več zdržal in mu stisnil povšter na obraz... &#10;Trkajo, vem kdo je. Na drugi strani sem jaz. <a href="https://twitter.com/hashtag/kz?src=hash">#kz</a></p>&mdash; Marko McLion (@mclion) <a href="https://twitter.com/mclion/status/431125375473950720">February 5, 2014</a></blockquote> 
 
+<blockquote class="twitter-tweet" lang="en"><p lang="sl" dir="ltr">Ne morem spati, premetavam se. Pogrešam jo. Primem jo za roko. Hladna je, mrtvo hladna ... Vsakič pozabim. &#10;<a href="https://twitter.com/hashtag/horror?src=hash">#horror</a> <a href="https://twitter.com/hashtag/kz?src=hash">#kz</a> <a href="https://twitter.com/hashtag/kratkezgodbe?src=hash">#kratkezgodbe</a></p>&mdash; Marko McLion (@mclion) <a href="https://twitter.com/mclion/status/436089070461386752">February 19, 2014</a></blockquote> 
+
+<blockquote class="twitter-tweet" lang="en"><p lang="sl" dir="ltr">Hčerka joče vsako noč! Redno jo obiskujem, ne morem je pomiriti, ne znam ... &quot;Nehaj jokati!&quot; &#10;Vsakič obupan zapustim pokopališče ...</p>&mdash; Kratke Zgodbe (@kratkazgodba) <a href="https://twitter.com/kratkazgodba/status/445287149420953600">March 16, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ##Se beremo 31. oktobra in ne pozabi sekire pustiti doma! :)
