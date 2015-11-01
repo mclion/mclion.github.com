@@ -69,7 +69,7 @@ Za pokušino pred "dogodkom" je tu nekaj mojih starih horror zgodb v 140 znakih 
 
 Dan reformacije je mimo in z njim tudi horrorfest. Tukaj je zbirka vseh objavljenih tvitov v tistem času, če ti je kateri všeč, ga kar retvitaj. :)
 
-<a class="twitter-timeline" href="https://twitter.com/search?q=from%3Akratkazgodba%20since%3A2015-10-30%20until%3A2015-11-01" data-widget-id="660860490118246400">Tweets about from:kratkazgodba since:2015-10-30 until:2015-11-01</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<a class="twitter-timeline" href="https://twitter.com/search?q=from%3Akratkazgodba%20since%3A2015-10-30%20until%3A2015-11-02" data-widget-id="660860490118246400">Strašne kratke zgodbe</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
 
 *Za nove zgodbe pa te vabim, da mi slediš na  [@kratkazgodba](https://twitter.com/kratkazgodba) ali [fb.com/kratkazgodba](https://www.facebook.com/kratkazgodba)*.
