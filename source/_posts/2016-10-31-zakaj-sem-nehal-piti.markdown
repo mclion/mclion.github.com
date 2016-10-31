@@ -8,7 +8,7 @@ categories: zgodbe
 published: true
 ---
 
-Rad pišem. Ogromno pišem. Pisanje mi predstavlja nekakšen prečiščevalni proces. Terapijo. Včasih me zgodba nenapovedano napade, kot vročinski napad. Nujno jo moram spraviti v besedilo, sicer ne morem nadaljevati s svojim življenjem - morila me bo ves dan in se vrnila v spanju, v obliki nočne more.
+Rad pišem. Pisanje mi predstavlja nekakšen prečiščevalni proces. Terapijo. Včasih me zgodba nenapovedano napade, kot vročinski napad. Nujno jo moram spraviti v besedilo, sicer ne morem nadaljevati s svojim življenjem - morila me bo ves dan in se vrnila v spanju, v obliki nočne more.
 
 Večinoma  je dovolj, da jo spesnim v tvit, ki ga objavim kot @kratkazgodba, včasih pa moram napolniti več strani - teh ne objavim. Vsebina napisanega se mi zdi preveč intimna, da bi si jo upal deliti s svetom.
 
