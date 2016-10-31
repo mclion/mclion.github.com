@@ -4,7 +4,7 @@ title: "Strah nas lahko reši"
 date: 2015-10-27 13:13
 comments: true
 share_image: /2015/weepingangel.jpg
-categories: zgodbe, zabava
+categories: [zgodbe, zabava]
 published: true
 ---
 
