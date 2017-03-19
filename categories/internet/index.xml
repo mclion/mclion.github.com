@@ -26,25 +26,94 @@
 
 &lt;p&gt;Nekaj primerov projektov in njihove zgodbe v eni povedi:&lt;/p&gt;
 
-&lt;p&gt;|  Produkt | Zgodba   |
-|&amp;mdash;|&amp;mdash;|
-| &lt;strong&gt;FaceBook&lt;/strong&gt; | Skupnost prijateljev za vzdrževanje stikov in ustvarjanje novih. |
-| &lt;strong&gt;Twitter&lt;/strong&gt; | Kaj se ravnokar dogaja? |
-| &lt;strong&gt;LinkedIn&lt;/strong&gt; | Iščem službo, rabim kader. |
-| &lt;strong&gt;24ur.com&lt;/strong&gt; | Šokantne, seksi, zanimive novice. |
-| &lt;strong&gt;slovenskenovice.si&lt;/strong&gt; | Šokantne, seksi, zanimive novice. |
-| &lt;strong&gt;Zmenkarije&lt;/strong&gt; | Kjer dobim lahko zmenek, prijatelja &amp;hellip; |
-| &lt;strong&gt;Keramični lonec&lt;/strong&gt; | Ker, INOX ni več zdrav &amp;hellip; |
-| &lt;strong&gt;Colgate&lt;/strong&gt; | Za bolj bele zobe in dišeč zadah, dovolj je dvakrat dnevno. |
-| &lt;strong&gt;Delmonte sadje&lt;/strong&gt; | Dobro, ker ga izbira gospod Del Monte osebno. |
-| &lt;strong&gt;Hofer&lt;/strong&gt; | So poceni, so fer. |
-| &lt;strong&gt;Ikea&lt;/strong&gt; | Poceni, lahko pogosto menjam pohištvo, čeprav ga ne bom. |
-| &lt;strong&gt;Lego&lt;/strong&gt; | Kocke, ki pri otroku razvijajo ustvarjalnost. |
-| &lt;strong&gt;ObalaNET&lt;/strong&gt; | Združujemo Obalo. |
-| &lt;strong&gt;Cockta&lt;/strong&gt; | Pijača naše mladosti. |
-| &lt;strong&gt;Mobilni telefon&lt;/strong&gt; | Ker sem rad povezan. |&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Produkt&lt;/th&gt;
+&lt;th&gt;Zgodba&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
 
-&lt;p&gt;Zgodbe so skoraj kot razlogi, pravzaprav je pri produktih to skorajda sinonim.&lt;/p&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;FaceBook&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Skupnost prijateljev za vzdrževanje stikov in ustvarjanje novih.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Twitter&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Kaj se ravnokar dogaja?&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;LinkedIn&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Iščem službo, rabim kader.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;24ur.com&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Šokantne, seksi, zanimive novice.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;slovenskenovice.si&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Šokantne, seksi, zanimive novice.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Zmenkarije&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Kjer dobim lahko zmenek, prijatelja &amp;hellip;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Keramični lonec&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Ker, INOX ni več zdrav &amp;hellip;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Colgate&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Za bolj bele zobe in dišeč zadah, dovolj je dvakrat dnevno.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Delmonte sadje&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Dobro, ker ga izbira gospod Del Monte osebno.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Hofer&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;So poceni, so fer.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Ikea&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Poceni, lahko pogosto menjam pohištvo, čeprav ga ne bom.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Lego&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Kocke, ki pri otroku razvijajo ustvarjalnost.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;ObalaNET&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Združujemo Obalo.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Cockta&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Pijača naše mladosti.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Mobilni telefon&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Ker sem rad povezan.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br&gt;
+Zgodbe so skoraj kot razlogi, pravzaprav je pri produktih to skorajda sinonim.&lt;/p&gt;
 
 &lt;p&gt;Včasih zgodba ne pove nič, sploh če je preveč splošna. Pri 24ur.com in Slovenskih novicah ni ločnice v pogledu uporabnika. Oboje pogosto konzumirajo brez večjih preferenc, razlika je predvsem v njihovi ciljni publiki, ki se ne prekriva preveč (politično-družbeni profili).&lt;/p&gt;
 
