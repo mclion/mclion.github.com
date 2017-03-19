@@ -1,4 +1,7 @@
+---
+layout: nil
+---
 User-agent: *
 Disallow: 
 
-Sitemap: http://blog.mclion.eu/sitemap.xml 
+Sitemap: {{ site.url }}/sitemap.xml 

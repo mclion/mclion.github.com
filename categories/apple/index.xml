@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apple on McLion&#39;s Mindstream</title>
+    <link>https://blog.mclion.eu/categories/apple/index.xml</link>
+    <description>Recent content in Apple on McLion&#39;s Mindstream</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sl-SI</language>
+    <atom:link href="https://blog.mclion.eu/categories/apple/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Slovenski črkovalnik v Mac OSX (Snow) Leopard in Lion</title>
+      <link>https://blog.mclion.eu/2012/02/23/slovenski-crkovalnik-v-mac-osx-snow-leopard-i/</link>
+      <pubDate>Thu, 23 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mclion.eu/2012/02/23/slovenski-crkovalnik-v-mac-osx-snow-leopard-i/</guid>
+      <description>&lt;p&gt;Na spletu je moč najti navodila kako naložiti slovenski črkovalnik v OSX s pomočjo paketa Aspell. Ta metoda ni najbolj optimalna, je pa bila edina do nedavnega edina. Mnogi so spregledali, da OSX od verzije 10.6 podpira nalaganje drugih slovarjev preko odprtega sistema. Apple je namreč v Leopardu zamenjal črkovalnik in uporabil odprto-kodnega, ki koristi slovarje istega formata kot Openoffice.org (oz. sedaj LibreOffice).&lt;p /&gt; Tukaj so navodila kako to storimo na nov način, ki ne zahteva instalacije posebnih programov, deluje pa v vseh t.i. Cocoa aplikacijah, torej tudi v iWork paketih, Safariju, Twitterju in podobno &amp;hellip;&lt;br /&gt;&lt;strong&gt;&lt;br /&gt;Kako naložimo slovenski črkovalnik v OSX Leopard, Snow Leopard ali Lion?&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;*Prenesite črkovalnik iz &lt;a href=&#34;http://extensions.services.openoffice.org/en/project/pack-sl&#34; target=&#34;_blank&#34;&gt;http://extensions.services.openoffice.org/en/project/pack-sl&lt;/a&gt;.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Odprite Finder&lt;/li&gt;
+&lt;li&gt;Dobljeni datoteki preimenujte končnico iz oxt v zip. To storite s klikom na označeno datoteko ali pa stisnete tipko ENTER, ko je datoteka označena.&lt;/li&gt;
+&lt;li&gt;Odzipajate datoteko (dvojni klik nanjo) in odprite novonastalo mapo.&lt;/li&gt;
+&lt;li&gt;Označite datoteki &lt;strong&gt;sl_SI.aff &lt;/strong&gt;in &lt;strong&gt;sl_SI.dic&lt;/strong&gt;. Kliknite z desnim gumbom mi&amp;scaron;ke ali pa držite tipko CMD in kliknite z mi&amp;scaron;ko. V meniju, ki se odpre, izberite opcijo &#34;Copy 2 Items&#34;.&lt;/li&gt;
+&lt;li&gt;Kliknite na opcijo GO, ki se nahaja na vrhu (&amp;scaron;e vedno imate odprt Finder), izberite &#34;Go to Folder&#34; in v okence vtipkajte &#34;&lt;strong&gt;~/Library/&lt;/strong&gt;&#34; ter kliknite na gumb GO.&lt;/li&gt;
+&lt;li&gt;Najdite mapo &#34;&lt;strong&gt;Spelling&lt;/strong&gt;&#34; in desno-kliknite nanjo, izberite opcijo &#34;Paste Items&#34;.&lt;/li&gt;
+&lt;li&gt;To je vse. Sedaj je sloven&amp;scaron;čina dostopna v sistemskem črkovalniku.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;br /&gt;Če želite, lahko sloven&amp;scaron;čino nastavite kot privzeti slovar. To storite v System Preferences -&amp;gt; Language &amp;amp; Text -&amp;gt; (zavihek) Text.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;* Strežnik, kjer je zbirka črkovalnikov občasno ne dela, zato sem &lt;a href=&#34;http://ge.tt/9FXgg0E&#34; target=&#34;_blank&#34;&gt;zadnjo&amp;nbsp;verzijo&amp;nbsp;začasno shranil na en zastonjski strežnik&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+{% img /images/posterous/2012/02/38243400-Screen%20Shot%202012-02-12%20at%203.47.37%20AM.png %}
+{% img /images/posterous/2012/02/38243401-Screen%20Shot%202012-02-12%20at%204.00.11%20AM.png %}
+{% img /images/posterous/2012/02/38243402-Screen%20Shot%202012-02-12%20at%203.49.25%20AM.png %}
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

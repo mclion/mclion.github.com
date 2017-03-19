@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internet on McLion&#39;s Mindstream</title>
+    <link>https://blog.mclion.eu/categories/internet/index.xml</link>
+    <description>Recent content in Internet on McLion&#39;s Mindstream</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sl-SI</language>
+    <atom:link href="https://blog.mclion.eu/categories/internet/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Kako skuhati uspešen projekt - Zgodba</title>
+      <link>https://blog.mclion.eu/2015/05/17/kako-skuhati-uspesen-projekt-zgodba/</link>
+      <pubDate>Sun, 17 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mclion.eu/2015/05/17/kako-skuhati-uspesen-projekt-zgodba/</guid>
+      <description>
+
+&lt;p&gt;&lt;em&gt;TL;DR - Brez zgodbe ni projekta.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;pred-tem-uspešen-projekt-ekipa-2014-09-30-kako-skuhati-uspesen-projekt-ekipa&#34;&gt;&lt;a href=&#34;https://blog.mclion.eu/2014/09/30/kako-skuhati-uspesen-projekt-ekipa/&#34;&gt;Pred tem: Uspešen projekt - Ekipa&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Življenje je zgodba. Svet doživljamo in opisujemo v obliki krajših dogodkov, ki tvorijo celoto. Zato projekt, ki ne zna sporočiti zgodbe, ne more ustvariti povpraševanja, še manj pa navezanosti na storitve/produkte, ki jih želi tržiti.&lt;/p&gt;
+
+&lt;p&gt;Seveda ni vsaka zgodba dobra. Definicija dobrega je subjektivna, znamo pa vse dobre zgodbe enostavno obnoviti. Zgodba vašega projekta mora biti tako enostavna, da jo znate razložiti v eni povedi. To ni mogoče? Če vi ne razumete zgodbe vašega produkta, je verjetno ne bodo niti vaši potrošniki. Razen, če zmagate na loteriji. V tem primeru pa raje pojdite strele loviti, imate več možnosti. :)&lt;/p&gt;
+
+&lt;p&gt;Nekaj primerov projektov in njihove zgodbe v eni povedi:&lt;/p&gt;
+
+&lt;p&gt;|  Produkt | Zgodba   |
+|&amp;mdash;|&amp;mdash;|
+| &lt;strong&gt;FaceBook&lt;/strong&gt; | Skupnost prijateljev za vzdrževanje stikov in ustvarjanje novih. |
+| &lt;strong&gt;Twitter&lt;/strong&gt; | Kaj se ravnokar dogaja? |
+| &lt;strong&gt;LinkedIn&lt;/strong&gt; | Iščem službo, rabim kader. |
+| &lt;strong&gt;24ur.com&lt;/strong&gt; | Šokantne, seksi, zanimive novice. |
+| &lt;strong&gt;slovenskenovice.si&lt;/strong&gt; | Šokantne, seksi, zanimive novice. |
+| &lt;strong&gt;Zmenkarije&lt;/strong&gt; | Kjer dobim lahko zmenek, prijatelja &amp;hellip; |
+| &lt;strong&gt;Keramični lonec&lt;/strong&gt; | Ker, INOX ni več zdrav &amp;hellip; |
+| &lt;strong&gt;Colgate&lt;/strong&gt; | Za bolj bele zobe in dišeč zadah, dovolj je dvakrat dnevno. |
+| &lt;strong&gt;Delmonte sadje&lt;/strong&gt; | Dobro, ker ga izbira gospod Del Monte osebno. |
+| &lt;strong&gt;Hofer&lt;/strong&gt; | So poceni, so fer. |
+| &lt;strong&gt;Ikea&lt;/strong&gt; | Poceni, lahko pogosto menjam pohištvo, čeprav ga ne bom. |
+| &lt;strong&gt;Lego&lt;/strong&gt; | Kocke, ki pri otroku razvijajo ustvarjalnost. |
+| &lt;strong&gt;ObalaNET&lt;/strong&gt; | Združujemo Obalo. |
+| &lt;strong&gt;Cockta&lt;/strong&gt; | Pijača naše mladosti. |
+| &lt;strong&gt;Mobilni telefon&lt;/strong&gt; | Ker sem rad povezan. |&lt;/p&gt;
+
+&lt;p&gt;Zgodbe so skoraj kot razlogi, pravzaprav je pri produktih to skorajda sinonim.&lt;/p&gt;
+
+&lt;p&gt;Včasih zgodba ne pove nič, sploh če je preveč splošna. Pri 24ur.com in Slovenskih novicah ni ločnice v pogledu uporabnika. Oboje pogosto konzumirajo brez večjih preferenc, razlika je predvsem v njihovi ciljni publiki, ki se ne prekriva preveč (politično-družbeni profili).&lt;/p&gt;
+
+&lt;p&gt;Verjetno ste že ugotovili, da si zgodbo naredi uporabnik, proizvajalec mu jo lahko predvsem sugerira. Kot za Yugo, ki je dobil moto &amp;ldquo;ne traje dugo&amp;rdquo;, čeprav so ga imeli v Jugoslaviji skoraj vsi. Ta moto je bil želja &amp;ldquo;po nečem več&amp;rdquo;, zato ne bo trajal dolgo. To posmehovanje je pomagalo v prodaji, kazalo ga je kot avtomobil, ki si ga privoščim, dokler ne bo denarja za nekaj boljšega &amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Uporabnik potrebuje zgodbo s katero se lahko poistoveti, jo naredi za svojo. &lt;strong&gt;Uporabnik potrebuje svojo zgodbo.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Zgodba pa ni le stanje, je tudi pot. Take zgodbe imamo recimo pri igračah, ki same po sebi niso nekaj izjemnega, ampak nam proizvajalec poda neko izhodišče/navodila, otrok pa to zgodbo nadgradi oz. izpelje po svoje. Barbika je konec koncev le suhljata lutka, ampak je dosti več; Barbika igra vlogo od princeske do astronavta ali celo bojevnika, odvisno od otroka, ki se igra z njo. Je lahko tudi izobraževalno orodje. Pravzaprav je pri otrocih oblika produkta skoraj nepomembna, če jo znaš zapakirati v privlačno zgodbo.&lt;/p&gt;
+
+&lt;p&gt;Svet se v odraslih letih bolj malo spremeni. Produkt mora priti z zgodbo, da lahko z njim &amp;ldquo;nekje začnemo&amp;rdquo;. Kmalu to zgodbo razširimo v svojo ali jo zavržemo, ko ugotovimo, da ni za nas. Tak produkt je recimo Apple Watch, ki je vse prej kot ura, ampak začne se uporabljati tako. Mnogi bodo našli ob njegovi uporabi nove zgodbe, mnogo jih bo pa noviteto zavrglo kot &amp;ldquo;še ni čas&amp;rdquo; ali &amp;ldquo;to ni zame&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Zgodba je torej zelo pomembna. Pravzaprav brez nje ni produkta. Brez zgodbe ne moremo ločiti Facebooka od Baduja, Twoo, Google+ ali Twitterja.&lt;/p&gt;
+
+&lt;p&gt;Priznam, rad pripovedujem zgodbe in jih znam vgraditi v skoraj vsak produkt in osebo, ko jo vsaj malo spoznam. Zgodba nastane skozi moj filter, je osebna. Večina to počne, morda le ne toliko zavestno. &lt;strong&gt;To pa moramo oz. lahko pri svojem produktu izkoristimo.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://blog.mclion.eu/images/2015/zgodba-lucka.jpg&#34; alt=&#34;Ne glej v sonce brez lučke&#34; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;primeri&#34;&gt;Primeri&lt;/h1&gt;
+
+&lt;p&gt;O &lt;strong&gt;Apple&lt;/strong&gt; je skoraj brez predmetno izgubljati besede. Njihovi produkti so &amp;ldquo;naravni&amp;rdquo;, izjemni in dajejo občutek potrošniške ekskluzive. So nekoliko dražji kot podobni na tržišču in čeprav jih ima množica, boste še vedno imeli občutek &amp;ldquo;nečesa več&amp;rdquo;. Apple je &amp;ldquo;nekaj več&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Primer zgodbe &amp;ldquo;nekaj več&amp;rdquo; so tudi ustekleničene vode. Recimo bolj komercialna voda &lt;strong&gt;Fuji&lt;/strong&gt;, ki jo polnijo na Japonskem, stane kot da bi prišla iz Marsa, pakirana pa je v kvadratnih plastenkah. Neposredno iz vrha hriba Fuji na Japonskem, iz te eksotične države, vse do nas, ki jo pijemo v kafiču na dopustu &amp;hellip;  Ali pa voda &lt;strong&gt;Cristal&lt;/strong&gt;, ki jo dobite le v ekskluzivnih lokalih in je pakirana v buteljkah iz kristala ter vas bo stala kot večerja v povprešni restavraciji. Tri deci, seveda. Konec koncev pa je le voda. Kakšen občutek imate, ko jo pijete, je pa druga zgodba &amp;hellip; Endorfini so vredni vsakega centa.&lt;/p&gt;
+
+&lt;p&gt;Če pa vzamemo slovenski primer. &lt;a href=&#34;http://zlati-ghee.si/&#34;&gt;&lt;strong&gt;Zlati Ghee&lt;/strong&gt;&lt;/a&gt; je primer dobre zgodbe. V osnovi ni nič posebnega, gre za maslo, ampak odprite si njihovo spletno mesto in si preberite vse kar so znali spisati na to. Zakaj ga še nimate doma? Tak pristop ima seveda večina projektov na Kickstarterju. Predvsem uspešnih. Še niste prepričani?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hiše s strahovi.&lt;/strong&gt; Ne gre za klasičen produkt, je pa še vedno produkt zgodbe. Hiša je hiša, ponavadi je stara, v slabšem stanju, v njej vse škripa, vlažno je in prepihe ima &amp;hellip; Z zgodbo postane strašna. V njej so duhovi &amp;hellip; Vsako škripanje in žvižganje, ki bi jih sicer človek razumel kot širjenje/krčenje lesa ali prepih, postane neka entiteta. :)&lt;/p&gt;
+
+&lt;h2 id=&#34;obalanet-zgodba&#34;&gt;ObalaNET zgodba&lt;/h2&gt;
+
+&lt;p&gt;Za zaključek pa nekaj iz moje druge uspešne poslovne zgodbe v življenju. Nastala je organsko in mi kot študentu ni bilo najbolj jasno kako je vse uspelo. &lt;strong&gt;ObalaNET&lt;/strong&gt; je bil spletni projekt, ki je začel kot želja popisati dogajanje na Obali in se je imenoval na začetku ObalaIN.&lt;/p&gt;
+
+&lt;p&gt;Kasneje smo ga razširili na ObalaNET, ko je prijatelj, znan pod psevdonimom Duck, spisal večino kode za nekega delodajalca (za ameriški trg) in to prenesel na portal. Tako so dogodki postali le ena storitev, dodali pa smo ji še ostale elemente, ki jih potrebuje spletna skupnost - novice, fotografije, male oglase in predvsem zasebna sporočila (informiranje, vojerstvo in komunikacija).&lt;/p&gt;
+
+&lt;p&gt;Vse to smo zapakirali v moto &lt;strong&gt;&amp;ldquo;Združujemo Obalo&amp;rdquo;&lt;/strong&gt;. Zelo enostavno in razumljivo.&lt;/p&gt;
+
+&lt;p&gt;Ko smo portal propagirali, smo vsakič povedali isto, zelo kratko, zelo enostavno. Ljudem je bilo takoj jasno in so zadevo preizkusili. Zatem so zaradi fotografij, novic in osebnih sporočil postali redni uporabniki in propagirali med prijatelji na isti način. Namreč, če so prijatelji gor, lahko hitreje/enostavneje komuniciraš z njimi.&lt;/p&gt;
+
+&lt;p&gt;Nam je uspelo združiti Obalo? Seveda. Skupnost je bila tako močna, da je vplivala na lokalno politiko, če je želela &amp;hellip; Potem so se razvile interne težave, ravno v času, ko je Facebook odprl dostop celotnemu svetu in kot ekipa nismo odreagirali, &lt;a href=&#34;https://blog.mclion.eu/2014/09/30/kako-skuhati-uspesen-projekt-ekipa/&#34;&gt;ker smo se pač kregali&lt;/a&gt; &amp;hellip; Takrat je bila edina rešitev prodaja vsega in ločitev osebnih poti ustanoviteljev, nekoč najboljših prijateljev &amp;hellip; Ampak o tem kdaj drugič.&lt;/p&gt;
+
+&lt;h4 id=&#34;naslednjič-izvedba-projekta-je-tudi-del-recepta&#34;&gt;Naslednjič: Izvedba projekta je tudi del recepta.&lt;/h4&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kako skuhati uspešen projekt: Ekipa</title>
+      <link>https://blog.mclion.eu/2014/09/30/kako-skuhati-uspesen-projekt-ekipa/</link>
+      <pubDate>Tue, 30 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mclion.eu/2014/09/30/kako-skuhati-uspesen-projekt-ekipa/</guid>
+      <description>
+
+&lt;p&gt;&lt;em&gt;TL;DR - Ekipa je srce projekta, to so kuharji ki zmešajo sestavine. Brez njih se nič ne skuha, saj &amp;ldquo;replikatorji&amp;rdquo; iz Star Treka še niso bili izumljeni. :) Kakšna pa je uspešna ekipa?&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;pred-tem-recept-za-uspešen-projekt-in-kako-do-dobre-ideje-2014-09-09-kako-skuhati-uspesen-projekt&#34;&gt;&lt;a href=&#34;https://blog.mclion.eu/2014/09/09/kako-skuhati-uspesen-projekt/&#34;&gt;Pred tem: Recept za uspešen projekt in kako do dobre ideje&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Zadnjič sem razpredal o receptu za uspešen projekt oz. sestavinah zanj. Tokrat nadaljujem z eno najpomembnejših sestavin, ki pa pri nas povzroča tudi največ preglavic. Gre za družabno sestavino, ki lahko še tako dober projekt popolnoma uniči, če njena interakcija ne deluje konstruktivno.&lt;/p&gt;
+
+&lt;p&gt;Dobra ekipa lahko naredi dober produkt tudi iz slabe ideje. Sestavljati jo morajo sposobni ljudje, ki verjamejo v projekt in so pripravljeni delati zanj ne glede na finančno spodbudo. V projektu ne smejo biti zaradi morebitnega bogastva, ki jih čaka na koncu poti, ampak zaradi poti same. Verjeti morajo v produkt, ki ga ustvarjajo oz. vzdržujejo.&lt;/p&gt;
+
+&lt;p&gt;Ampak, ti ljudje niso strošek, ljudje so kapital produkta (podjetja). Znana IT podjetja (Google,  Facebook, Apple) kupujejo startup podjetja zaradi ljudi, ne toliko zaradi produktov. To pri nas pozabljamo oz. naš svet je v tem primeru obrnjen.&lt;/p&gt;
+
+&lt;p&gt;Danes ni težko dobiti sposobnih ljudi, ki se bodo lotili marsičesa, sploh globalno gledano, težava je dobiti ljudi, ki bodo v &amp;ldquo;receptu&amp;rdquo; delovali skupaj. Po naravni poti boste sicer verjetno med časom priprave produkta in skozi proces vzdrževanja le-tega ugotovili katere člane ekipe je potrebno menjati … Pri tem morate paziti, da vas ne omejujejo čustva, četudi je potrebno za dobrobit projekta odstraniti ravno sebe.&lt;/p&gt;
+
+&lt;h2 id=&#34;idealni-sodelavec&#34;&gt;Idealni sodelavec&lt;/h2&gt;
+
+&lt;p&gt;Idelanega ni, osebno pa izbiram raje tiste, ki so sposobni hitrega učenja, jim to ni breme oz. celo uživajo v dobivanju novega znanja. Takšni se bodo hitreje prilagodili v primeru slabe vodstvene odločitve, ki bo povsročila preusmeritev ciljev.&lt;/p&gt;
+
+&lt;h2 id=&#34;specializirani-vseznalci&#34;&gt;Specializirani vseznalci&lt;/h2&gt;
+
+&lt;p&gt;Moderne ekipe so majhne in nimajo formalnega vodjo. Znotraj male ekipe naj ne bi bilo specializacij. Sploh v &lt;strong&gt;Agile&lt;/strong&gt; razvojnem pristopu naj bi vsi člani vse znali in bili medsebojno izmenljivi. Vsak naj bi bil sposoben prevzeti tuje opravilo …&lt;/p&gt;
+
+&lt;p&gt;V praksi ni tako. Ljudje smo različni, smo ljudje. Temu se je brezpredmetno upirati. Nekdo je boljši v ekonomskih zadevah, drugi je boljši z ljudmi, tretji se bi najraje zaprl v sobo in programiral dokler ne umre, četrtega pa moti, če je izpis odmika za pol piksla od zlatega reza. Načeloma naj bi vsi razumeli vse, ampak če hočemo hitro do produkta je najbolje izkoristiti njihovo znanje in dovoliti naravno specializacijo. Notranji eksperti so znotraj ekipe tudi bolj spoštovani in to spoštovanje jim povečuje zadovoljstvo.&lt;/p&gt;
+
+&lt;p&gt;Pri specializaciji le pazite, da vsi člani (male) ekipe vedo kako je bilo ostalo ustvarjeno in so sposobni to vzdrževati, čeprav za to porabijo nekajkrat več časa, kot bi izvirni avtor.&lt;/p&gt;
+
+&lt;h2 id=&#34;kdo-je-šef&#34;&gt;Kdo je šef?&lt;/h2&gt;
+
+&lt;p&gt;V malih ekipah ne sme biti formalnih šefov, nastanejo pa neformalni. To so tisti z več izkušnjami, taki ki se hitreje učijo ali pa ki imajo močnejši ego od ostalih. Te osebe, četudi lastniki kapitala, morajo nastopati na istem nivoju kot drugi, če želijo da le-ti naredijo več in bolje (sploh v Sloveniji, kjer so tisti s službo prepričani, da preveč delajo za tisto plačo).&lt;/p&gt;
+
+&lt;p&gt;Če je projekt vaš, potem boste vi neformalni šef, pa čeprav boste delali več kot ostali in tudi bolj banalne stvari. Dober vodja je tisti, ki daje dober vzgled - naredi še malo več in še vedno skrbi za svoje zdravje, zna pa se tudi pošaliti in pelje ekipo na pivo, ko bi se le-ta najraje med sabo pobila zaradi nekega internega stresa.&lt;/p&gt;
+
+&lt;h2 id=&#34;zadovoljstvo&#34;&gt;Zadovoljstvo&lt;/h2&gt;
+
+&lt;p&gt;Zadovoljstvo je v ekipi vitalnega pomena. Zadovoljni sodelavci, so produktivni sodelavci.&lt;/p&gt;
+
+&lt;p&gt;Kot neformalni vodja morate poskrbeti, &lt;strong&gt;da se sodelavci dobro počutijo&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Sem spada recimo primerna delovna oprema &amp;hellip; Če je slaba naj bo slaba za vse, če pa ima nekdo boljšo, naj jo imajo vsi oz. tisti, ki je (še) nimajo, naj bodo objektivno obveščeni zakaj je tako.&lt;/p&gt;
+
+&lt;p&gt;Pod vzdrževanje zadovoljstva sodi tudi občasno nagrajevanje za vloženi trud. Pri startupih je trud samoumeven, ampak v življenju ni. Majhna zadeva kot &amp;ldquo;častim pivo, ker si legenda&amp;rdquo; ali pa &amp;ldquo;tu imaš baterije za miško, sem videl da ti bo kmalu zmanjkalo&amp;rdquo; ali prigrizki in kofein ob nočnih nadurah, ker je deadline pred vrati ali se je zgodila izjemna situacija &amp;hellip; Malenkosti, ki presenetijo sodelavce in povečajo medsebojno povezanost.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Družabni dogodki?&lt;/strong&gt; So dobri, če se zgodijo spontano. Recimo član ekipe ima nek izjemni dogodek pa povabi sodelavce. Team building dogodki lahko delujejo ravno nasprotno pri nekaterih, sploh ljudeh iz razvoja. Najboljši razvojnik je morda zelo zaprte narave in ga s takšnimi &amp;ldquo;prisilami&amp;rdquo; spravite v neprijeten položaj &amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Skratka, &lt;strong&gt;zadovoljna ekipa, je lahko složna&lt;/strong&gt;, če je kompatibilna.&lt;/p&gt;
+
+&lt;h2 id=&#34;složna-ekipa&#34;&gt;Složna ekipa&lt;/h2&gt;
+
+&lt;p&gt;To je najtežji del in je pogosto stvar sreče, sploh če mešamo nam neznane ljudi. Dokler lahko razpolagamo z ekipo prijateljev, je lažje, čeprav lahko ravno projekt zrahlja to prijateljstvo. Potrebno je opazovati in dovolj hitro reagirati, če želimo da projekt nadaljuje svojo pot.&lt;/p&gt;
+
+&lt;p&gt;Tukaj se bom ustavil za trenutek in napisal kratko zgodbo iz časov &lt;strong&gt;ObalaNET&lt;/strong&gt;, pravzaprav s koncem nekoč najmočnejše lokalne skupnosti v Sloveniji …&lt;/p&gt;
+
+&lt;p&gt;ObalaNET sva ustvarila prijatelja, ki sva imela idejo, ki je nastala ob skupnem druženju. &amp;ldquo;Radi bi združili prebivalstvo na Obali.&amp;rdquo; Takrat sem imel oddajo na Radiu Morje, prijatelj pa je programiral pri eni firmi, ki je skušala predreti na ameriški trg s pomočjo spletnih aplikacij. Denar ni bil problem, saj sva se oba še šolala, kar pomeni, da sva živela pri starših.&lt;/p&gt;
+
+&lt;p&gt;Bila sva dobra prijatelja in znala sva se na hitro pomeniti, vsaj kar se tiče realizacije idej. Na začetku je on programiral, jaz sem pa imel ideje, ki so bile povezane z mojo radijsko oddajo. Naredili smo &lt;strong&gt;ObalaIN&lt;/strong&gt;, zbornik dogodkov na Obali. Napisal je aplikacijo, jaz sem pa vzdrževal bazo zabav in jo uporabljal v svoji tematski radijski oddaji.&lt;/p&gt;
+
+&lt;p&gt;ObalaIN je počasi zrasla v ObalaNET. Dogodki so bili pravzaprav prvi modul portala. Z razvojem foruma in osebnih sporočil, ob pomoči zelo posrečene oglasne kampanje, se je na portalu razvila &lt;strong&gt;uporabniška skupnost&lt;/strong&gt; &amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;V par letih nam je res uspelo &lt;strong&gt;združiti prebivalce Obale pod eno &amp;ldquo;zastavo&amp;rdquo;&lt;/strong&gt;. Ta zastava je bila tako vidna, da je imela neposreden vpliv na lokalne (politične) odločitve (100.000 volivcev, ki delujejo složno, predstavlja veliko moč).&lt;/p&gt;
+
+&lt;p&gt;Ustvarili smo podjetje in se zaposlili v njemu, takrat se je začelo lomiti. Jaz nisem imel podjetniške žilice, videl sem predvsem ustvarjanje (vsebine in skupnosti), angažiranje ljudi, povezovanje virtualnega sveta in realnosti, on pa je užival v programiranju in poslovnih projektih. Dodali smo še nekaj ljudi v mešanico in nastali so prvi konflikti. Mešanica razočaranj povezanih z denarjem in predvsem neupoštevanjem medsebojnih idej.&lt;/p&gt;
+
+&lt;p&gt;Torej kombinacija, ki je odlično delovala na začetku se je zlomila, ko je bilo potrebno stopiti čez prag ustvarjanja v fazo vzdrževanja (&amp;ldquo;pogrevanje&amp;rdquo; v našem receptu uspešnega projekta).&lt;/p&gt;
+
+&lt;p&gt;Na koncu smo podjetje z vsem kar mu je pripadalo enostavno prodali in vsak je šel po svoji poti &amp;hellip; &lt;strong&gt;Prijateljstva je bilo konec&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;ObalaNET je brez naju z leti zgubljala na mesečnem obisku, po zadnji prenovi pa so skupnost enostavno ukinili. Trenutno je le senca tistega, kar je bila recimo leta 2008, čeprav grafično lepše zgleda.&lt;/p&gt;
+
+&lt;h2 id=&#34;kaj-pa-večje-ekipe&#34;&gt;Kaj pa večje ekipe?&lt;/h2&gt;
+
+&lt;p&gt;Pri večjih ekipah stopijo v igro &lt;a href=&#34;http://en.wikipedia.org/wiki/Social_network_analysis&#34;&gt;analiza socialnih omrežij&lt;/a&gt; in &lt;a href=&#34;http://en.wikipedia.org/wiki/Game_theory&#34;&gt;teorija iger&lt;/a&gt;. O tem znajo povedati več sociologi in matematiki, sploh tisti, ki se igrajo s podatki prijateljevanj iz Facebooka in poslovnih kontaktov iz Linkedina. Sam nimam izkušenj s tem, sem se le s kdaj poigral s temi podatki, ampak z drugačnimi cilji. Zanimive zadeve.&lt;/p&gt;
+
+&lt;p&gt;V tujini imajo večja podjetja zato zaposlene &lt;strong&gt;sociologe&lt;/strong&gt;, pri nas pa je ta praksa bolj izjema kot pravilo.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://blog.mclion.eu/images/2014/xooltime2013.jpg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;za-konec&#34;&gt;Za konec&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Potrebujemo ljudi, ki bodo, vsak s svojim posebnim, tvorili celoto znotraj projekta.&lt;/strong&gt; Če je to medij, potrebujemo tako ljudi, ki znajo izvesti in vzdrževati infrastrukturo, kot tiste, ki bodo ustvarjali privlačno vsebino in tiste, ki bodo vse skupaj znali spraviti v finančno stabilno obliko. Vse vloge so enakovredne, ne glede na &amp;ldquo;ceno&amp;rdquo; le-te. Tudi, če nekdo ne ustvarja neposredno kapitala, ker ustvarja produkt, ne pomeni, da je manj vreden od tistega, ki ta produkt prodaja, ko ga proda. To pogosto pozabljamo.&lt;/p&gt;
+
+&lt;p&gt;Potrebujemo pa take ljudi, ki se po prvi ali drugi težavi ne bodo naveličali, ampak bodo šli naprej, četudi bo naslednji korak lahko polom.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tudi polom je oblika zmage. Daje nam izkušnje, ki so bližnjica do uspeha.&lt;/strong&gt;&lt;br /&gt;
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;nadaljevanje-zgodba-2015-05-17-kako-skuhati-uspesen-projekt-zgodba&#34;&gt;&lt;a href=&#34;https://blog.mclion.eu/2015/05/17/kako-skuhati-uspesen-projekt-zgodba/&#34;&gt;Nadaljevanje: Zgodba!&lt;/a&gt;&lt;/h4&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kako skuhati uspešen projekt?</title>
+      <link>https://blog.mclion.eu/2014/09/08/kako-skuhati-uspesen-projekt/</link>
+      <pubDate>Mon, 08 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mclion.eu/2014/09/08/kako-skuhati-uspesen-projekt/</guid>
+      <description>
+
+&lt;p&gt;&lt;em&gt;TL;DR - Delim izkušnje kako ustvariti uspešen projekt. Kaj so osnovne sestavine in kako priti do dobre ideje? Preberite &amp;hellip; :)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Vsako leto me povabijo na &lt;strong&gt;Fakulteto za humanistične študije&lt;/strong&gt;, kjer odpredavam kakšno temo. Prva leta sem razlagal svojo zgodbo iz &lt;strong&gt;ObalaNET&lt;/strong&gt; in jo povezal s praktično uporabo v njihovem svetu, potem pa sem se tega naveličal in začel iskati kaj novega iz svojih izkušenj, ki pa ni iz obdobja ObalaNET &amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Od takrat sem poskusil kar nekaj poslovnih eksperimentov. Par mi jih je uspelo, nekaj pa je katastrofalno počasi &lt;strong&gt;propadlo&lt;/strong&gt;, z dokaj velikimi finančnimi izgubami pravzaprav. Ampak ravno te izkušnje so v poslovnem svetu uporabne. Ne samo uspehi, tudi padci. Porazi nas utrdijo, uspehi pa zmehčajo.&lt;/p&gt;
+
+&lt;p&gt;Letošnje humanističnego predavanje sem naslovil &amp;ldquo;&lt;strong&gt;Kako skuhati uspešen projekt&lt;/strong&gt;&amp;rdquo; - zbirka korakov glede na obstoječe izkušnje in študije, kjer razlagam kako narediti en (spletni) projekt, ki bo uporaben in morda tudi uspešen. &amp;ldquo;Tako, da si skrajšate pot do uspehov ali samo za navdih,&amp;rdquo; sem študentom letos razlagal.&lt;/p&gt;
+
+&lt;p&gt;Ker pa tukaj nisem omejen na uro govora, sem se odločil temo razširiti in jo zato tudi razdelil na več delov. Morda koga dejansko navdihne, da poskusi ustvariti kaj novega &amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Mimogrede, ves čas pišem o spletnih projektih, ampak ta pravila veljajo tudi na splošno.&lt;/p&gt;
+
+&lt;p&gt;Prijetno branje. :)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://blog.mclion.eu/images/2014/recipe-book-Emily.jpg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;kaj-je-recept-za-dober-spletni-projekt&#34;&gt;Kaj je recept za dober (spletni) projekt?&lt;/h2&gt;
+
+&lt;p&gt;Kako pripraviti projekt, kako ga izpeljati, kako vzdrževati in katera druga magija je potrebna, da imamo uspešen projekt? Katere so njegove sestavine?&lt;/p&gt;
+
+&lt;p&gt;Za pripravo uspešnega projekta potrebujemo:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Idejo (voda),&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ekipo (kuharji),&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;zgodbo (sestavine),&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;izvedbo (kuhanje),&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;promocijo (začimbe),&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;vzdrževanjo (pogrevanje),&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;poslovni model (kuhinja)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;in srečo (sreča).&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Kot vidite, sem v oklepaje zapisal analogije. Pri zadnji analogije ni, saj ste lahko odličen kuhar, oprema je fantastična, ampak dobite telefonski klic zaradi izjemnega dogodka doma in se vam vse zasmodi. Odličen kuhar bo sicer to znal pokompenzirati &amp;hellip; Po drugi strani lahko pride na obisk gost, ki bo popeljal vašo gostilno na vrh prepoznavnosti … Ampak pojdimo po vrsti.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://blog.mclion.eu/images/2014/light-bulb-Daniele_Marlenek.jpg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;ideja&#34;&gt;Ideja&lt;/h2&gt;
+
+&lt;p&gt;Ideja je voda v našem receptu. Brez nje ni projekta, ni produkta, ni … Pač ni ničesar. To je osnovna in zato tudi najbolj pogosta sestavina. Svet je poln vode. Res poln. Naš planet je voda, mi smo voda. Težko je ločiti vodo od vode, razen po zgodbi. Zgodba naredi eno vodo za boljšo od druge, pa čeprav gre samo za … Vodo.&lt;/p&gt;
+
+&lt;p&gt;Skratka, vsi imamo ideje, le-te pa so med sabo ločljive samo po njihovem uspehu.&lt;/p&gt;
+
+&lt;p&gt;Dobra ideja ne nastane v eni glavi, ampak je posledica miselnega procesa več ljudi (t.i. &amp;ldquo;brainstorminga&amp;rdquo;). Uspešna ideja ne rešuje le ene težave, ampak &amp;ldquo;jo ustvari&amp;rdquo; in reši hkrati. Kaj to pomeni? Da uporabnik načeloma ne ve kaj si želi, dokler tega ne dobi pred oči.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://blog.mclion.eu/images/2014/ipad-cat-Veronica_Belmont.jpg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Takšno filozofijo razvoja ima recimo &lt;strong&gt;Apple&lt;/strong&gt; in izhaja še iz Jobsovega časa. Ne izumljajo novih stvari, ampak jih tako razvijejo, da uporabniki začutijo potrebo po njih. Tak produkt je recimo iPad. Ni izjemen po ideji, vendar je le-ta toliko razvita, da uporabniku povzroči pomanjkanje zanjo. &lt;strong&gt;iPad&lt;/strong&gt; je bil prvi produkt, ki deluje tako, kot človek pričakuje od tablice oz. je postavil pričakovanja za vse tablice (vizualno zanimiv, dolgo trajanje baterije, naraven za uporabo tako otroku kot starešini). Ipad je &amp;ldquo;računalništvo&amp;rdquo; približal ljudem, ki ne marajo računalnikov. Ker pač ni računalnik. In to je bila ta edinstvena ideja. Tablica ni reven računalnik, ampak je pameten ekran. &lt;strong&gt;MicroSoft&lt;/strong&gt; po drugi strani tega še ni doumel in še danes poskuša spraviti računalnik v tablico &amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Zanimivo zgodbo najdemo tudi za rojstvom &lt;strong&gt;Twitterja&lt;/strong&gt;. Zakrivil jo je &lt;strong&gt;Jack Dorsey&lt;/strong&gt;, ki je bil takrat zaposlen kot designer na podjetju &lt;strong&gt;Odeo&lt;/strong&gt;. Podjetje, ki je razvijalo podcast produkt, ki ga je (spet) Apple odstranil iz tržišča, ko je lansiral iTuned Podcaste. Bili so enostavno cenejši (brezplačni). Ideja se je v Jackovi glavi razvijala več let, še preden je sploh začel delati na Odeo in še danes se naravno širi. Torej vsaka ideja mora biti živa in rasti skupaj s povpraševanjem oz. ustvarjati vedno novega, če hoče biti dolgoročno uspešna. &lt;a href=&#34;http://www.140characters.com/2009/01/30/how-twitter-was-born/&#34;&gt;Zgodbo o tem kako je nastal Twitter, si lahko preberete v zapidu &lt;strong&gt;Doma Sagolie&lt;/strong&gt;, ki je soustanovitelj te platforme&lt;/a&gt;. Skratka, Twitter ni nihče pogrešal, ker smo že imeli SMS sporočila, ampak dandanes si mnogi ne zamišljajo dogodka brez te komponente &amp;hellip;&lt;/p&gt;
+
+&lt;h3 id=&#34;kakšne-so-sestavine-dobre-ideje&#34;&gt;Kakšne so sestavine dobre ideje?&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Rešuje težavo za katero nismo vedeli, da jo imamo.&lt;/li&gt;
+&lt;li&gt;Zmanjša stroške.&lt;/li&gt;
+&lt;li&gt;Poveča zaslužek.&lt;/li&gt;
+&lt;li&gt;Povzroča odvisnost.&lt;/li&gt;
+&lt;li&gt;Prevzame ob pravem času manjko druge rešitve.&lt;/li&gt;
+&lt;li&gt;Je kulturno sprejemljiva.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ideja ne sme nastopiti &lt;strong&gt;pred svojim časom&lt;/strong&gt;, ker se bo spopadla s kulturnim zidom in bo večina energije in kapitala šla v boj z njim. Morebitni uspeh pa bo verjetno od nekoga drugega, ki bo izkoristil vaš trud in na tržišče postavil podoben produkt v bolj dostopnem pakiranju (pot mu boste odprli ravno vi).&lt;/p&gt;
+
+&lt;p&gt;Zamislite si, da bi sedaj na tržišče postavili &lt;strong&gt;teleprenos&lt;/strong&gt; iz Star Treka. Sistem, ki vas na eni strani analizira, uniči vaše telo in na drugi strani ga ponovno zgradi. Bi si ga upali uporabiti? Bi se znali zoperstaviti vsem religioznim skupinam, ki bi zagovarjali edinstvenost duše, koliko kapitala bi potrebovali za to in koliko ga imajo oni? Takšna rešitev bi verjetno morala obstajati na tržišču par generacij, preden se bi kdo upal jo uporabljati za kaj več kot nepremičninske selitve.&lt;/p&gt;
+
+&lt;p&gt;Če stopimo korak nazaj, iz znanstvene fantastike v sodobnost &amp;hellip; Podoben primer je &lt;strong&gt;Google Glass&lt;/strong&gt;. Če vidite koga s temi očali, na kaj pomislite? Kako je kul ali se sprašujete če vas ravnokar snema, pregleduje vaš Facebook profil in išče vaše &amp;ldquo;sproščene&amp;rdquo; posnetke? Verjamem pa, da bo podobna tehnologija postala del stvarnosti za naše otroke, ki se ne bodo obremenjevali s svetom brez stalnega beleženja dogajanja oz. jim bo tak svet &amp;ldquo;osamljen&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Najbolj zanimivi postavki sta seveda &lt;strong&gt;zmanjšanje stroškov&lt;/strong&gt; oz. &lt;strong&gt;povečevanje zaslužka&lt;/strong&gt;. Tak produkt se enostavno prodaja. &amp;ldquo;Boste 10x hitrejši internet na isti infrastrukturi, ampak 40% ceneje?&amp;rdquo; Odgovor bo verjetno &amp;ldquo;kje lahko podpišem?&amp;rdquo;. Če najdete takšno idejo in jo znate izpeljati, bo vaša pot dosti lažja kot recimo s produktom, ki hoče povzročiti odvisnost (no, razen če so igre na srečo, ampak to seveda ni nobena ideja, to je enostavno klorniranje).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Odvisnost&lt;/strong&gt; trenutno povzročajo socialne platforme na spletu. Delujejo na tisti del osebnosti, ki je skupna vsem ljudem. Potreba po povezovanju, po potrjevanju akcij (&amp;ldquo;Pridna punčka, si pojedla ves sladoled!&amp;rdquo;), po potrjevanju izjemnosti/pomembnosti. Slednja potreba je bolj moderna od prejšnjih dveh, čeprav je verjetno obstajala ves čas, le družba jo je imela bolj za tabu, kot nekaj naravnega, sploh verna družba, katera ne mara posameznika, ampak ima raje nadzorovano skupino (in s tem mislim tudi na &amp;ldquo;levo&amp;rdquo; versko frakcijo).&lt;/p&gt;
+
+&lt;p&gt;Facebook, Viber, WhatsApp, Instagram, Twitter = Pozornost, pozornost, pozornost, pozornost! Všečki, srčki, zvezdice in ostali pasivni odzivi. Več jih je, bolj smo pomembni. Pomanjkanje le-teh nas naredi slabe volje, nekatere čisto nemirne. Potrebno je ustvariti novo vsebino, ki bo prinesla nove všečke, srčke, zvezdice … &lt;strong&gt;POZORNOST&lt;/strong&gt;!&lt;/p&gt;
+
+&lt;p&gt;Pozornost seveda zaduši občutek osamljenosti, ampak to je tema za kdaj drugič.&lt;/p&gt;
+
+&lt;p&gt;Trg na tem področju je zelo &lt;strong&gt;nasičen&lt;/strong&gt;, osebno zato odsvetujem, da se lotite socialnih platform, je pa socialna komponenta zelo dobra lastnost vsakega produkta. Mora pa biti naravni del le-tega in ne vsiljena. Uporabniki jo morajo sami &amp;ldquo;izumiti&amp;rdquo; pravzaprav.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Prevzem manjke trga&lt;/strong&gt; je zelo star pristop. Nek časopis umre zaradi finančnih težav, bralstvo še vedno obstaja, namesto njega nastane digitalna edicija, ki je cenejša in podobno brana. Ni magije v temu, le timing in začetni kapital. Dolgčas skratka.&lt;/p&gt;
+
+&lt;h3 id=&#34;kako-najdemo-idejo&#34;&gt;Kako najdemo idejo?&lt;/h3&gt;
+
+&lt;p&gt;Pri iskanju ideje si lahko pomagate tudi z raznimi anketami, vprašalniki … Ampak ne sprašujte ljudi &amp;ldquo;ali si to želite&amp;rdquo;. Odgovor bo vedno DA. Ljudje si vedno želijo novo igračo. Ignorirajte to. Vprašajte jih kaj bi izboljšali pri že obstoječi ideji/produktu. Sicer pa jih opazujte.&lt;/p&gt;
+
+&lt;p&gt;Imate idejo kako bi izboljšali frizersko delo? Obiščite frizerje, govorite z njimi, visite v salonih in opazujte kaj počno. Če si upate, si vzemite čas in postanite pripravnik. Ob pometanju las, boste ugotovili marsikaj zanimivega. Dobre ideje nastanejo s pravilnim spraševanjem in opazovanjem, predvsem pa tako, da nekaj doživite kot &amp;ldquo;gost&amp;rdquo; (del procesa, ampak še vedno dovolj svež, da niste obremenjeni z njim oz. uokvirjeni v njem).&lt;/p&gt;
+
+&lt;p&gt;Še opozorilo pri poslušanju &amp;ldquo;kaj bi izboljšali/spremenili&amp;rdquo;. Ne se podrejati vsem tujim predlogom (to radi počnejo tržniki, ker poslovno morajo ugajati), ampak jih kritično in analitično ocenite. Morda vam kakšen predlog dejansko izboljša produkt oz. ponudi idejo kako ga izboljšati.&lt;/p&gt;
+
+&lt;h2 id=&#34;zaključna-misel&#34;&gt;Zaključna misel&lt;/h2&gt;
+
+&lt;p&gt;{% pullquote %}
+Morda vam pomaga pri iskanju novih idej. Angleški izraz &amp;ldquo;to disrupt&amp;rdquo; je sveti gral modernih produktov. Če je produkt &amp;ldquo;disruptive&amp;rdquo;, mu verjetno uspe, vsaj kratkočasno. Pozornost je namreč denar, če ga unovčiš. Ampak … &amp;ldquo;{&amp;rdquo; Disruption is not in the technology, it&amp;rsquo;s in the content. &amp;ldquo;}&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;Rešitev ni vse, potrebujete ljudi, da jo bodo uporabili in iz nje naredili dogodek/zgodbo. Potrebujete &lt;strong&gt;vsebino&lt;/strong&gt;. Pa naj bo to aplikacija za telefon ali leseni dildo.
+{% endpullquote %}&lt;/p&gt;
+
+&lt;h4 id=&#34;nadaljevanje-brez-ekipe-ni-projekta-2014-09-30-kako-skuhati-uspesen-projekt-ekipa&#34;&gt;&lt;a href=&#34;https://blog.mclion.eu/2014/09/30/kako-skuhati-uspesen-projekt-ekipa/&#34;&gt;Nadaljevanje: Brez ekipe ni projekta&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&lt;a href=&#34;https://flic.kr/p/7QPvjg&#34;&gt;Photo of iPad and cat by Veronica Belmont&lt;/a&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;a href=&#34;https://flic.kr/p/88rEkf&#34;&gt;Photo of recipe book by Emily&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;a href=&#34;https://flic.kr/p/48gW5s&#34;&gt;Photo of light bulb by Daniele Marlenek&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kaj Slovence zanima?</title>
+      <link>https://blog.mclion.eu/2013/03/31/kaj-slovence-zanima/</link>
+      <pubDate>Sun, 31 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mclion.eu/2013/03/31/kaj-slovence-zanima/</guid>
+      <description>
+
+&lt;p&gt;To vprašanje si postavlja marsikateri tržnik, marsikateri novinar in predvsem vsak politik. No, tudi navadnega državljana zanima kaj navdušuje sotrpnike.&lt;/p&gt;
+
+&lt;p&gt;Zato sem se pred par meseci lotil vikend projekta, ki se je razširil na več vikendov in zrasel v obliko, ki jo lahko trenutno testirate na &lt;a href=&#34;http://mclion.tuinzdaj.net/novicev/&#34;&gt;mclion.tuinzdaj.net/novicev/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Na tem spletnem mestu boste dobili odgovor &amp;ldquo;Kaj Slovence danes zanima?&amp;rdquo;. Odgovor bo v obliki spiska novic, ki je obtežen po zanimanju slovenskih bralcev in časom objave. Večje kot je zanimanje v določenem času, višje se bo izpisala.&lt;/p&gt;
+
+&lt;p&gt;Tako lahko hitro ugotovite kaj zabava, kaj muči in kaj … Slovence. Slovence pa zato, ker za vir informacij jemljem slovenske medije.&lt;/p&gt;
+
+&lt;p&gt;Pa ne naredite si prehitro slabega mnenja o naših obsesijah. Občasno so kičaste, čudne, plebejske in zelo neintelektualne, ampak vedno so zanimive, če ne drugo iz antropološkega vidika.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://blog.mclion.eu/images/2013/garden-hose.jpg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;kako-deluje&#34;&gt;Kako deluje?&lt;/h3&gt;
+
+&lt;p&gt;Program v ozadju sledi objavam okoli 40 slovenskih medijev. Pregleda Facebook, Twitter in Google+ in ugotovi koliko zanimanja povzročijo te objave na omenjenih socialnih platformah. Večje kot je skupno zanimanje, višja je številka.&lt;/p&gt;
+
+&lt;p&gt;Naj poudarim, da gre predvsem za peskovnik, kjer testiram razne pristope in včasih tudi pridem do odgovorov, ki me zanimajo. Če mi to uspe, dodatek ostane v aplikaciji, sicer ga odstranim.&lt;/p&gt;
+
+&lt;h3 id=&#34;vam-je-všeč&#34;&gt;Vam je všeč?&lt;/h3&gt;
+
+&lt;p&gt;Če vam je servis všeč, si naslov shranite. Je na začasnem strežniku, ampak ko ga bom premaknil, bom poskrbel, da ne boste izgubili naslova. Če bo dovolj interesa, bom iz njega naredil seveda &amp;ldquo;pravo stran&amp;rdquo;.&lt;/p&gt;
+
+&lt;h2 id=&#34;rabim-vašo-pomoč&#34;&gt;Rabim vašo pomoč&lt;/h2&gt;
+
+&lt;p&gt;Sedaj sem pred dilemo. Kako bi razvijal ta servis naprej? Naj iz njega izdelam mobilno aplikacijo ali naj to spletno mesto uredim, da bo čimbolj lično in uporabno ter ga objavim na nekem enostavnem naslovu, ki si ga boste zapomnili?&lt;/p&gt;
+
+&lt;p&gt;Dodam komentarje? Možnost delitve (share) objav? Možnost označevanja prebranega? Možnost … ?&lt;/p&gt;
+
+&lt;p&gt;Odgovore pustite v komentarjih ali pa mi pišite na &lt;a href=&#34;http://twitter.com/mclion&#34;&gt;Twitterju&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Zbogom Posterous, dobrodošel Github!</title>
+      <link>https://blog.mclion.eu/2013/03/23/zbogom-posterous/</link>
+      <pubDate>Sat, 23 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mclion.eu/2013/03/23/zbogom-posterous/</guid>
+      <description>&lt;p&gt;Kot že verjetno veste, se je &lt;strong&gt;Twitter&lt;/strong&gt; na začetku leta odločil, da ugasne blogersko platformo &lt;strong&gt;Posterous.com&lt;/strong&gt; in zaposlene preusmeri na nekaj bolj profitabilnega. O tem se je sicer špekuliralo že pred letom, ko je Twitter kupil Posterous … No, to sedaj sploh ni pomembno. Brezplačni servisi nastajajo in se ugašajo ne glede na naše želje. To je del njihove definicije brezplačnosti.&lt;/p&gt;
+
+&lt;p&gt;Skratka, kot mnogi sem bil postavljen pred odločitev: &lt;strong&gt;Kam prenesti blog?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Wordpressa&lt;/strong&gt; ne maram, preveč popularen je. Ok, če se bi igral malo s plugini, kaj sam sprogramiral … Ah, ne da se mi in nočem plačevati za poganjanje bloga. &lt;strong&gt;Blogger&lt;/strong&gt; je podobna zgodba, bil tam, uporabil, pozabil. Hotel sem nekaj novega. Nekaj v rubiju, že ki sem se ga v zadnjem času učil v sklopu novega jezikovnega znanja (poleg bolj obskurnih kot sta SML in Racket).&lt;/p&gt;
+
+&lt;p&gt;Ok, &lt;strong&gt;Jekyll&lt;/strong&gt; naj bo. Tako se nekaj novega naučim, se malo  globje potisnem v &lt;strong&gt;Ruby&lt;/strong&gt; svet &amp;hellip; Vsi tisti objekti in cukrasta imena … Ne bo mi treba več sladitkati nobene pijače!&lt;/p&gt;
+
+&lt;p&gt;Bolj kot razmišljam, bolj se mi ta odločitev zdi pravilna. Odločil sem se, da se bom ponovno bolj posvetil razvoju in bolj tehničnemu svetu. Vsakih 7 let je potrebno narediti eno večjo spremembo, ne?&lt;/p&gt;
+
+&lt;p&gt;Super. Ruby + (Git)hub + Markdown + Jekyll + Octopress … Kako še lahko zakompliciramo? SASS namesto CSS, ja dejmo!&lt;/p&gt;
+
+&lt;p&gt;Prvi problem je bil prenos šablone (template) bloga. Na tisto na Posterousu sem bil že navezan. Decembra sem jo osvežil z novimi fonti in spremenil nekaj elementov. Kar je zahtevalo kar nekaj kopanja po CSS-ju ene od dostopnih šablon. Par tednov zatem so mi sporočili, da ukinjajo Posterous. Počutil sem se uspešen kot sam Sizif!&lt;/p&gt;
+
+&lt;p&gt;Ok, priznam. Ni se mi dalo učiti SASS samo zato, da prenesem blog. Zato sem začasno zadeve poflikal z navadnim CSS. &amp;ldquo;Za sedaj bo, potem pa bom popravil … Ko bom imel kaj več časa in volje.&amp;rdquo; Tako ja. Lažem si. To je prvi korak do uspeha (v razvoju). Laži in to javno priznaj. Morda sem kaj zamešal.&lt;/p&gt;
+
+&lt;p&gt;Največ časa je šlo v prenašanju slik, saj Posterous vsebuje galerije. Nekaj vpisov sem zato ročno uredil (dopisal slike vanje), nekaj sem jih pobrisal. Zgubil sem en vpis, ki je imel vključeno eno pesem. Zdelo se mi je preveč dela za en vpis iz leta 2009. Moram še urediti en spodoben prikaz galerij (trenutno se slike prikazujejo ena pod drugo) … Dovolj.&lt;/p&gt;
+
+&lt;p&gt;No, to je novi blog na novi lokaciji in v novi obliki, ki spominja na staro. S časom bom dodal ostale malenkosti, sedaj je poglavitno, da dela. Posterous bodo ukinili že konec aprila.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Naslednjič predstavim moj najbolj uspešen test in vas vprašam kaj naj storim kot naslednji korak …&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://blog.mclion.eu/images/2013/22-GitHub-588x450.png&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;P.S.&lt;/strong&gt; Glede na to, da je sedaj blog na Githubu bodo tudi teme malenkost bolj tehnične. Pa tudi zgoraj opisana odločitev bo imela nekaj vloge pri tem. Bom pa še vedno dovolj poljuden, da me boste razumeli tudi tisti, ki za delovanje potrebujete kravato. Obljubim.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;P.P.S.&lt;/strong&gt; Če koga zanima kaj vse je potrebno storiti, naj mi pusti en tvit, FB sporočilo (če mu bo Facebook dovolil) ali pa mail (marko na tej domeni). Rade volje razložim to mikro odisejo. :)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Merjenje spletnega obiska za laike</title>
+      <link>https://blog.mclion.eu/2013/01/19/merjenje-spletnega-obiska-za-laike/</link>
+      <pubDate>Sat, 19 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mclion.eu/2013/01/19/merjenje-spletnega-obiska-za-laike/</guid>
+      <description>&lt;p&gt;Tudi letos so me povabili na FH&amp;Scaron;, da &amp;scaron;tudentom medijskega &amp;scaron;tudija predstavim eno temo v sklopu predmeta Digitalni mediji in družba. Letos mi je nositelj predmeta kot temo predlagal &#34;merjenje obiska na internetu&#34;.  Ben, ok &amp;hellip; Tema ni med najbolj zanimivimi za humaniste &amp;hellip; Približno tako kot nabiranje oljk - najde se kak&amp;scaron;en navdu&amp;scaron;enc, ampak večina bi raje komentirala družboslovni vidiku takega početja, mogoče.&lt;/p&gt;
+&lt;p&gt;Predavanje sem dal skozi, ostalo mi je kar nekaj materiala ... Tema je zanimiva za večjo množico, zato sem se odločil, da jo objavim &amp;scaron;e tukaj. Vsebina je poljudna in ne zahteva tehničnega predznanja. Prijetno branje.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://j.mp/13Sfgjz&#34; title=&#34;Predstavitev FH&amp;Scaron; 2013&#34; target=&#34;_blank&#34;&gt;Digitalne diapozitive, ki sem jih med predavanjem uporabljal, dobite na tej povezavi.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;Zakaj merimo?&lt;/h2&gt;
+&lt;p&gt;Odkar se je človek naučil &amp;scaron;teti, to izkori&amp;scaron;ča in tudi nekateri uživajo v temu. Zanimalo ga je koliko črede je imel, zanimalo ga je koliko hektarjev je potreboval za to čredo in koliko vode bo ta čreda spila. Zanimalo ga je kolik&amp;scaron;na je njegova čreda v primerjavi s sosedovo &amp;hellip; Na koncu pa ga je seveda zanimalo koliko bo lahko zaslužil z njo, podatek o velikosti drugih čred je tudi vplival na ceno (količina na trgu ipd.) &amp;hellip; Podobno je tudi v medijih.&lt;/p&gt;
+&lt;p&gt;Cilj meritev so predvsem primerljivi podatki. Iz stali&amp;scaron;ča ogla&amp;scaron;evalca nas zanima katera TV postaja je bolj spremljana ob določeni uri, kateri radijski program doseže največ poslu&amp;scaron;alcev na svojem področju, kateri časopis je bolj bran in seveda katero spletno mesto ima največ ljudi, ki bi jih zanimal na&amp;scaron; produkt.&lt;/p&gt;
+&lt;p&gt;Takoj je jasno, da pri spletnih meritvah zahtevamo več ... &lt;strong&gt;Ker lahko.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Iz vidika nekoga, ki ustvarja vsebino, nam meritev pomaga, da ugotavljamo kak&amp;scaron;ni ljudje jo konzumirajo in glede na to ciljno publiko jo lahko tudi izbolj&amp;scaron;amo. Neka vsebina ne vleče pozornosti? Enostavno, ne izgubljajmo časa z njo. Posvetimo se drugi. Če ugotovimo, da nas spremlja 80 % ljudi, ki so starej&amp;scaron;i od 50 let, bomo zmanj&amp;scaron;ali (ali ukinili) objave namenjene srednje&amp;scaron;olcem in &amp;scaron;tudentom. Vsebino lahko hitreje prilagodimo kot pa spremenimo strukturo na&amp;scaron;ih porabnikov. Spreminjaje ciljne publike je namreč najdražji postopek, iz uredni&amp;scaron;kega vidika.&lt;/p&gt;
+&lt;p&gt;Meritve ponavadi omogočajo tudi analizo prekrivanja dosega medijev oziroma njihovih porabnikov. Tako lahko ogla&amp;scaron;evalec ugotovi kje dobi najbolj&amp;scaron;o publiko, ustvarjalec vsebine pa kje se &amp;scaron;e zadržujejo porabniki njegove vsebine in se recimo lahko odloči, da ne bo podvajal vsebine iz tega oziroma teh medijev.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;Kaj merimo?&lt;/h2&gt;
+&lt;p&gt;Zanimajo nas ljudje. Ker je skoraj nemogoče individualno izpra&amp;scaron;ati vsakega posameznika kaj počne v življenju in kaj ga zanima, anketiramo del populacije in glede na to določimo na&amp;scaron;e &#34;vesolje&#34;. To vesolje analiziramo (struktura, interesi &amp;hellip;) in ga preslikamo na celotno populacijo. To je osnovni opis, ki velja za večino meritev branosti/gledanosti/obiska &amp;hellip;&lt;/p&gt;
+&lt;p&gt;Za vsako meritev je potrebno plačati. Brezplačni sistemi ne omogočajo primerjanja med &#34;akterji&#34; oziroma, če to omogočajo, gre za plačljivo storitev.&lt;/p&gt;
+&lt;p&gt;Poglejmo posamezne primere.&lt;/p&gt;
+&lt;h3&gt;TV&lt;/h3&gt;
+&lt;p&gt;Gledanost TV programov v Sloveniji meri Nielsen in ga imenujemo Telemetrija. To je kombinacija merilnih naprav (620), ki so postavljene pri ciljnih družinah (450) in poznavanja &#34;vesolja&#34; uporabnikov.  Ti podatki se prenesejo v bazo, kjer se na podlagi vesolja preslikajo v slovensko populacijo.&lt;/p&gt;
+&lt;p&gt;Teoretično se lahko zgodi, da mnogi iz ciljnih družin gledajo nek program, ampak ga izven merjene skupine spremlja zelo malo. To naj se ne bi dogajalo, čeprav laiki občasno opazijo, da se promet omemb nekega programa na socialnih omrežjih (predvsem Twitter in Facebook) ne sklada z ugotovitvami Nielsena oziroma so rezultati diametralni.&lt;/p&gt;
+&lt;p&gt;Tak primer je bil pri par epizodah resničnostnega &amp;scaron;ova Ema 2012, ko je Nielsen pokazal hudo premoč ponudbe na POP TV (Kmetija), socialna omrežja pa so bila polna objav za oddajo na RTV Slovenija &amp;hellip;&lt;/p&gt;
+&lt;p&gt;Nielsenovo raziskavo koristijo vsi, zato je valuta na trži&amp;scaron;ču.&lt;/p&gt;
+&lt;h3&gt;Tisk&lt;/h3&gt;
+&lt;p&gt;Branost tiskanih medijev meri Nacionalna raziskava branosti oz. NRB, ki se izvaja v sklopu Slovenske ogla&amp;scaron;evalske zbornice (SOZ). NRB je uradna valuta za branost tiskanih medijev.&lt;/p&gt;
+&lt;p&gt;Gre fizično raziskavo (CAPI - Computer Aided Personal Interview), kjer podatke podpirajo s centralnim registrom prebivalstva. Dnevno opravijo 16 anket na terenu oziroma 480 anket mesečno. Anketiranci so pred obiskom anketarja obve&amp;scaron;čeni.&lt;/p&gt;
+&lt;p&gt;Podatki se kot pri drugih raziskavah zatem obtežijo na podlagi različnih parametrov (področje izhajanja medija, naklada itd.).&lt;/p&gt;
+&lt;h3&gt;Radio&lt;/h3&gt;
+&lt;p&gt;Radijske meritve so pri nas največja zabava. Ne vem, če bi tukaj uporabil sploh besedo &#34;meritev&#34;. Gre za anketiranje po telefonu in spletu.&lt;/p&gt;
+&lt;p&gt;Za poslu&amp;scaron;anost radijskih postaj ni valute. Ni ene skupne raziskave trži&amp;scaron;ča, ampak dva podjetja izvajata svoje raziskave, ugotovitve pa zatem prodajata radijskim postajam in agencijam za ogla&amp;scaron;evanje. Imamo torej RM od Mediane in Radiometrijo od Mediapoola.&lt;/p&gt;
+&lt;p&gt;Kot že napisano, sta meritvi predvsem statistično premetavanje odgovorov iz telefonskih (CATI - Computer Aided Telephone Interview) in spletnih (CAWI - Computer Aided Web Interview) anket. Sicer podatke obtežijo s tehnično sli&amp;scaron;nostjo radijske postaje, ki pa je spet ocena glede na postavitev oddajnikov in populacijo na tistih področjih &amp;hellip; Skratka, gre za analizo interesov potencialnih poslu&amp;scaron;alcev, ne za meritev.&lt;/p&gt;
+&lt;p&gt;Ugotovitve teh dveh meritev niso enakovredne. Včasih so celo diametralne. Pa tudi naročniki jih uporabljajo brez jasno določenih standardov prikaza/promoviranja/poročanja ... Na primer, radijska postaja, ki se želi prikazati kot izjemna, pri podatkih odstrani vsa področja &#34;kjer nas slab&amp;scaron;e sli&amp;scaron;ijo&#34; in izbere področja, kjer je ta sli&amp;scaron;anost izjemna v primerjavi z drugimi postajami. Zatem objavi rezultate v obliki grafov, kjer prikazujejo, da so &#34;Najbolj poslu&amp;scaron;an radio&#34; in pri temu seveda ne lažejo (v izbranem svetu). V Sloveniji imamo kar nekaj &#34;najbolj poslu&amp;scaron;anih radijskih postaj&#34;. Nekatere to bolj izpostavljajo, druge manj.&lt;/p&gt;
+&lt;p&gt;Sicer ponudniki merjenja radijske poslu&amp;scaron;anosti med svojo dokumentacijo vključujejo tudi kodeks z nekimi sankcijami. Ne vem, pa če delujejo. Kot poučen laik v tej sceni, delovanja le-teh &amp;scaron;e nisem opazil.&lt;/p&gt;
+&lt;p&gt;Podatki niso javni niti v manj&amp;scaron;i obliki (NRB in MOSS redno prikazujeta splo&amp;scaron;ne analize trga) saj gre za komercialno storitev. Zato zainteresirana javnost ne more preverjati oziroma primerjati metod in ugotovitev, ne da bi investirala v dostop.&lt;/p&gt;
+&lt;p&gt;Če sem iskren ... 10 let sem delal na radiu in so mi bile ves čas te meritve nekak&amp;scaron;na mistika. V smislu, da so bolj podobne črni magiji kot pa nečemu oprijemljivemu, logičnemu. Sem pač naravoslovec. Ampak kaj čmo, dokler se to prodaja, bo obstajalo v tak&amp;scaron;ni obliki in brez državne valute.&lt;/p&gt;
+&lt;h3&gt;Internet&lt;/h3&gt;
+&lt;p&gt;Obisk spletnih mest v Sloveniji beleži projekt MOSS (Merjenje obiska spletnih strani), ki deluje v sklopu &lt;a href=&#34;http://soz.si/&#34;&gt;SOZ&lt;/a&gt;. Dnevno se preko tehničnega sistema meri obiske na več kot 100 spletnih mestih oziroma izmeri več kot 600.000 dnevnih uporabnikov. To se kombinira s spletno anketo na katero odgovori mesečno okoli 20.000 ljudi. Podatki se preslikajo s pomočjo ugotovitev telefonske ankete v kateri vsaka dva meseca pokliče okoli 1000 gospodinjstev. Gre torej za največjo medijsko meritev v Sloveniji po količini izmerjenih in kori&amp;scaron;čenih podatkov.&lt;/p&gt;
+&lt;!--more--&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;MOSS&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;http://j.mp/VDmXqY&#34; target=&#34;_blank&#34;&gt;MOSS&lt;/a&gt; je neprekinjena meritev. To pomeni, da se dogaja ves čas, brez prekinitev. Sodelujoča spletna mesta imajo v izvorni kodi strani &#34;skrit&#34; klic na merilni sistem, ki ob vsakem kliku po povezavah na strani po&amp;scaron;lje podatke na strežnik, ki jih zabeleži. Zatem se ti podatki po&amp;scaron;ljejo v računski center, kjer pre&amp;scaron;tejejo naprave (pi&amp;scaron;kotke pravzaprav), zapi&amp;scaron;ejo pot uporabni&amp;scaron;kih klikov po merjenih spletnih mestih, jih povežejo na izpolnjene ankete za določanje strukture populacije itd. Zatem izračunajo koliko različnih naprav je v enem mesecu obiskalo merjeni svet (vsa spletna mesta, ki sodelujejo v raziskavi) in to ponovijo za vsako sodelujoče spletno mesto. Naprave ločijo s pomočjo pi&amp;scaron;kotkov (cookies).&lt;/p&gt;
+&lt;p&gt;Merjeni svet se preslika v obiskovalce (ljudi) s pomočjo ugotovitev telefonske ankete. Z njo namreč ugotavljajo koliko ljudi je v tem obdobju pri nas uporabljalo splet.&lt;/p&gt;
+{% img /images/posterous/2013/01/46890111-moss_-_struktura_vzorcenja.png %}
+&lt;p&gt;Podatki so izračunani do 15. v mesecu, zatem jih mora Strokovna komisija pregledati in potrditi. Če je vse v redu, so na razpolago za porabo okoli 21. v mesecu za pretekli mesec (21. januarja 2013 bodo podatki za december 2013).&lt;/p&gt;
+&lt;p&gt;MOSS objavi dva tipa javnih podatkov. En je lestvica obiskanosti, ki se nahaja na &lt;a href=&#34;http://moss-soz.si/&#34;&gt;moss-soz.si&lt;/a&gt;, drugo pa so sveži podatki iz tehničnih meritev. To so podatki o brskalnikih, operacijskih sistemih in mobilnih napravah, ki jih koristijo slovenski spletni uporabniki. Ti podatki se objavljajo na &lt;a href=&#34;http://www.ranking.si/&#34;&gt;ranking.si&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ostale podatke Valicon in SOZ tržita. Omogočajo dostop do sistema, kjer lahko uporabnik ugotovi prekrivanje populacij med spletnimi mesti, analizira podstrani določenega spletnega mesta (tudi po strukturi obiska) in iz tega sklepa glede na svoje cilje (ogla&amp;scaron;evalske, uredni&amp;scaron;ke ali tretje).&lt;/p&gt;
+&lt;h3&gt;Nekaj podatkov o Sloveniji - november 2012&lt;/h3&gt;
+{% img /images/posterous/2013/01/46890110-moss_-_sociodemografski_podatki.png %}
+&lt;p&gt;V populaciji od 10 do 75 let je bilo novembra 2012 &lt;strong&gt;80 % mesečnih uporabnikov interneta&lt;/strong&gt;, kar predstavlja &lt;strong&gt;1.373.365 prebivalcev&lt;/strong&gt; Slovenije v starosti od 10 do 75 let. Ob upo&amp;scaron;tevanju 97% intervala zaupanja je v Sloveniji novembra 2012 med 1.371.656 in 1.375.074 mesečnih uporabnikov interneta. Populacija od 10 do 75 let predstavlja 1.709.050 prebivalcev Slovenije.&lt;/p&gt;
+&lt;p&gt;Med mesečnimi uporabniki interneta je &lt;strong&gt;55% mo&amp;scaron;kih, 45% je žensk&lt;/strong&gt;. V primeru da mesečne uporabnike interneta po starostnih razredih razdelimo na tretjine, dobimo naslednjo strukturo: od 10 do 24 let (25%), od 25 do 39 let (30%), od 40 do 75 let (45%). Povprečna starost mesečnih uporabnikov interneta zna&amp;scaron;a 37 let.&lt;/p&gt;
+&lt;p&gt;Glede na zaposlitveni status je delež mesečnih uporabnikov interneta največji v kategoriji zaposlen v podjetju (35%).&lt;/p&gt;
+&lt;p&gt;Valuta je doseg strani v obdobju od 1.11. do 30.11.2012. Izmerjen doseg &amp;ndash; Slovenija na 104-ih merjenih straneh, v obdobju od 1.11. do 30.11.2012, zna&amp;scaron;a 1.332.164 različnih obiskovalcev. Obiskovalci 104-ih strani so v obdobju od 1.11. do 30.11.2012 opravili nekaj več kot 704 mio prikazov. Ocenjen dodatni doseg &amp;ndash; tujina zna&amp;scaron;a 733.114 in predstavlja &amp;scaron;tevilo uporabnikov, ki so dostopali do spletnih strani iz IP &amp;scaron;tevilk, ki niso slovenske. Podatek o ocenjenem dodatnem dosegu iz tujine ni korigiran s podatki telefonske ankete.&lt;/p&gt;
+&lt;p&gt;Največje &amp;scaron;tevilo prikazov je bilo ustvarjeno v drugem tednu meseca novembra (od 5.11. do 11.11.). Prvi in zadnji teden v mesecu novembru ne predstavlja celih 7 dni.&lt;/p&gt;
+&lt;p&gt;V obdobju od 1.11.2012 do 30.11.2012 je bilo &amp;scaron;tevilo obiskovalcev med vikendi za 32% nižje kot ob delavnikih, medtem ko je &amp;scaron;tevilo ogledov vseh spletnih mest ob vikendih v povprečju zna&amp;scaron;alo &lt;strong&gt;42 mio&lt;/strong&gt;, ob delavnikih pa &lt;strong&gt;107 mio&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;Kaj pa Facebook?&lt;/h2&gt;
+&lt;p&gt;Mimo Facebooka itak ne moremo. Po njihovih podatkih Facebooka več kot 700.000 registriranih uporabnikov iz Slovenije. Lahko te račune preslikamo v ljudi? Lahko in to brez večjih napak. Zadnja analiza uporabnikov Facebooka je ugotovilo, da je bilo lani na tem omrežju okoli 90 milijonov lažnih računov. Na celotno populacijo 1 milijarde, je to &amp;scaron;čepec soli v morju. Pa tudi, le je odstotek lažnih računov v Sloveniji večji, je statistično gledano podatek bolj točen od večine ostalih meritev slovenskih medijev (z izjemo morda MOSS-a).&lt;/p&gt;
+&lt;p&gt;Oni nimajo torej težav pri preslikavi naprav v ljudi. Tudi sledijo lahko brez zunanjih sistemov vsakemu koraku, ki ga naredite znotraj spletnega mesta. Nekje vam sledijo tudi izven. Ampak to je tema za kdaj drugič.&lt;/p&gt;
+&lt;p&gt;Če imate svojo stran na Facebooku (&#34;Fan page&#34; so temu nekoč rekli, danes pa samo &#34;Facebook page&#34;), potem lahko v razdelku Insigns ugotovite marsikaj o populaciji, ki vidi, prebere oziroma odreagira na objave na zidu va&amp;scaron;e Facebook strani.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Največja Facebook stran v Sloveniji &lt;/strong&gt;(glede na slovensko populacijo) je v tem trenutku Radio 1, sledi Kolektiva Slovenija in na tretjem mestu je Jurij Zrnec. Sveže podatke o tem dobite na&amp;nbsp;&lt;a href=&#34;http://www.socialbakers.com/facebook-pages/slovenia/&#34;&gt;SocialBakers pod Facebook -&amp;gt; Slovenia -&amp;gt; Pages&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;Prihodnost?&lt;/h2&gt;
+&lt;p&gt;Po mojem mnenju bodo meritve obiska s časom postale vedno manj relevantne, vsaj kar se ogla&amp;scaron;evalskega stali&amp;scaron;ča tiče. Urednike in lastnike medijev bo &amp;scaron;e vedno zanimal surov podatek koliko naprav in/ali ljudi konzumira njihov medij, ogla&amp;scaron;evalci pa bodo zahtevali več.&lt;/p&gt;
+&lt;h3&gt;Kaj več?&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Angažiranost&lt;/strong&gt; oziroma v angle&amp;scaron;čini engagement.&lt;/p&gt;
+&lt;p&gt;Z manj&amp;scaron;anjem budgetov seveda želimo čim več vloženi denar. Sploh v času, ko ogla&amp;scaron;evanje ni več &#34;zaradi tro&amp;scaron;enja budgeta&#34;, ampak mora imeti učinek. Ogla&amp;scaron;evalec si želi, da njegov oglas vzpodbudi reakcijo pri potro&amp;scaron;niku. Tudi zato, ker je množica zelo pasivna. Nekdo, ki se angažira s produktom, se lahko naveže nanj oziroma s tem produktom in/ali blagovno znamko vzpostavi nek čustven odnos. Ta čustven odnos se direktno preslika v prodajo (če se kaj ne zalomi vmes).&lt;/p&gt;
+&lt;p&gt;Zato ne bo več pomembno koliko ljudi je videlo neko objavo, neko oddajo, sli&amp;scaron;alo oddajo &amp;hellip; Ampak koliko ljudi je ta objava angažirala. To so recimo tviti in statusi na Facebooku med soočenjem na TV, telefonski klici med radijsko nagradno igro, poslani kuponi in klicane &amp;scaron;tevilke iz oglasov v tisku. Dejansko se parametrov ne da standardizirati, vsaj v obliko valute, saj so preveč raznolike.&lt;/p&gt;
+&lt;h3&gt;Kaj pa splet?&lt;/h3&gt;
+&lt;p&gt;Na spletu že imamo standardizirane parametre, ki jih že merimo, ampak jih &amp;scaron;e ne cenimo toliko. Vsaj v smislu medijske meritve ne. Ti parametri se imenujejo v&amp;scaron;ečki (likes), tviti, komentarji, +1 in seveda javne delitve (shares).&lt;/p&gt;
+&lt;p&gt;Na spletu lahko merimo angažiranost, ki jo je povzročila neka objava. Lahko določimo vrednost posamezni akciji in iz tega oblikujemo lestvico. Lahko hitro ugotovimo kaj je v nekem trenutku najbolj pomembno, kaj je trend. To se že danes da preslikati v dobro ciljan oglas, pri mediju pa v denar.&lt;/p&gt;
+&lt;p&gt;Seveda pa je za to doseči potrebno stopiti iz znanih okovov in zakorakati v neznano. Morda se vam bo celo izplačalo.&lt;/p&gt;
+&lt;h2&gt;Bonus&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;http://j.mp/VDhFMa&#34; target=&#34;_blank&#34;&gt;Povezava do mojega eksperimenta.&lt;/a&gt; Sistem, ki meri angažiranost objav slovenskih medijev in jih postavi v spisek. Povezava bo delovala, dokler se bom igral s tem eksperimentom &amp;hellip; :)&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://j.mp/13Sfgjz&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Ostalo iz predstavitve si lahko ogledate v digitalnih diapozitivih, ki sem jih predstavil na predavanju.&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Več oglasov kot ljudi</title>
+      <link>https://blog.mclion.eu/2012/11/08/vec-oglasov-kot-ljudi/</link>
+      <pubDate>Thu, 08 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mclion.eu/2012/11/08/vec-oglasov-kot-ljudi/</guid>
+      <description>&lt;p&gt;Slovenski spletni mediji so padli v &lt;strong&gt;ogla&amp;scaron;evalsko&lt;/strong&gt; &lt;strong&gt;črno luknj&lt;/strong&gt;o, ki sem jo na ObalaNET doživel pred približno &amp;scaron;estimi leti in se je nisem zavedel, dokler tega fenomena nisem opazil pri najbolj branih slovenskih spletnih medijih dana&amp;scaron;njega časa. Tokrat ne bom samo nergal, ampak poskusil najti tudi re&amp;scaron;itev za izbolj&amp;scaron;anje stanja, vsaj iz vidika lastnika spletnega mesta.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Na tipičnem nadpovprečno obiskanem slovenskem spletnem mediju dobimo sledeče tipe oglasov:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Vodoravne, navpične in kvadratne oglasne pasice nad, pod, ob in med besedilom,&lt;/li&gt;
+&lt;li&gt;veliko drsečo pasico na dnu, ki zasede okoli &amp;frac14; okna,&lt;/li&gt;
+&lt;li&gt;drsni oglasi, ki se odprejo, ko uporabnik pride na dno članka (in mu premaknejo fokus na oglas),&lt;/li&gt;
+&lt;li&gt;lebdeči oglasi, ki prekrijejo vsebino in se včasih ne dajo zapreti,&lt;/li&gt;
+&lt;li&gt;oglasni premori pred in po video posnetkih,&lt;/li&gt;
+&lt;li&gt;video oglasni premori pred branjem članka,&lt;/li&gt;
+&lt;li&gt;oglasna ozadja,&lt;/li&gt;
+&lt;li&gt;Piano plačni&amp;scaron;ki zid,&lt;/li&gt;
+&lt;li&gt;Double Recall prekinitev, ki zahteva prepis dveh besed iz oglasa,&lt;/li&gt;
+&lt;li&gt;Plista &#34;sorodne vsebine&#34; in flyin oglasi iz spodnje desne strani ekrana,&lt;/li&gt;
+&lt;li&gt;tekstovni oglasi pod in med vsebino,&lt;/li&gt;
+&lt;li&gt;tekstovni oglasi znotraj vsebine.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;Verjetno sem kak&amp;scaron;nega pozabil. Večina od teh oglasnih tipov ni problematična. Težava nastane, ko se več pristopov kombinira na eno spletno stran.&lt;/p&gt;
+&lt;p&gt;Ponavadi uporabnik takega spleti&amp;scaron;ča zadane ob najmanj &amp;scaron;tiri tipe oglasov na vsaki strani in to tudi tisti uporabniki, ki so vplačali &lt;a&gt;Piano&lt;/a&gt; oziroma plačujejo kak&amp;scaron;no drugo naročnino. Naročniki sistema Piano tukaj plačajo dvojno, ampak to ni tema tega bloga ...&lt;/p&gt;
+&lt;p&gt;Podobno težavo smo imeli na &lt;a&gt;ObalaNET&lt;/a&gt; okoli leta 2006, če me (glede letnice) spomin ne vara. Sicer smo posku&amp;scaron;ali &amp;scaron;tevilo oglasov omejiti, ampak kljub temu se je pri ogromnem &amp;scaron;tevilu prikazov (tudi do 2 milijona dnevno) hitro zgodilo, da je bilo oglasnega prostora več, kot je bilo uporabnikov. Pri tem je bilo najslab&amp;scaron;e dejstvo, da je bilo prikazanih oglasov v vsakem trenutku več, kot jih je bilo zakupljenih.&lt;/p&gt;
+&lt;p&gt;Zato se je zgodila druga težava. Večina neposrednih zakupnikov oglasnega prostora so bila manj&amp;scaron;a podjetja oziroma obrtniki, ki si niso mogli privo&amp;scaron;čiti milijone prikazov. Ponavadi je &amp;scaron;lo za 10 do 100 krat manj&amp;scaron;e zakupe od tega. Zato ravno oglasi teh naročnikov niso pri&amp;scaron;li do izraza. Kar je pomenilo, da se je tak&amp;scaron;no naročilo malokdaj ponovilo.&lt;/p&gt;
+&lt;p&gt;To je bila posledica druge težave, ki smo si jo spletli sami. Imeli smo ogromno prikazov (2 milijona prikazov * 3 lokacije = 6 mio oglasov dnevno), ki niso bili prodani. Zato smo jih oddali agencijam kot sta Iprom in Adpartner. S tem smo sicer povečali zaslužek (sploh s pomočjo Iproma), vendar smo ustvarili tudi &lt;strong&gt;interno konkurenco glede oglasnega prostora.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Dejmo en primer. Naročnik pri spletnem mediju zakupi 10.000 prikazov za 50 evrov. Za to vrednost dobi pri agenciji, ki prikazuje na istem spletnem mediju oglase 100 klikov (po ceni 0,5 eur/klik). S 0,1% CTR, ki je neko visoko povprečje pri tak&amp;scaron;nih oglasih, je to okoli 100.000 prikazov. Iz vidika naročnika dobi za isto ceno 10 krat več. Iz vidika spletnega medija, to predstavlja zaslužek okoli 15 eur oz. izgubo 485 evrov, če bi naročnik pri njih zakupil 100.000 prikazov oglasa. V odstotke si preračunajte sami.&lt;/p&gt;
+&lt;p&gt;Imamo torej dve negativni posledici preobilice oglasnih lokacij/sistemov:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Mali naročniki ne pridejo do izraza in ne &#34;doživijo&#34; vrednosti svojega nakupa.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ustvarili smo si konkurnenco na svojem terenu.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;Če poklikamo po najbolj branih slovenskih spletnih medijih, hitro ugotovimo, da se jim verjetno dogaja ravno to. Prikažejo ogromno oglasov, ampak večino servirajo ogla&amp;scaron;evalske mreže kot so Iprom, Adpartner in po novem tudi Google Adsense. Posledično kar prodajo njihovi tržniki ne pride toliko do izraza in imajo manj&amp;scaron;o uspe&amp;scaron;nost, kot bi jo lahko imeli lahko sicer.&lt;/p&gt;
+&lt;p&gt;Pa tudi, ob preobilici oglasov, postane uporabnik popolnoma slep za relevantno oglasno vsebino. Kar pomeni manj klikov, torej tudi manj&amp;scaron;i zaslužek pri oglasnih mrežah. Začaran krog, ki pa ima posledice tudi v uredni&amp;scaron;tvu, saj odžene uporabnike od vsebine.&lt;/p&gt;
+&lt;p&gt;Pri Dnevniku so to očitno opazili, saj so pri obnovi odstranili nekaj oglasnega prostora in verjamem, da se jim zato zaslužek od oglasov ni spremenil.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;!--more--&gt;
+&lt;h2&gt;Imam re&amp;scaron;itev!&lt;/h2&gt;
+&lt;p&gt;Iz uporabni&amp;scaron;kega vidika je re&amp;scaron;itev enostavna. Ugasne&amp;scaron; flash oz. naloži&amp;scaron; &#34;flashblock&#34; in/ali &#34;addblock&#34; dodatek, ki obstaja za vsak tip brskalnika in ima&amp;scaron; mir nad večino oglasne vsebine. Upravljalci spletnih mest, pa si verjetno tega ne želite.&lt;/p&gt;
+&lt;p&gt;Leta 2006 sem zato za ObalaNET razvil &lt;strong&gt;drugačen tip ogla&amp;scaron;evanja&lt;/strong&gt;. Ni bil novost, obstajal je že nekaj let pred tem in se je uporabljal več ali manj uspe&amp;scaron;no na ameri&amp;scaron;kem trgu. Novost je bila v načinu uporabe le-tega.&lt;/p&gt;
+&lt;p&gt;Ta tip ogla&amp;scaron;evanja se je pred nekaj tedni pojavil tudi pri nas, ampak po mojem mnenju z napačnim pristopom. Prvič, sistem uporablja flash za prikaz oglasov, kar je leta 2012 nesmisel in drugič, gre za zunanji servis, ki ustvari le dodatno konkurenco znotraj spletnega mesta in prinese lastniku zelo malo.&lt;/p&gt;
+&lt;p&gt;Gre se torej za tekstovne oglase, ki se pojavljajo znotraj vsebine člankov, komentarjev, forumov &amp;hellip; Skratka povsod, kjer obstaja uredni&amp;scaron;ko ali uporabni&amp;scaron;ko besedilo.&lt;/p&gt;
+&lt;p&gt;To aplikacijo sem pred &amp;scaron;estimi leti spackal skupaj z željo, da bi jo tržil, ampak nisem na&amp;scaron;el poslovnega partnerja (baje je na&amp;scaron; trg premajhen za karkoli kar ne utripa in/ali drsi pred očmi). Oglasi so neintruzivni, ampak so disruptivni, ker delujejo na radovednost bralca. Lahko bi jim rekli, da so intelektualci med oglasnimi pristopi uporabljenimi na spletu.&lt;/p&gt;
+&lt;p&gt;Pristop deluje tako, da naročnik zakupi ključne besede in če se te pojavijo znotraj besedila, se dvojno podčrtajo. S tem povzročijo zanimanje pri uporabniku, saj so drugačne od ostalih povezav. Ko uporabnik zapelje z mi&amp;scaron;ko čeznje, se odpre okvirček z oglasom. Ob kliku na okvirček, je uporabnik prenesen na ogla&amp;scaron;evalčevo spletno mesto.&lt;/p&gt;
+&lt;p&gt;Na ObalaNET smo ta sistem tržili kombinirano po prikazih in klikih. Uporabnik je zakupil določeno &amp;scaron;tevilo klikov po X ceni, prikazi pa so stali X/20. Tudi sicer je bilo zanimanje ogromno in je vsak oglas dosegel tudi tretjino branosti posamezne vsebine, kjer se je pojavil (tudi po več mesecih uporabe). Kliki so bili v vi&amp;scaron;ini 1-4 % glede na te prikaze, kar je bilo hudo nad povprečjem ostalih tipov oglasov. Prikaze smo računali, ker je &amp;scaron;lo za interakcijo z oglasom in ne le za pasivni prikaz, kot gre &amp;scaron;e danes pri večino ostalih oglasov (razen DoubleRecall).&lt;/p&gt;
+&lt;p&gt;Ta tip ogla&amp;scaron;evanja smo tržili izključno lokalnim ogla&amp;scaron;evalcem, kar mu je dalo dodatno vrednost.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;&lt;a href=&#34;http://j.mp/RkMylH&#34; target=&#34;_blank&#34;&gt;Postrezite si!&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Ker je od tega že več kot 6 let in ker programi morajo biti svobodni, sem se odločil, da ta sistem osvobodim oziroma ga podarim vsem, ki ga želijo uporabiti. &lt;a href=&#34;http://j.mp/RkMylH&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Naložil sem ga na github&lt;/strong&gt;&lt;/a&gt;, največji zbornik &lt;strong&gt;odprtokodnega &lt;/strong&gt;programja na svetu, objavljen pa je pod MIT licenco, kar v grobem pomeni, da lahko s kodo počnete karkoli želite.&lt;/p&gt;
+&lt;p&gt;Koda je sicer &amp;scaron;e od leta 2006 in pristop do programske kode se je medtem popolnoma spremenil, vendar verjamem, da je dovolj razumljiva, da jo boste programerji znali hitro izbolj&amp;scaron;ati oz. vključiti v svoje re&amp;scaron;itve. Ravno zato je na &lt;a href=&#34;http://j.mp/RkMylH&#34; target=&#34;_blank&#34;&gt;githubu&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Če pa niste tehničen človek, bi pa vseeno radi na svojem spletnem mestu poganjali ta tip oglasov ali pa potrebujete določene &lt;strong&gt;prilagoditve&lt;/strong&gt;, me &lt;strong&gt;kontaktirajte&lt;/strong&gt; (mclion na gmailu) in vam bom  rade volje &lt;strong&gt;pomagal&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;P.S. &lt;/strong&gt;Naj bo jasno. Kar se tiče preobilice oglasnega prostora, menim, da napaka ni pri ogla&amp;scaron;evalskih mrežah, ki ponujajo odlično storitev, ampak na strani skrbnikov spletnih medijev, ki dovolijo prekomerno &amp;scaron;tevilo oglasov z napačno predstavo, da bodo tako več zaslužili. Dober gospodar bi ob postavitvi novega oglasnega prostora ugasnil najmanj enega, ki je najmanj uspe&amp;scaron;en (prinese najmanj&amp;scaron;i zaslužek). Vsakih nekaj mesecev pa bi vajo ponovil in tako zmanj&amp;scaron;al možnostjo, da uporabniki ne postanejo slepi na oglasne lokacije. Ampak to je za večino &#34;strokovnjakov&#34; pri nas nekaj nepojemljivega, vsaj po praksi sodeč ...&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MOSS je boljši od Google Analytics, ampak zakaj?</title>
+      <link>https://blog.mclion.eu/2011/12/06/moss-je-boljsi-od-google-analytics-ampak-zaka/</link>
+      <pubDate>Tue, 06 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mclion.eu/2011/12/06/moss-je-boljsi-od-google-analytics-ampak-zaka/</guid>
+      <description>&lt;p&gt;&lt;span&gt;&amp;Scaron;e danes se srečujem z nerazumevanjem delovanja projekta Meritve obiska spletnih strani, ki ga večina pozna pod kratico &lt;strong&gt;MOSS&lt;/strong&gt;. Žal prihaja do nerazumevanja ravno v slovenski skupnosti &#34;webmasterjev&#34; in drugih spletnih strokovnjakov, ki bi kot prvi morali razumeti delovanje in pomen tak&amp;scaron;nih projektov.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Dolga leta sem upal in tudi težil odgovornim znotraj projekta &lt;/span&gt;&lt;strong&gt;&lt;a href=&#34;http://moss-soz.si/&#34;&gt;MOSS&lt;/a&gt;&lt;/strong&gt;&lt;span&gt;, da je potrebno izbolj&amp;scaron;ati komunikacijo z naročniki, pristopniki oziroma kakor koli se imenuje tiste, ki sodelujejo v projektu, pa tudi komunikacijo z zainteresirano javnostjo. Žal na Slovenski ogla&amp;scaron;evalski zbornici (SOZ) komunicirajo predvsem prek novinarskih konferenc in očitno &amp;scaron;e danes ne razumejo, da skupnost razvijalcev, webmasterjev in ostalih spletnih zanesenjakov enostavno ne hodi na tiskovke in ne bere člankov na &lt;/span&gt;&lt;span&gt;24ur.com&lt;/span&gt;&lt;span&gt; (kjer se samo pohvalijo, da so najbolj&amp;scaron;i, nikoli pa bralcu ne razložijo, v čem). &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;No, ker se stanje do danes ni izbolj&amp;scaron;alo in ker sem samo v zadnjem tednu na Twitterju zasledil kar dve debati o MOSS, ki sta bili skregani z realnostjo in sta med tvitera&amp;scaron;i povzročili kar nekaj brezvezne jeze, sem se tokrat odločil, da zadeve spravim na ekran. &#34;Če oni ne znajo, bom pa jaz, zaFakinStonj!&#34; sem si rekel ... in se ugriznil v jezik ... a žal je bila obljuba že na Twitterju ... že drugič v enem tednu. :)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;MOSS je res dobra zadeva. Problem se skriva v slabi sposobnosti komunikacije SOZ-a z osebami, ki niso v projektu, ampak ustvarjajo mnenje v neki interesni skupnosti. Ta interesna skupnost pa (zadnje čase) ustvarja mnenje med novinarsko ... ki itak ne obiskuje prej omenjenih tiskovk, od katerih lahko odnese predvsem to, da je &lt;/span&gt;&lt;span&gt;24ur.com&lt;/span&gt;&lt;span&gt; najbolj obiskano spletno mesto v Sloveniji ... in zraven morda &amp;scaron;e kak&amp;scaron;no zanimivost, kar pa itak kasneje dobijo po elektronski po&amp;scaron;ti že lepo zapakirano za copy&amp;amp;paste postopek. :)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;No, začnimo na začetku. V času razvoja MOSS-a je nastalo kar nekaj govoric v stilu &#34;MOSS meri obisk preko telefonskih anket!&#34; ali &#34;Oni tako merijo, da &lt;/span&gt;&lt;span&gt;najdi.si&lt;/span&gt;&lt;span&gt; izpade največji!&#34;, kar se je v zadnjih letih preoblikovalo v &#34;Oni merijo tako, da &lt;/span&gt;&lt;span&gt;24ur.com&lt;/span&gt;&lt;span&gt; izpade največji!&#34;  Se tudi vam zdita zadnji izjavi, ko ju postavite eno ob drugo &amp;hellip; malenkosti izključujoči? Ker sta. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Kako je do tak&amp;scaron;nih prepričanj sploh pri&amp;scaron;lo? &lt;/span&gt;&lt;br /&gt; &lt;span&gt;Moja teorija ...&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;MOSS v0&lt;/h2&gt;
+&lt;p&gt;&lt;span&gt;Prva verzija MOSS-a je bila neke vrste ugotavljanje tople vode in se ni imenovala MOSS (zato sem jo označil z verzijo 0). Takrat so nekateri &#34;akterji slovenskega spleta&#34; ugotavljali, kako bi merili doseg spletnih mest. Ogromno so se pogovarjali, nekaj podjetij (raziskovalnih, ogla&amp;scaron;evalskih in akademskih) je bilo vpletenih, ampak več kot testne meritve niso dosegli. Pa &amp;scaron;e ta se je sesula med samim merjenjem.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Takrat sem se kot &amp;scaron;tudent informatike igral s &lt;/span&gt;&lt;span&gt;100si.com - Slovensko spletno lestvico&lt;/span&gt;&lt;span&gt;, kjer smo merili &#34;obisk&#34; slovenskih spletnih mest in ne dosega. Tudi mene so v tistem času kontaktirali iz ene fakultete in vpra&amp;scaron;ali, če bi znal v sklopu 100si.com razviti sistem meritve dosega za slovenski splet in ga tržiti. Slednje je bilo baje zelo pomembno. Storitev ni smela biti brezplačna, da ne bi predstavljala nelojalne konkurence komercialni, ki naj bi bila takrat v razvoju. Razvil sem re&amp;scaron;itev, jo testiral, pokazal nekaj ljudem in večkrat diskutiral z znanci o moji re&amp;scaron;itvi, ampak tega nisem imel namena tržiti. Jaz bi to dal zastonj ven. Nisem videl poante v računanju denarja za neko tehnično meritev. Moja takratna re&amp;scaron;itev ni pretirano obremenjevala strežnika, rezultati pa so &#34;zamujali&#34; le par ur. Z njo sem bil zadovoljen in ker se nisem hotel nikomur zameriti, je nisem nikoli javno lansiral (v praksi pa je v ozadju tekla več kot leto dni).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Spomnim se, da so me ti akterji kar nekajkrat povpra&amp;scaron;ali po tem, kako sem re&amp;scaron;il, da se strežnik, ki zajema podatke, ne vsuje med računanjem le-teh. Ponosno sem se jim nasmehnil. Skratka, izumljali so toplo vodo, vsaj iz mojega takratnega pogleda na svet.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Najverjetneje so vsa ta raziskovanja, debate, nenavadna vpra&amp;scaron;anja in testne meritve, ki so se končale s sesutim stežnikom, za posledico prinesli govorice, ki so se raz&amp;scaron;irile znotraj določenih interesnih skupnosti (med webmasterji). No, pa tudi zamerili so se baje nekaj ljudem ... Zamera, &amp;scaron;ank in pivo v roki pa pogosto ustvari kak&amp;scaron;no zgodbico ali dve ... ki zlahka postanejo kar legende.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Kasneje so vse porodne krče uspe&amp;scaron;no prebrodili in re&amp;scaron;ili vse zaplete, pa tudi telefonske ankete niso nikoli bile namenjene merjenju, ampak nekateri so, kot kaže, &amp;scaron;e danes prepričani, da je temu tako. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Dodatno težavo je povzročila &amp;scaron;e &lt;/span&gt;&lt;strong&gt;&lt;a href=&#34;http://www.nrb.info/&#34;&gt;NRB&lt;/a&gt;&lt;/strong&gt;&lt;span&gt; (Nacionalna raziskava branosti), ki je nekoč &#34;merila&#34; ali &amp;scaron;e &#34;meri&#34; doseg spletnih mest tiskanih medijev, ki so v raziskavi. Raziskava je bila morda res le telefonska in terenska tudi za splet, ampak je ne poznam ... Možno pa, da je ustvarila dodatno zme&amp;scaron;njavo. Skratka, NRB ni MOSS.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;MOSS v1&lt;/h2&gt;
+&lt;p&gt;V tem času sem uradno vstopil v projekt MOSS. Bila so najbolj&amp;scaron;a leta za &lt;strong&gt;ObalaNET&lt;/strong&gt; (kjer sem bil soustanovitelj) in so nas kot takrat večje spletno mesto v Sloveniji povabili k sodelovanju. Takoj sem se prijavil v t.i. Strokovno komisijo in bil tudi potrjen s strani t.i. pristopnikov. Sodeloval sem na raznih sestankih, kjer se je ugotavljalo, ali meritev poteka pravilno in določalo parametre, po katerih je nek obisk (hit) relevanten oziroma irelevanten. Ti parametri so v vsakem sistemu merjenja obiska, vendar so ponavadi skrivnost in jih določa ponudnik re&amp;scaron;itve. Tukaj je parametre določala skupina tehnično osve&amp;scaron;čenih pristopnikov. Osebno se mi zdi tako bolj fer. Če že plačuje&amp;scaron; neko meritev, je dobro, da ve&amp;scaron;, kaj in kako se meri, ter tudi, zakaj se tako meri.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Da ne bo &amp;scaron;e iz tega nastala kak&amp;scaron;na legenda. Ni &amp;scaron;lo za nikakr&amp;scaron;no magijo. Določeno je bilo, da se meri naprave, ki hranijo pi&amp;scaron;kotke in da se meri tudi naprave, ki jih ne sprejemajo oz. ne hranijo. Določilo se je, kako se to dvoje se&amp;scaron;teje. Določilo se je tudi, kaj pomeni &#34;neveljaven obisk&amp;rdquo;. Kot primer, bil je nek uporabnik, ki je v enem dnevu obiskal neko spletno mesto več kot 400-krat in bil zato označen za robota ter odstranjen iz meritve. Določilo se je parametre ločevanja robotov od realnih uporabnikov. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;MOSS v1 je potekal dvakrat letno: okoli aprila in septembra. V tem času sta se izvajali tudi telefonska in spletna anketa. Ta je bila podajana z oglasi (uporabnik je za dostop do spletne ankete moral klikniti na oglas za MOSS). Tehnična meritev, ki je podobna tisti, ki jo izvajajo Google Analytics in podobni sistemi, je bila osnova za izračun dosega. S pomočjo telefonske ankete in statističnimi orodji je bilo ugotovljeno, s koliko napravami v povprečju dostopa slovenski uporabnik do spleta. Upo&amp;scaron;tevani so bili tudi brskalniki, tako da dejansko je &amp;scaron;lo za količnik &#34;&amp;scaron;tevila brskalnikov na vseh napravah&#34;. Jasno je, da so bile upo&amp;scaron;tevane tudi naprave, ki jih je koristilo več oseb. Da ne bi zakomplicirali, imenujmo to kombinacijo kar &#34;naprave&#34;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Ta količnik je bil zatem uporabljen pri preslikavi naprav v osebe. Količniki so se po mojem spominu gibali med 0,8 in 1,2 (med vsemi izvedenimi meritvami pod MOSS v1). Problem MOSS v1 je bil v redkosti meritve. Založniki spletnih mest so tempirali novosti in akcije na čas, ko se je izvajala meritev. Po mojem spominu so bili med največjimi ekstremisti pri &lt;/span&gt;&lt;a href=&#34;http://24ur.com/&#34;&gt;&lt;span&gt;24ur.com&lt;/span&gt;&lt;/a&gt;&lt;span&gt;, kjer so &amp;scaron;tartali Big Brotherja in Kmetijo ravno v času meritve MOSS. Morda je bil to samo zelo zelo srečen slučaj, no... ;) &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Jasno, vsi so se v času tistih dveh meritev trudili, da bi čim bolj povečali svoj doseg, saj so imeli rezultati rok trajanja kar pol leta ... pol leta so potencialnim ogla&amp;scaron;evalcem kazali ta doseg (ali pa ga skrivali, odvisno od primera &amp;hellip;).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Nekateri so pri MOSS v1 zamerili tudi njegovo počasnost pri izračunu podatkov. Ponavadi so bili objavljeni 45 dni po zaključku meritve, morda celo kak dan kasneje.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Spletna anketa je služila ugotavljanju strukture obiska posameznega spletnega mesta (starostne skupine, spol, zaslužek, področje bivanja, interesi, ...). Rezultati so bili &#34;denar&#34; za založnike, ki so z njimi lahko pokazali, da njihovo spletno mesto dosega zelo dobro penetracijo v določeni tržni ni&amp;scaron;i, ki je ravno tista, ki jo cilja tudi ta ali oni ogla&amp;scaron;evalec. Pri kolikih je bilo to uspe&amp;scaron;no, žal ne vem, ObalaNET pa je postavilo na slovenski spletni zemljevid in ravno zaradi MOSS smo dobili kar nekaj ogla&amp;scaron;evalcev &#34;iz centra&#34;. Podatki iz spletne ankete so dokazovali, da je večina na&amp;scaron;ega obiska lokalnega, torej zelo ciljanega in da ga je &#34;kar nekaj&#34;. Drugače povedano, lahko smo dokazali, da pokrivamo večino lokalnega prebivalstva. Skratka, nam se je investicija v MOSS v1 izplačala.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;V drugi polovici obstoja MOSS-a v1 so pri &lt;strong&gt;Aragonu&lt;/strong&gt;, izvajalcu meritve, razvili tudi sistem prekrivanja rezultatov, ki je odgovore iz ankete in identificirane naprave prekrival med različnimi spletnimi mesti. Tako sta lahko ogla&amp;scaron;evalec oziroma agencija ugotovila, kje se nahaja največ neke ciljne publike. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;!--more--&gt;
+&lt;h2&gt;MOSS v2&lt;/h2&gt;
+&lt;p&gt;V letu 2008 je pogodba z Aragonom tekla h koncu. Pristopniki MOSS so se na seji odločili, da se pripravi razpis oziroma povpra&amp;scaron;evanje. Za izpeljavo projekta se nas je javilo nekaj oseb. Bili smo tudi potrjeni s strani Pristopnikov, sam pa sem bil izglasovan za predsednika te komisije. Glavna zahteva Pristopnikov je bila &#34;kontinuirano merjenje&#34;. Seveda pa niso želeli plačevati dosti več kot so plačevali do takrat.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Na razpis se je javilo kar nekaj ponudnikov. Večinoma jih je bila tujih v sodelovanju s slovenskimi partnerji. Imel sem to čast, če lahko temu tako rečemo, da sem lahko prebral razlago vsakega posameznega sistema merjenja dosega spletnih mest. Za geeka, ki je nekoč programiral &#34;spletno lestvico&#34; in iz radovednosti iskal re&amp;scaron;itve za izračun &#34;dosega&#34;, je to bila to huda zabava, priznam.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Izbrana je bila re&amp;scaron;itev &lt;strong&gt;Gemiusa&lt;/strong&gt; in &lt;strong&gt;Valicona&lt;/strong&gt;. Sistem je bil zaključen, preizku&amp;scaron;en (poglejte si, kaj vse meri &lt;/span&gt;&lt;a href=&#34;http://www.gemius.com/&#34;&gt;&lt;span&gt;Gemius&lt;/span&gt;&lt;/a&gt;&lt;span&gt;) in bil celo najbolj poceni. Slovenija je majhna, želeli smo kakovosten sistem, ki si ga lahko privo&amp;scaron;či čimvečje &amp;scaron;tevilo založnikov spletnih mest, tudi tistih majhnih. Menim, da nam je v tem smislu uspelo.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Žal večina tistih, ki niso naročniki projekta, &amp;scaron;e danes ne ve, da je od začetka 2009 MOSS čisto drugi sistem, dosti bolj napreden od MOSS-a v1, ki je bil itak že hudo bolj napreden od MOSS v0, ko so govorice tudi nastale. Žal opažam, da je med nevedneži tudi mnogo zaposlenih pri naročnikih/Pristopnikih MOSS-a.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://moss-soz.si/si/o_raziskavi/metodologija/&#34;&gt;&lt;span&gt;Razlaga iz predstavitve MOSS je nekoliko skopa&lt;/span&gt;&lt;/a&gt;&lt;span&gt;, zato je prav, da jo razložim ...&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;MOSS v2 teče neprekinjeno, tako kot Google Analytics. Za razliko od slednjega se podatki zajemajo na manj&amp;scaron;i fizični oddaljenosti od uporabnika spletnega mesta (podatke zajema slovenski strežnik). Ti se kasneje prenesejo v analizo na sedež podjetja Gemius. Lokacija strežnika igra vlogo pri upočasnjevanju spletnega mesta in pri količini zajetih podatkov. Odstopanja so sicer minimalna, ampak &amp;scaron;e vedno so. Lokalni strežnik zajame nekaj več podatkov. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Gemius ima čas do 15. v mesecu, da analizira izmerjene podatke in jih po&amp;scaron;lje v pregled Strokovni komisiji. &amp;Scaron;e pred tem vsi sodelujoči dobijo opozorilo, da naj preverijo svoje podatke v sistemu tehničnega merjenja (ki je podoben Google Analytics) in podajo svoje opombe. Občasno se zgodi, da kak&amp;scaron;en založnik spremeni kaj na spletnem mestu in s tem zbri&amp;scaron;e ali &#34;pokvari&#34; kodo za merjenje od MOSS v2. Zato je modro založnike redno opozarjati, da preverjajo svoje podatke že v tehničnem sistemu.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;MOSS v2 namreč sestavljajo tehnična meritev, telefonska anketa in spletna anketa. Tehnična meritev je podobna vsem ostalim na trži&amp;scaron;ču. Razlika v tehnični meritvi med MOSS-om v1 in MOSS-om v2 je v tem, da zadnji ignorira naprave, ki ne sprejemajo &lt;/span&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Web_cookie&#34;&gt;&lt;span&gt;pi&amp;scaron;kotkov.&lt;/span&gt;&lt;/a&gt;&lt;span&gt; Teh je sicer dandanes zelo malo (&lt;/span&gt;&lt;a href=&#34;http://www.ranking.si/en/rankings/cookies-acceptance-rate.html&#34;&gt;&lt;span&gt;okoli 3 odstotke&lt;/span&gt;&lt;/a&gt;&lt;span&gt;). Dostop do tehnične meritve v realnem času imajo vsi naročniki (tako mali kot Pristopniki - tisti z več kot 8 % slovenskega dosega).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Telefonska anketa se izvaja &amp;scaron;estkrat letno. Z njo ugotavljajo predvsem &amp;scaron;tevilo uporabnikov slovenskega spleta. Telefonska anketa ne služi kot merilni element, ampak kot zunanja spremenljivka, s katero se utežuje merjene podatke.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Spletna anketa se izvaja neprekinjeno, pojavi se kot pop-up okno naključnim uporabnikom (pogoj je, da je ta uporabnik reden obiskovalec tistega spletnega mesta in da ankete že najmanj 3 mesece ni videl). Ta je zelo kratka, mislim, da vsebuje le pet sklopov, med njimi sta kraj bivanja in spol, občasno &amp;scaron;e kak&amp;scaron;no drugo ciljano vpra&amp;scaron;anje. S temi anketami se ugotavlja struktura obiska spletnih mest. Ankete seveda niso vezane na spletno mesto, kjer je bila re&amp;scaron;ena, ampak se rezultati uporabijo v sklopu celotnega MOSS-a. Recimo, če uporabnik re&amp;scaron;i anketo na Playboy.si in je reden obiskovalec spletnega Dela, bo dodan v &#34;ko&amp;scaron;aro&#34; uporabnikov tudi tistega spleti&amp;scaron;ča. Seveda so vsi ti uporabniki &amp;scaron;e vedno anonimni, nikoli se jih ne povezuje oziroma analizira kot osebe, temveč vedno kot skupine v odstotkih. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Predstavniki Gemiusa so na več predstavitvah &lt;/span&gt;&lt;a href=&#34;http://www.fdim.dk/downloads/method_of_calculating_real_users.pdf&#34;&gt;&lt;span&gt;razložili, kako izmerijo točno &amp;scaron;tevilo različnih naprav v določenem obdobju&lt;/span&gt;&lt;/a&gt;&lt;span&gt;, zato se v to ne bom poglabljal (na njihovem spletnem mestu je kar nekaj dokumentacije). V grobem: pre&amp;scaron;tejejo največje &amp;scaron;tevilo aktivnih pi&amp;scaron;kotkov v določenem času na določenem spletnem mestu. Zatem pre&amp;scaron;tejejo največje &amp;scaron;tevilo aktivnih pi&amp;scaron;kotkov za celotno merjeno omrežje (recimo temu &#34;svet&#34;). S pomočjo telefonske ankete dobijo s statističnimi metodami podatek o &amp;scaron;tevilu spletnih uporabnikov v Sloveniji. Največje &amp;scaron;tevilo pi&amp;scaron;kotkov v &#34;svetu&#34; preslikajo na &amp;scaron;tevilo ljudi proporcionalno na posamezno spletno mesto. Na koncu se dobi dokaj dober približek realnosti. Seveda gre za statistični podatek, kot je &amp;scaron;lo tudi pri MOSS-u v1, ampak je v primeru MOSS v2 bolj točen.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Obrnimo razlago, da bo &amp;scaron;e ostalim razumljiva. Če je bilo v Sloveniji v novembru en milijon spletnih uporabnikov in v istem obdobju je bilo aktivnih 3 milijone pi&amp;scaron;kotkov, neko spletno mesto pa je obiskalo 1 milijon pi&amp;scaron;kotkov iz iste &#34;ko&amp;scaron;are&#34;, je to spletno mesto potemtakem imelo 1/3 obiskovalcev slovenskega spleta. To pomeni, da je v novembru to spletno mesto obiskalo 333.333 slovenskih uporabnikov. Seveda hudo poenostavljam zaradi razumljivosti. Sistem je nekoliko bolj kompleksen in vsebuje dodatne statistične parametre, ki so skupni za vsa merjena mesta.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Pomembna pri vsem tem je primerljivost dosega vseh spletnih mest, ki sodelujejo v raziskavi. Tudi, če predpostavimo, da je &amp;scaron;tevilo slovenskih spletnih uporabnikov popolnoma zgre&amp;scaron;eno, se pozicije na lestvici dosega ne spremenijo, enako velja tudi za razmerje v razlikah dosegov posameznih spletnih mest.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;MOSS v2 omogoča Pristopnikom in tistim, ki kupijo podatke analizo prekrivanj, časovnice in &amp;scaron;e en kup &#34;čarovnij&#34; s podatki. Ogla&amp;scaron;evalec lahko s temi orodji zelo precizno določi budget, ki ga potrebuje za pokrivanje svoje ciljne publike, kje mora ogla&amp;scaron;evati, kdaj, in podobno. Res fascinantna zadeva.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Mimogrede, kot del javnih objav pri MOSS-u v2 ni samo &lt;/span&gt;&lt;a href=&#34;http://moss-soz.si/&#34;&gt;&lt;span&gt;http://moss-soz.si&lt;/span&gt;&lt;/a&gt;&lt;span&gt;, ampak tudi precej uporabno spletno mesto &lt;/span&gt;&lt;a href=&#34;http://www.ranking.si/&#34;&gt;&lt;span&gt;http://www.ranking.si/&lt;/span&gt;&lt;/a&gt;&lt;span&gt;, kjer lahko ugotovite za večino slovenskih spletnih obiskovalcev, katere brskalnike uporabljajo, katere mobilne telefone, tablice, ... Zanimivo, da teh podatkov ponavadi noben ne citira, ampak raje prevaja ameri&amp;scaron;ke članke, kjer pi&amp;scaron;e, da je Chrome prehitel Firefox in podobne zadeve... &lt;/span&gt;&lt;a href=&#34;http://www.ranking.si/en/rankings/web-browsers-groups.html&#34;&gt;&lt;span&gt;V Sloveniji to vsekakor ne velja.&lt;/span&gt;&lt;/a&gt;&lt;br /&gt; &lt;a href=&#34;http://www.ranking.si/en/rankings/web-browsers-groups.html&#34;&gt;&lt;/a&gt;&lt;br /&gt; &lt;a href=&#34;http://www.ranking.si/en/rankings/web-browsers-groups.html&#34;&gt;&lt;/a&gt;&lt;br /&gt; &lt;a href=&#34;http://www.ranking.si/en/rankings/web-browsers-groups.html&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Zakaj je MOSS bolj&amp;scaron;i od Google Analytics?&lt;/h2&gt;
+&lt;p&gt;Tukaj dejansko primerjamo hru&amp;scaron;ke in &lt;strong&gt;jabolčno pito&lt;/strong&gt;. Prvi so sadeži, drugo vsebuje sadje, čisto eno drugo sadje, ki pa raste tako kot prvo na drevesu ... ampak, dajmo vseeno.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;Google Analytics&lt;/strong&gt; (GA) ne meri dosega ljudi, ampak dosega naprav (pi&amp;scaron;kotkov). Tehnična meritev MOSS (&lt;/span&gt;&lt;a href=&#34;http://www.gemius.com/pl/products_traffic_about&#34;&gt;&lt;span&gt;Gemius Traffic&lt;/span&gt;&lt;/a&gt;&lt;span&gt;) meri obisk naprav (pi&amp;scaron;kotkov), ampak tehnična meritev je le del projekta MOSS in ni njegov poglavitni del. Je le eno od orodij, zelo pomembno, ampak le eno od njih. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;MOSS in GA zajemata podake tudi na nekoliko drugačne načine. Prvi meri vse naprave v določenem &#34;svetu&#34; (torej Sloveniji), drugi pa vse naprave na nekem spletnem mestu. Tudi zaradi tega pride do manj&amp;scaron;ih odstopanj že pri surovih tehničnih meritvah.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;MOSS ne meri obiskovalcev, ki niso v Sloveniji (tehnična meritev vsebuje ta podatek, doseg pa ne). Spletno mesto, ki ima vsebino, ki privlači uporabnike ne glede na jezik (video, fotografije) ima lahko po MOSS meritvi hudo manj&amp;scaron;o &amp;scaron;tevilko dosega, kot je ta prikazana v GA. V tem primeru se se&amp;scaron;teje manko neslovenskih uporabnikov in manko preslikave iz naprav v osebe.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Končni podatki pri GA so tehnične narave (namenjeni spletnim razvojnikom in urednikom pri ugotavljanju, kaj počnejo dobro in česa ne), medtem ko so končni podatki projekta MOSS namenjeni marketing oddelkom podjetij.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Moram pa tukaj poudariti, da je GA v zadnji verziji (tisti, ki jo morate zavestno aktivirati) bolj napredna aplikacija od &lt;strong&gt;Gemius Traffic&lt;/strong&gt; in določeni parametri meritve so nad trenutnimi sposobnostmi sistema, ki ga koristi MOSS.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Zanimiva posledica MOSS-a je tudi &#34;&lt;strong&gt;postavitev na zemljevid&lt;/strong&gt;&#34;. Tisti javni spisek je kot nek meni spletnih mest, ki so na razpolago za ogla&amp;scaron;evanje. Seveda tukaj igra veliko vlogo doseg, ki pa je manj&amp;scaron;a &amp;scaron;tevilka od dosega naprav, ki ga kaže GA. Pogosto pri ljudeh, ki pravijo, da je podatek od GA bolj&amp;scaron;i, gre le za psiholo&amp;scaron;ki občutek, da je večja &amp;scaron;tevilka vedno bolj&amp;scaron;a, ne glede na njen pomen. Temu se ne moremo upreti. Če gledamo na neko cifro, ki jo pokažemo ali povemo nekomu, je GA zmagovalec, ampak ... &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;GA ne ponuja &lt;strong&gt;strukturiranja populacije&lt;/strong&gt;, razen tehnično merljivih podatkov, pa &amp;scaron;e teh ne zna primerjati in/ali prekrivati med različnimi spletnimi mesti. Ogla&amp;scaron;evalca ne zanima, koliko Firefox uporabnikov je na va&amp;scaron;em spletnem mestu, bolj jih zanima, koliko žensk med 20 in 40 let lahko zacilja s svojim oglasom pri vas. V tem primeru pride MOSS do izraza.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;MOSS je &lt;strong&gt;odlično orodje za ogla&amp;scaron;evalce&lt;/strong&gt; in agencije, če seveda i&amp;scaron;čejo najbolj&amp;scaron;e lokacije za plasiranje čimvečjega &amp;scaron;tevila efektivnih oglasov po čim nižji ceni. To je seveda v teoriji. :)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;Je MOSS vreden svojega denarja?&lt;/strong&gt; Dokler lahko stro&amp;scaron;ek upravičite s prodajo oglasnega prostora, vsekakor. Prodaja pa ni odvisna samo od va&amp;scaron;ega dosega, ampak tudi od sposobnosti va&amp;scaron;ih tržnikov in stanja na trgu. Trenutno stanje ni med najbolj veselimi, večino pa pobere par velikih igralcev, ki predvsem izkori&amp;scaron;čajo doseg iz drugih področij &amp;hellip; ampak to je debata za kdaj drugič.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;Je MOSS najbolj&amp;scaron;e, kar obstaja na trži&amp;scaron;ču?&lt;/strong&gt; Ne. V času &#34;družabnih omrežij&#34; je za svetom. Dalo bi se &amp;scaron;e marsikaj nadgraditi, ampak ko ima&amp;scaron; projekt, ki deluje kot mala državica, kjer mora vsak predlog skozi demokratični proces, kjer mora &#34;parlament&#34; (glasovanje Pristopnikov) najprej ugotoviti vse, kar si želi v tem predlogu, sestaviti komisijo, komisija mora pripravi razpis, izbrati najbolj&amp;scaron;o ponudbo, ta mora v potrditev nazaj v &#34;parlament&#34;, in če je potrjeno, se komisija spet pogaja oz. skrbi za izvedbo projekta &amp;hellip; ali pa ima to čez spet druga komisija... skratka, zadeve lahko trajajo. :)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Je pa MOSS trenutno najbolj&amp;scaron;e, kar se da dobiti za analizo obiskovalcev v slovenskem delu svetovnega spleta.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;Disclaimer&lt;/h2&gt;
+&lt;p&gt;Zgornje pisanje je skupek mojega znanja, ki izhaja iz izku&amp;scaron;enj in javne dokumentacije. Pod nobenim pogojem ne trdim, da je zgoraj napisano objektivno. Kot nekdo, ki je več let aktivno sodeloval v projektu, sem pristranski. To je moj pogled na zadevo in moja razlaga, ki se sku&amp;scaron;a izogibati objavi poslovnih skrivnosti. Objavil sem le tisto, kar je splo&amp;scaron;no znano in kar je bilo tudi sicer objavljeno, ampak zelo slabo razloženo.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Izogibal sem se tudi izpostavljanju lestvične vizije MOSS-a, ki mojem mnenju ni ravno najbolj&amp;scaron;a, ampak ker trenutno ni bolj&amp;scaron;e re&amp;scaron;itve, se mi zdi brezveze zgubljati besede okoli tega. Nekaj ni napačno, dokler ne obstaja bolj&amp;scaron;e re&amp;scaron;itve, pa četudi ti obstoječa ni v&amp;scaron;eč ... Ampak upam, da bom nekoč lahko (vsaj) pisal o bolj&amp;scaron;i re&amp;scaron;itvi od lestvičenja spletnega dosega.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;V MOSS sem bil nekje od začetka prave merive, torej MOSS v1 (žal se leta ne spomnim), do februarja 2011, ko sem odstopil zaradi menjave delovnega mesta (nova firma ni bila Pristopnik in po pravilih nisem mogel obdržati svoje vloge v projektu). Če se je v projektu vmes kaj izbolj&amp;scaron;alo, kar sam nisem opazil, se opravičujem. Cilj sestavka je bil razložiti magijo za projektom MOSS in z znanjem zanikati, da gre za kakr&amp;scaron;no koli ... magijo. :)&lt;/span&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sortiraj Facebook po lastni želji!</title>
+      <link>https://blog.mclion.eu/2011/11/15/sortiraj-facebook-po-lastni-zelji/</link>
+      <pubDate>Tue, 15 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mclion.eu/2011/11/15/sortiraj-facebook-po-lastni-zelji/</guid>
+      <description>&lt;p&gt;
+{% img /images/posterous/2011/11/34349863-sprememba%20izpisa.png %}
+&lt;/p&gt;
+&lt;p&gt;Facebook je pred približno enim mesecem uvedel spremembe v načinu izpisa zgodb na zidovih uporabnikov. Kot vsaka sprememba, je tudi ta mnoge razjezila ...&amp;nbsp;&lt;/p&gt;
+&lt;p /&gt;
+&lt;div&gt;Razvijalci na Facebooku so se odločili, da je bolj pomembno prikazovati zgodbe (objave prijateljev in drugih strani) urejene po pomembnosti in ne po času. &amp;Scaron;e najhuje je, da pomembnost določajo po nedokumentiranih parametrih, ki jih spreminjajo iz tedna v teden.&amp;nbsp;
+&lt;p /&gt;
+&lt;div&gt;Z eksperimentiranjem so nekateri blogerji ugotovili, da je en od parametrov tudi vir iz kjer je bil vpis objavljen. Prednost ima seveda &lt;a href=&#34;http://facebook.com&#34; target=&#34;_blank&#34;&gt;facebook.com&lt;/a&gt;.&amp;nbsp;&lt;/div&gt;
+&lt;p /&gt;
+&lt;div&gt;Osebno si želim na svojem zidu tako &#34;notranje&#34; kot &#34;zunanje&#34; zgodbe in rad bi videl tudi tiste, ki ne dobijo nobenega &#34;v&amp;scaron;ečka&#34; ali komentarja. Ne zaupam najbolj programju na Facebooku, ko določa&amp;nbsp;kaj je meni bolj pomembno in kaj ni, &lt;a href=&#34;http://edgerank.net/&#34; target=&#34;_blank&#34;&gt;čeprav gre v ozadju le za enačbe&lt;/a&gt;. Mnogi so podobnega mnenja kot jaz in očitno dovolj glasni, da je Facebook dodal možnost nastavitve sortiranja objav na va&amp;scaron;em zidu. To je prvič, da so pri Facebooku stopili korak nazaj in omogočili spet nekaj kar so povozili z zadnjo &#34;nadgradnjo&#34;.&lt;/div&gt;
+&lt;p /&gt;
+&lt;div&gt;Tisti, ki uporabljate Facebook v angle&amp;scaron;čini ste te dni&amp;nbsp;dobili eno &lt;strong&gt;novo opcijo&lt;/strong&gt;.&lt;strong&gt; &lt;a href=&#34;http://www.facebook.com/help?faq=225283394204551&#34; target=&#34;_blank&#34;&gt;Na vrhu izpisa zgodb se je pojavila na desni strani opcija SORT&lt;/a&gt;&lt;/strong&gt; (poglej priloženo sliko). Če kliknete nanjo, se vam bo odprl meni, kjer lahko izberete novo sortiranje, kjer usodo prepu&amp;scaron;čate Facebooku, ali pa časovno sortiranje, kjer vidite pač najnovej&amp;scaron;e vpise. Osebno imam raje to opcijo in upam, da kdaj postane privzeta, saj se nemalokdaj dogaja, da se moje objave pojavijo na zidovih nekaterih &lt;a href=&#34;http://mclion.posterous.com/imas-0-prijateljev&#34;&gt;Facebook frendov&lt;/a&gt; tudi &amp;scaron;ele 6 dni po tem, ko sem jih objavil ...&lt;/div&gt;
+&lt;p /&gt;
+&lt;div&gt;Če imate Facebook v angle&amp;scaron;čini in opcije &amp;scaron;e ni, potrpite &amp;scaron;e kak&amp;scaron;en dan in se bo pojavila. S sloven&amp;scaron;čini pa bo verjetno vidna kak&amp;scaron;en teden za tem, ko bo aktivirana za vse Facebook uporabnike in jo bodo prostovoljci prevedli, glasovali o prevodu in najbolj&amp;scaron;ega potrdili za uporabo ...&lt;/div&gt;
+&lt;p /&gt;
+&lt;div&gt;Če se vam mudi, lahko začasno &lt;a href=&#34;https://www.facebook.com/settings?tab=account&amp;amp;section=language&amp;amp;t&#34; target=&#34;_blank&#34;&gt;preklopite jezik vmesnika v &#34;English (US)&#34;&lt;/a&gt;, vklopite drugačno sortiranje objav in nazaj nastavite jezik na sloven&amp;scaron;čino ...&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Koliko te lahko stane napačnen status ali tvit?</title>
+      <link>https://blog.mclion.eu/2010/11/29/koliko-te-lahko-stane-napacnen-status-ali-tvi/</link>
+      <pubDate>Mon, 29 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mclion.eu/2010/11/29/koliko-te-lahko-stane-napacnen-status-ali-tvi/</guid>
+      <description>{% img /images/posterous/2010/11/18088782-ukradeno.png %}
+&lt;p&gt;Na spletu pogosto beremo kaj vse ne smemo objavljati...na spletu. Ponavadi si rečemo &amp;quot;res je&amp;quot; in mirno pozabimo, že naslednji dan pa nadaljujemo s svojim najljubšim športom, ki se v angleščini  imenuje &amp;quot;&lt;b&gt;oversharing&lt;/b&gt;&amp;quot;, v slovenščino pa bi ga lahko prevedli približno v &amp;quot;&lt;b&gt;takoj sedaj moram vsem povedat kar se mi je ravnokar zgodilo in nikogar ne zanima&lt;/b&gt;&amp;quot;. &lt;/p&gt;&lt;p /&gt;&lt;div&gt;Informacije o tem kako smo se spekli na štedilniku, kaj bomo ravnokar spravili skozi prebavni trakt in kmalu zatem opisovanje trebušnih krčev, ker smo se prenajedli in to sredi noči...so popolnoma nedolžne in razen grdih pogledov s strani vegancev ali sovražnikov ognja ponavadi ne povzročijo. Problem nastane, ko smo toliko navajeni pisati vsako intimno ali manj intimno neumnost o sebi, da ne ločimo več kaj intima pravzaprav je. Danes sem recimo na twitterju zasledil človeka, ki je &lt;b&gt;opisoval, da bo ravnokar seksal s punco&lt;/b&gt;...in čez par minut sporočil kako cool je bilo...zašel sem, to je druga zgodba.&lt;/div&gt; &lt;p /&gt;&lt;div&gt;Kje se konča naša &lt;b&gt;potreba po pozornost&lt;/b&gt;i in prične &lt;b&gt;intimno življenje&lt;/b&gt;, ki ga lahko delimo samo z najbližjimi; s tistimi, ki jim lahko res zaupamo? Nekoč si povedal le najboljšim sosedom, da greš na dopust za 14 dni, jim dal ključe stanovanja in poprosil, če zalijejo rože, spraznijo hladilnik in seksajo izključno in samo na kavču... Če nisi imel dobrih sosedov, si dal družinskemu članu ali prijatelju, ki mu zaupaš. Informacija o dopustu je bila zelo pomembna skrivnost za katero ni smelo vedeti preveč ljudi, vsekakor pa ne celotna soseska.&lt;/div&gt; &lt;p /&gt;&lt;div&gt;Danes ni več tako. Ljudje pridno odhajajo na dopust, zapišejo na Facebooku in/ali Twitterju kam gredo, koliko časa bodo tam...še na dopustu sporočajo množici neznancev kaj luštnega počnejo in kako cool se imajo. Razumem &lt;b&gt;potrebo&lt;/b&gt; po povzročanju skominov (&lt;b&gt;bolje se počutimo, ko ugotovimo, da se bolje počutimo od drugih&lt;/b&gt;, to je čisto človeška lastnost), ampak potrebo po neumnosti pa ne. Zakaj bi širšemu svetu povedal, da me ne bo doma 14 dni in da bo moje stanovanje ta čas nezavarovano? &lt;/div&gt; &lt;p /&gt;&lt;div&gt;No, če se dam v kožo povprečnega spletnega uporabnika: &amp;quot;Sej me nihče res ne pozna, ne ve kje živim..to, da sem objavil pred letom dni slike mojega novega stanovanja in zapisal ulico ne bo nikomur v pomoč... da so moji tviti označeni z lokacijo niti... ne?&amp;quot; Eh..&lt;/div&gt; &lt;p /&gt;&lt;div&gt;Ta blog pišem bolj kot &lt;b&gt;opozorilo&lt;/b&gt;, tudi samemu sebi. Poleti se še spomnimo, da z okolico neznancev ni pametno šerati svojih dopustniških planov, &lt;b&gt;pozimi&lt;/b&gt;, ko gremo &lt;b&gt;smučat&lt;/b&gt; ali kaj podobnega, pa to čisto pozabimo in prav veselo čivknemo &amp;quot;jaz pa grem za 14 dni v Civetto, lepo se mejte luzerji, ki ostajate doma&amp;quot;. No, en od teh &amp;quot;luzerjev&amp;quot; se vedno najde z željo, da bi si lahko za daljši čas kaj sposodil od tega hudega zmagovalca, ki se bo 14 dni bahal kako smuča. :)&lt;/div&gt; &lt;p /&gt;&lt;div&gt;Opomnik. &lt;i&gt;Kot dokaz, da se to dogaja pa priložena slika z objavami neke uporabnice na Twitterju. Ne bom izdal kdo je, pobrisal sem vse podatke po katerih jo je možno spoznati. Se ji pa vnaprej opravičujem za zlorabo njenih tvitov in nesreče... Tvite berite iz spodaj navzgor (kot poteka twitter, najnovejše objave so na vrhu). &lt;/i&gt;&lt;/div&gt; &lt;p /&gt;&lt;div&gt;Uporabnica je najprej nekaj dni napovedovala, da odhaja nekam (zbrisal sem kam), zatem je sporočila, da je nekaj tednov ne bo...po tvitih se da ugotoviti tudi približno kdaj odhaja oz. točno kdaj več ni doma. Zadnji tvit, ki sem ga skopiral vsebuje &lt;b&gt;ugotovitev, da so ji vdrli v stanovanje&lt;/b&gt;. &lt;/div&gt; &lt;p /&gt;&lt;div&gt;Kako je tat prišel do podatkov pustimo &amp;quot;forenzikom&amp;quot;, vi pa se lahko malo &lt;b&gt;poigrate&lt;/b&gt; in po &lt;b&gt;svojih&lt;/b&gt; objavljenih podatkih, statusih in tvitih poskusite ugotoviti kje živite in &lt;b&gt;kdaj daljše obdobje niste bili doma&lt;/b&gt;. Prav zabavno je (če vam niso takrat ničesar ukradli)... :)&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slovenci smo obsedeni z nosečnostjo, postavo in denarjem</title>
+      <link>https://blog.mclion.eu/2010/09/08/slovenci-smo-obsedeni-z-nosecnostjo-postavo-i/</link>
+      <pubDate>Wed, 08 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mclion.eu/2010/09/08/slovenci-smo-obsedeni-z-nosecnostjo-postavo-i/</guid>
+      <description>&lt;p&gt;Danes je Google predstavil novost, ki jo je poimenoval &#34;Instant search&#34;. Po njihovih podatkih naj bi tako uporabniki pri&amp;scaron;parali nekaj sekund pri iskanju s tem, da Google predvidi (poskusi uganiti) kaj si želite iskati in vam poleg besed, ki ste jih morda želeli vpisati, ponudi tudi že rezultate nanje. Baje večina Američanov i&amp;scaron;če za vreme (weather), zato se ob vpisu W pojavi takoj rezultat za vreme. Uporabno zanje, za nas pa bomo videli, ko to vklopijo.&lt;/p&gt;
+&lt;p&gt;&#34;Nova fora&#34; deluje trenutno samo na &lt;a href=&#34;http://google.com&#34;&gt;google.com&lt;/a&gt; (če ga imate v angle&amp;scaron;čini). Jasno sem moral takoj preskusiti. Ne vem pa zakaj mi je najprej pri&amp;scaron;lo na pamet &#34;&lt;strong&gt;kdaj&lt;/strong&gt;&#34;. Iskreno nimam pojma kaj sem hotel napisati za tem...Google me je namreč &amp;scaron;okiral s predlogom kaj verjetno jaz hočem sedaj najti in tudi z rezultati zanj. In kaj naj bi bilo logično, če nekdo v Sloveniji napi&amp;scaron;e &#34;kdaj&#34;? Jasno.. KDAJ NAREDITI TEST NOSEČNOSTI, kaj pa drugega?!&lt;/p&gt;
+&lt;p&gt;Ok, si reče človek. Če pravi Google, me to vsekakor mora zanimati. Google že ve... Tudi rezultatov je dovolj, kar 199.000. Mnogi na slovenskem spletu očitno pi&amp;scaron;ejo in i&amp;scaron;čejo o tem kdaj narediti test nosečnosti. Ne vem pa če je to dober znak za Slovenijo ali ne. &lt;strong&gt;Je toliko žensk, ki posku&amp;scaron;a zanositi ali je toliko, ki jih skrbi, da so noseče?&lt;/strong&gt; To verjetno zvemo ob naslednji nadgradnji. Ponavadi pa tak&amp;scaron;ne zadeve kot posledico prinesejo večjo rodnost. :)&lt;/p&gt;
+&lt;p&gt;Čeprav pri nas &amp;scaron;e ni &#34;instant searcha&#34;, pa imamo t.i. &#34;suggest&#34; (predlagaj) funkcijo, ki deluje tudi na &lt;a href=&#34;http://google.si&#34;&gt;google.si&lt;/a&gt;. Pa sem se malo poigral... Kaj se zgodi, če vpi&amp;scaron;em najbolj pogoste začetke vpra&amp;scaron;anj? Kaj Google meni, da si v Sloveniji želimo iskati v tem primeru? Oziroma kaj Slovenci najbolj pogosto i&amp;scaron;čemo, da se začne s temi besedami? Rezultati so me presenetili...skoraj. :)&lt;/p&gt;
+&lt;p&gt;Itak, da sem to moral storiti, da kontriram &lt;a href=&#34;http://24ur.com&#34;&gt;24ur&lt;/a&gt;, &lt;a href=&#34;http://zurnal24.si&#34;&gt;žurnalu&lt;/a&gt; in podobnim, ki vsake 3 mesece reciklirajo &#34;zgodbo&#34; o tem kaj Google predlaga za določene ameri&amp;scaron;ke fraze in noben si ne vzame 5 minut, da bi preveril slovenske...&lt;/p&gt;
+&lt;p&gt;Pa poglejmo...&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;Kje &amp;hellip;&lt;/h2&gt;
+&lt;p&gt;Vuvuzele so uničile svet. &amp;Scaron;e danes, ko vpra&amp;scaron;a&amp;scaron; Google KJE, ti kot prvo ponudi &#34;&lt;strong&gt;Kje kupiti vuvuzelo&lt;/strong&gt;&#34;, &amp;scaron;ele za tem nas zanima &#34;&lt;strong&gt;Kje kupiti herbalife&lt;/strong&gt;&#34;. Herbalife je itak hit odkar se spomnem, da obstaja TV in jasno je, da človek mora bit &amp;scaron;lank, da lahko se začne ukvarjati z najbolj pomembnim vpra&amp;scaron;anjem v Sloveniji (beri zgoraj). :) Vseeno pa me mede, da se Slovenec vpra&amp;scaron;a &#34;&lt;strong&gt;Kje je Slovenija?&lt;/strong&gt;&#34;..Fantina, čas je, da ponovi&amp;scaron; tisti razred osnovne &amp;scaron;ole, ki si ga pre&amp;scaron;prical...&lt;/p&gt;
+&lt;h2&gt;Kdo &amp;hellip;&lt;/h2&gt;
+&lt;p&gt;To vpra&amp;scaron;anje sploh ni zanimivo. &lt;strong&gt;Kdo je kuhar? Kdo gre v Afriko?&lt;/strong&gt; Sami reality &amp;scaron;ovi oziroma nekaj podobnega verjetno. V&amp;scaron;eč mi je eksistencialni &#34;&lt;strong&gt;Kdo smo?&lt;/strong&gt;&#34; Žal tukaj Google ne ponuja kak&amp;scaron;ne posebne pomoči, vsaj v obliki enostavne povezave ne.&lt;/p&gt;
+&lt;h2&gt;Zakaj &amp;hellip;&lt;/h2&gt;
+&lt;p&gt;Zakaj? Zakaj zakaj zakaj? Sej ve&amp;scaron;... tisto tečno vpra&amp;scaron;anje, ki ti ga &amp;scaron;tiriletnik ponovi med vsakim drugim vdihom. Brez tega vpra&amp;scaron;anja ne bi daleč pri&amp;scaron;li...ampak &lt;strong&gt;Zakaj mo&amp;scaron;ki ljubijo mrhe?!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Zakaj si me pustila? &lt;/strong&gt;Jah, ker si mrha verjetno...in si se spra&amp;scaron;evala&lt;strong&gt; Zakaj je morje slano? &lt;/strong&gt;pa&lt;strong&gt; Zakaj je nebo modro?,&lt;/strong&gt; verjeto po tem ko si se spra&amp;scaron;evala&lt;strong&gt; Zakaj sanjamo?&lt;/strong&gt;...upam vsaj, da ni bilo povezano z &lt;strong&gt;Zakaj ne zanosim?&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Zakaj ne &amp;hellip;&lt;/h2&gt;
+&lt;p&gt;Nisem si mogel kaj, da ne bi nadaljeval z Zakaj ne... In dobil največja slovenska eksistencialna vpra&amp;scaron;anja... &lt;strong&gt;Zakaj ne zanosim?&lt;/strong&gt;... &lt;strong&gt;Zakaj ne morem zanositi?&lt;/strong&gt;... &lt;strong&gt;Zakaj ne shuj&amp;scaron;am?&lt;/strong&gt; (mogoče si noseča?)...&lt;strong&gt;Zakaj ne dobim menstruacije?&lt;/strong&gt; (Hm, verjetno si res noseča)... Verjetno pa je zadnja opcija povezana s prvimi dvemi: &lt;strong&gt;Zakaj ne pride do izliva?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;No, vsaj lahko rečem, da očitno v Sloveniji aktivno delamo na potomcih...da jih dobimo ali da jih ne bi slučajno.&lt;/p&gt;
+&lt;h2&gt;Zakaj sem &amp;hellip;&lt;/h2&gt;
+&lt;p&gt;Moral sem preveriti &amp;scaron;e drugo plat medalje. Zakaj sem...? In ugotovimo, da se vsaj pri nas ne spra&amp;scaron;ujemo več &#34;Zakaj sem noseča,&#34; ampak je bolj pomembno vpra&amp;scaron;anje &#34;&lt;strong&gt;Zakaj sem brez denarja?&lt;/strong&gt;&#34; Resno? Google ti bo dal re&amp;scaron;itev za tvoje finančne probleme? Google ti bo povedal zakaj porabi&amp;scaron; vse kar dobi&amp;scaron; za prčkarije, ki jih ne potrebuje&amp;scaron;?&lt;/p&gt;
+&lt;p&gt;Podobno je &lt;strong&gt;Zakaj sem osamljen? &lt;/strong&gt;Odgovor je jasen... &lt;strong&gt;VISI&amp;Scaron; NA INTERNETU in spra&amp;scaron;uje&amp;scaron; Google zakaj?!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tudi dekletom, ki se spra&amp;scaron;ujejo zakaj so samske, lahko odgovorimo podobno...:)&lt;/p&gt;
+&lt;h2&gt;Kako &amp;hellip;&lt;/h2&gt;
+&lt;p&gt;No, po Zakaj sem brez denarja, se inteligentna spletno usmerjena oseba vpra&amp;scaron;a &lt;strong&gt;Kako do denarja?&lt;/strong&gt; :) Tisti, ki se spra&amp;scaron;ujejo o Zakaj ne shuj&amp;scaron;ajo, pa se začnejo spra&amp;scaron;evati&amp;nbsp;&lt;strong&gt;Kako naj shuj&amp;scaron;am?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tu imamo tudi tiste nesrečne, ki jim ne znese zanositi in spra&amp;scaron;ujejo Google za zdravstvena vpra&amp;scaron;anja, kar velja tudi za tiste, ki se spra&amp;scaron;ujejo o tem kako se zrediti...Vsaj &lt;a href=&#34;http://med.over.net&#34;&gt;med.over.net&lt;/a&gt; bi odprli, če se že doktorja bojite. Ampak vas razumem..v času, ko se doktorji kregajo zaradi nadur, ne bi rad ga dobil ravno ko je tečen...kar sploh ni težko.&lt;/p&gt;
+&lt;h2&gt;Kako se &amp;hellip;&lt;/h2&gt;
+&lt;p&gt;Podobno kot kako. Radi bi se zredili, radi bi zgubili trebuh (ej, po 30 bo dosti težje, začni že danes)... Po drugih rezultatih pa zgleda, da imamo v Sloveniji velike probleme z insekti. Tarejo nas muhe, bolhe, mravlje...in mozolji ter celulit.&lt;/p&gt;
+&lt;h2&gt;Kako naj &amp;hellip;&lt;/h2&gt;
+&lt;p&gt;Nadaljujmo s &#34;how to&#34; vpra&amp;scaron;anji. Mudi se nam shuj&amp;scaron;ati (&lt;strong&gt;Kako najhitreje shuj&amp;scaron;ati?&lt;/strong&gt;), mudi se nam do denarja (&lt;strong&gt;Kako najhitreje do denarja?&lt;/strong&gt;) in jasno, mudi se nam zanositi (&lt;strong&gt;Kako najhitreje zanositi?&lt;/strong&gt;). Pa mi sploh imamo dovolj vrtcev za ta baby boom, ki se pripravlja?! Sploh pa, ker očitno jih kar nekaj tudi i&amp;scaron;če partnerja (&lt;strong&gt;Kako najti partnerja?&lt;/strong&gt;), verjetno s ciljem ustvarjanja družine (zanositi)...&lt;/p&gt;
+&lt;h2&gt;Kdaj &amp;hellip;&lt;/h2&gt;
+&lt;p&gt;Zamenjajmo temo. Dovolj imam te wannabe nosečnice.&lt;strong&gt; Kdaj v porodni&amp;scaron;nico? &lt;/strong&gt;Ok, ok...&lt;strong&gt;Kdaj rastejo gobe &lt;/strong&gt;je bolj ...no, je vsaj v pravem cajtu... Sedaj rastejo gobe. Kaj spra&amp;scaron;uje&amp;scaron; internet, pojdi ven pogledat! :)&lt;/p&gt;
+&lt;h2&gt;Sem &amp;hellip;&lt;/h2&gt;
+&lt;p&gt;&amp;Scaron;e ena eksistencialna. Sem...noseča! :) Končno ena. Čestitke! Uspelo ti je..po toliko iskanjih &#34;&lt;strong&gt;zakaj ne zanosim&lt;/strong&gt;&#34; in &#34;&lt;strong&gt;kako zanositi&lt;/strong&gt;&#34; si končno ugotovila, da si noseča...ali se spra&amp;scaron;uje&amp;scaron; o tem... Si noseča? &lt;strong&gt;Sem noseča?&lt;/strong&gt; hm... &amp;scaron;e bo treba posku&amp;scaron;ati. Vsekakor ti odsvetujem druženje z osebami, ki i&amp;scaron;čejo za &#34;&lt;strong&gt;Sem marina?&lt;/strong&gt;&#34; ali &#34;&lt;strong&gt;Sem kavarna?&lt;/strong&gt;&#34;. Ti morajo imeti velike življenjske težave. Če bi bil marina ali kavarna, bi jasno to že vedel. Ima&amp;scaron; v sebi jahte z odurno lepimi ljudmi na njih? Ne? Torej nisi marina... Ima&amp;scaron; v sebi pijanca? Ja? Hm... Verjetno je ta tisti, ki &#34;Sem kar sem&#34; ali pa &#34;Sem v trendu&#34;...Upam samo, da to ni &#34;Sem kot berač pod njenim oknom&#34;..razen, če ima&amp;scaron; kak&amp;scaron;en feti&amp;scaron; za pijane klo&amp;scaron;arje. :)&lt;/p&gt;
+&lt;p&gt;Ne bi se rad ponavljal, ampak očitno je v Sloveniji nosečnost največja skrb, sledijo pa ji denar in postava. Deluje, kot da se vse vrti okoli seksa - od poti do njega, do poti po njemu... Kar me niti ne preseneča. :)&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+{% img /images/posterous/2010/09/14788335-sem.png %}
+{% img /images/posterous/2010/09/14788338-kdaj.png %}
+{% img /images/posterous/2010/09/14788341-zakaj%20ne.png %}
+{% img /images/posterous/2010/09/14788333-kdaj%20-%20instant%20search.png %}
+{% img /images/posterous/2010/09/14788336-zakaj%20sem.png %}
+{% img /images/posterous/2010/09/14788339-kdo.png %}
+{% img /images/posterous/2010/09/14788342-kako.png %}
+{% img /images/posterous/2010/09/14788334-zakaj.png %}
+{% img /images/posterous/2010/09/14788337-kako%20naj.png %}
+{% img /images/posterous/2010/09/14788340-kje.png %}
+{% img /images/posterous/2010/09/14788343-kako%20se.png %}
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>5 nastavitev zasebnosti na Facebooku, ki jih morate takoj preveriti</title>
+      <link>https://blog.mclion.eu/2010/03/31/5-nastavitev-zasebnosti-na-facebooku-ki-jih-morate-takoj-preveriti/</link>
+      <pubDate>Wed, 31 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mclion.eu/2010/03/31/5-nastavitev-zasebnosti-na-facebooku-ki-jih-morate-takoj-preveriti/</guid>
+      <description>&lt;div &gt;&lt;div class=&#34;abstract&#34; style=&#34;&#34;&gt; Facebook je pred kratkim &lt;a href=&#34;http://blog.facebook.com/blog.php?post=376904492130&#34; title=&#34;najavil spremembe&#34; style=&#34;color: rgb(76, 138, 37); text-decoration: underline;&#34;&gt;najavil spremembe&lt;/a&gt; svojih servisov, ki bodo omogočale še bolj razširjen vpogled v vaše osebne podatke s strani zunanjih ponudnikov. Menimo, da je zato čas, da si malo ogledate svoje nastavitve zasebnosti in tudi kaj spremenite...&lt;/div&gt; &lt;p &gt;&lt;/p&gt;&lt;div class=&#34;highslide-gallery&#34;&gt;&lt;a href=&#34;http://podpalmo.si/libs/phpthumb/phpThumb.php?src=/sites/podpalmo_si/silos/9208768c546b60c9e782823e9914e28f&amp;amp;f=jpg&amp;amp;far=1&amp;amp;w=600&amp;amp;down=9208768c546b60c9e782823e9914e28f&#34; class=&#34;highslide&#34; style=&#34;text-decoration: underline; color: rgb(76, 138, 37);&#34;&gt;&lt;img src=&#34;http://podpalmo.si/sites/podpalmo_si/../../libs/phpthumb/phpThumb.php?src=/sites/podpalmo_si/silos//9208768c546b60c9e782823e9914e28f&amp;amp;f=jpg&amp;amp;q=95&amp;amp;w=197&amp;amp;h=100&amp;amp;w=250&amp;amp;h=250&amp;amp;down=9208768c546b60c9e782823e9914e28f&#34; style=&#34;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: rgb(204, 204, 204); border-right-color: rgb(204, 204, 204); border-bottom-color: rgb(204, 204, 204); border-left-color: rgb(204, 204, 204); padding-top: 2px; padding-right: 2px; padding-bottom: 2px; padding-left: 2px; background-color: rgb(255, 255, 255); margin-right: 5px; cursor: pointer; float: left;&#34; /&gt;&lt;/a&gt;&lt;/div&gt; &lt;div&gt;&lt;p style=&#34;margin-top: 10px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px;&#34;&gt;V pravilih zasebnosti Facebook omogoča izmenjavo vaših osebnih podatkov in akcij (statusi, sklepanje prijateljstev, komentiranje) z &amp;quot;vnaprej potrjenimi zunanjimi spletnimi mesti in aplikacijami&amp;quot;. Morda je vam osebno to čisto sprejemljivo, ampak mnogi jemljejo Facebook kot domači vrt, ki je obkoljen z visokimi zidovi, tako da sosedi ne vidijo, kako sproščeno se obnašajo znotraj njega. To že nekaj mesecev (od zadnje spremembe pravil zasebnosti) ne velja več.&lt;/p&gt; Če to upoštevamo, je zelo modro vsaj preleteti svoje nastavitve zasebnosti na Facebooku. Teh nastavitev je malo morje, objavljamo pa jih nekaj, ki bi jih verjetno mimogrede spregledali in so zelo pomembne kar se tiče vaše zasebnosti... &lt;br /&gt; &lt;b&gt;&lt;br /&gt;Kako pridemo do nastavitev zasebnosti&lt;/b&gt;?&lt;p /&gt;V trenutni obliki Facebooka se nastavitve zasebnosti nahajajo zgoraj desno pod rubriko &amp;quot;Uporabniški račun&amp;quot;. Ob kliku se odpre padajoči meni v kateremu izberite opcijo &amp;quot;Nastavitve zasebnosti&amp;quot;. &lt;p /&gt; &lt;span class=&#34;Podnaslov&#34; style=&#34;&#34;&gt;1. Foto albumi &lt;/span&gt;&lt;/div&gt;&lt;p /&gt; Vsak od vaših foto albumov ima svoje nastavitve zasebnosti. Privzeto so vse fotografije dostopne vsem na spletu. Če si tega ne želite, je čas da pregledate in spremenite nastavitve fotografij. Nastavitve zasebnosti za fotoalbume dobite na &lt;a href=&#34;http://www.facebook.com/privacy/?view=photos&#34; title=&#34;tej povezavi&#34; style=&#34;color: rgb(76, 138, 37); text-decoration: underline;&#34;&gt;tej povezavi&lt;/a&gt; (&lt;a href=&#34;http://www.facebook.com/privacy/?view=photos&#34; style=&#34;color: rgb(76, 138, 37); text-decoration: underline;&#34;&gt;http://www.facebook.com/privacy/?view=photos&lt;/a&gt;).&lt;p /&gt; &lt;br /&gt;&lt;img src=&#34;http://podpalmo.si/libs/phpthumb/phpThumb.php?src=/sites/podpalmo_si/silos/7cfa7fccf609a195d94c00d5a6123247&amp;amp;w=271&amp;amp;h=&#34; height=&#34;152&#34; alt=&#34;Fotografije zasebnost&#34; width=&#34;271&#34; /&gt;&lt;br /&gt;&lt;span class=&#34;Podnaslov&#34; style=&#34;&#34;&gt;&lt;br /&gt; 2. Aplikacije&lt;/span&gt;&lt;br /&gt;&lt;p style=&#34;margin-top: 10px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px;&#34;&gt;Če uporabljate Facebook že več časa, obstaja možnost, da ste potrdili kar nekaj aplikacij oziroma jim omogočili dostop do vaših osebnih podatkov. &lt;a href=&#34;http://www.facebook.com/editapps.php?v=allowed&#34; title=&#34;Na tej povezavi&#34; style=&#34;color: rgb(76, 138, 37); text-decoration: underline;&#34;&gt;Na tej povezavi&lt;/a&gt; (&lt;a href=&#34;http://www.facebook.com/editapps.php?v=allowed&#34; style=&#34;color: rgb(76, 138, 37); text-decoration: underline;&#34;&gt;http://www.facebook.com/editapps.php?v=allowed&lt;/a&gt;) lahko pregledate vse potrjene aplikacije in spremenite dostop do njih. Dostopi so izpisani v različnih kategorijah dostopa (kaj lahko aplikacija počne oziroma do katerih podatkov lahko dostopa). Dostop onemogočite tako, da kliknete X v vrstici z imenom aplikacije. Gre za daljši proces, sploh če imate ogromno aplikacij, ampak se bo izplačalo...&lt;/p&gt; &lt;img src=&#34;http://podpalmo.si/libs/phpthumb/phpThumb.php?src=/sites/podpalmo_si/silos/a90560ce7e3dab16d06d6eb9b6223596&amp;amp;w=569&amp;amp;h=&#34; height=&#34;199&#34; alt=&#34;Aplikacije zasebnost&#34; width=&#34;569&#34; /&gt;&lt;br /&gt;&lt;span class=&#34;Podnaslov&#34; style=&#34;&#34;&gt;&lt;br /&gt; 3. Kdo vas lahko najde in kje? &lt;br /&gt;&lt;/span&gt;&lt;br /&gt;To so nastavitve, ki jih večina spregleda. Če ne želite, da vsi najdejo vaš profil s pomočjo Googla, potem morate izklopiti opcijo v &lt;a href=&#34;http://www.facebook.com/settings/?tab=privacy&amp;amp;section=search&#34; title=&#34;osebnem razdelku zasebnostnih nastavitev&#34; style=&#34;color: rgb(76, 138, 37); text-decoration: underline;&#34;&gt;posebnem razdelku zasebnostnih nastavitev&lt;/a&gt; (&lt;a href=&#34;http://www.facebook.com/settings/?tab=privacy&amp;amp;section=search&#34; style=&#34;color: rgb(76, 138, 37); text-decoration: underline;&#34;&gt;http://www.facebook.com/settings/?tab=privacy&amp;amp;section=search&lt;/a&gt;). Tam lahko spremenite kdo vas lahko najde znotraj Facebooka in če je vaš javni profil dostopen tudi iskalnikom (Google, Bing, Yahoo idr.)&lt;p /&gt; &lt;img src=&#34;http://podpalmo.si/libs/phpthumb/phpThumb.php?src=/sites/podpalmo_si/silos/d18f5be4fc8ad72062245378fa01896f&amp;amp;w=569&amp;amp;h=&#34; height=&#34;135&#34; alt=&#34;Iskalniki zasebnost&#34; width=&#34;569&#34; /&gt;&lt;br /&gt;&lt;span class=&#34;Podnaslov&#34; style=&#34;&#34;&gt;4. Naj vsi vidijo kdo so vaši prijatelji? &lt;/span&gt;&lt;p /&gt; Ta nastavitev se zaradi neznanega ne nahaja pod ostalimi opcijami v rubriki &amp;quot;Nastavitve zasebnosti&amp;quot;. Odprite lastni profil in najdite okvir s spiskom prijateljev. Tam kliknete na svinčnik in dobili boste nastavitev števila izpisanih naključnih prijateljev, možnost določanja imen oseb, ki se vedno izpišejo in opcijo, da ta okvir izklopite za vse obiskovalce vašega profila, ki pa niso vaši prijatelji.&lt;p /&gt; &lt;img src=&#34;http://podpalmo.si/libs/phpthumb/phpThumb.php?src=/sites/podpalmo_si/silos/ac4531ef4b3f17e0c26bdadbb5c7a9ec&amp;amp;w=392&amp;amp;h=&#34; height=&#34;216&#34; alt=&#34;BOX prijatelji&#34; width=&#34;392&#34; /&gt;&lt;br /&gt;&lt;span class=&#34;Podnaslov&#34; style=&#34;&#34;&gt;&lt;br /&gt; 5. Katere vaše podatke lahko vaši prijatelji posredujejo naprej?&lt;/span&gt;&lt;p /&gt;Ta nastavitev je zelo pomembna, saj so vaši podatki mnogokrat zlorabljeni s pomočjo vaših prijateljev, ki jih posredujejo naprej ne da bi se tega zavedali. &lt;p /&gt; Najbolj pogoste aplikacije, ki dostopajo do podatkov prijateljev, so recimo spletne razglednice, ki v sporočilo vnesejo vaše podatke, da razglednico bolj personalizirajo. Kaj počnejo ti programi v ozadju, pa ostane neznanka (ponavadi uporabijo vaše podatke v marketinške namene). &lt;p /&gt; Nastavitve se nahajajo &lt;a href=&#34;http://www.facebook.com/settings/?tab=privacy&amp;amp;section=applications&amp;amp;field=friends_share&#34; title=&#34;na tej povezavi&#34; style=&#34;color: rgb(76, 138, 37); text-decoration: underline;&#34;&gt;na tej povezavi&lt;/a&gt; (&lt;a href=&#34;http://www.facebook.com/settings/?tab=privacy&amp;amp;section=applications&amp;amp;field=friends_share&#34; style=&#34;color: rgb(76, 138, 37); text-decoration: underline;&#34;&gt;http://www.facebook.com/settings/?tab=privacy&amp;amp;section=applications&amp;amp;field=friends_share&lt;/a&gt;).&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Odpravite &#34;štekanje&#34; Youtube videov!</title>
+      <link>https://blog.mclion.eu/2009/12/05/odpravite-stekanje-youtube-videov/</link>
+      <pubDate>Sat, 05 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mclion.eu/2009/12/05/odpravite-stekanje-youtube-videov/</guid>
+      <description>&lt;div &gt;&lt;div &gt;Zadnjih nekaj mesecev filmi na &lt;a href=&#34;http://Youtube.com&#34; title=&#34;Youtube&#34; &gt;Youtube&lt;/a&gt; štekajo. Na začetku so bili to le daljši ali HD posnetki, s časom pa se je stanje poslabšalo. Po nekaj googlanja sem prišel do ugotovitve, da je dogajanje lokalizirano predvsem na &lt;b&gt;Evropo&lt;/b&gt;. V ZDA naj bi servis deloval normalno.&lt;/div&gt; &lt;p /&gt;&lt;div &gt;Nekateri mediji so celo novo generacijo poimenovali kar &amp;quot;&lt;b&gt;Youtube generacija&lt;/b&gt;&amp;quot; in škoda je, da ravno to spletno mesto za nas ne deluje kot bi moralo. Jaz sem zadeve reševal tako, da sem pri video posnetku stisnil gumb play, počakal, da se prične predvajanje, stisnil pavzo in pozabil na posnetek dokler se le-ta ni do konca naložil. To je delno rešilo težave...&lt;/div&gt; &lt;p /&gt;&lt;div &gt;Po raznih forumih sem zasledil rešitev, kjer predlagajo zamenjavo &lt;b&gt;DNS strežnikov&lt;/b&gt;, ki jih koristi računalnik s kakšnimi, ki so locirani v ZDA, zatem pa naj bi posnetki spet normalno tekli. DNS strežniki so nekakšni &lt;b&gt;telefonski imeniki interneta&lt;/b&gt;. Če vtipkate naziv nekega spletnega mesta, bo vaš brskalnik (program s katerim odpirate internet) najprej vprašal v lokalni imenik kje je ta naslov in le-ta mu bo sporočil številko, kamor se bo brskalnik zatem priklopil. Primer, če v brskalnik vtipkam &lt;a href=&#34;http://podpalmo.si&#34; title=&#34;podpalmo.si&#34; &gt;podpalmo.si&lt;/a&gt;, bo DNS strežnik sporočil številko 195.246.15.90, brskalnik pa se bo nanjo priklopil. To dogajanje je transparentno in se zgodi skoraj v trenutku. DNS servis vam že v osnovni ceni ponuja vaš ponudnik internet storitev.&lt;/div&gt; &lt;p /&gt;&lt;div &gt;&lt;a href=&#34;http://code.google.com/speed/public-dns/&#34; title=&#34;Google je pred nekaj dnevi objavil zastonjski DNS servis&#34; &gt;Google je pred nekaj dnevi objavil zastonjski DNS servis&lt;/a&gt;. Njihov namen je pospešiti nalaganje določenih spletnih mest in zbirati statistiko kako uporabniki surfajo. S to statistiko oni opravičijo strošek servisa, saj jim pomaga izboljševanje svojih (komercialnih) storitev.&lt;/div&gt; &lt;p /&gt;&lt;div &gt;Porodila se mi je ideja. &lt;b&gt;Youtube&lt;/b&gt; je od &lt;b&gt;Googla&lt;/b&gt;, torej bi morali video posnetki s tem DNS servisom normalno teči? Teorijo sem takoj &lt;b&gt;preizkusil&lt;/b&gt;. Po &lt;a href=&#34;http://code.google.com/speed/public-dns/docs/using.html&#34; title=&#34;navodilih, ki so objavljena na strani servisa&#34; &gt;navodilih, ki so objavljena na strani servisa&lt;/a&gt;, sem nastavil parametre v računalniku, reštartal...in... &lt;b&gt;DELA&lt;/b&gt;!&lt;/div&gt; &lt;br /&gt;&lt;div &gt;Nastavitev je siloma &lt;b&gt;enostavna&lt;/b&gt;, številk se ne da falit (8.8.8.8 in 8.8.4.4), Youtube teče brez štekanja tako na normalnem, kot na HD. Video se predvaja skoraj v trenutku, ni potrebno dat na pavzo in čakat. Točno tako, kot bi moralo bit.&lt;/div&gt; &lt;p /&gt;&lt;div &gt;Pa naj Google zbira podatke o tem kjer moj računalnik surfa, itak so anonimni (niso vezani na moje ime) in itak to počne že vsakič, ko kaj iščem po spletu, berem maile ali gledam filme na Youtube. :)&lt;/div&gt; &lt;p /&gt;&lt;div &gt;&lt;br /&gt;&lt;iframe src=&#34;http://www.youtube.com/embed/Vt7FP4UrAgA?wmode=transparent&#34; allowfullscreen frameborder=&#34;0&#34; height=&#34;417&#34; width=&#34;500&#34;&gt;&lt;/iframe&gt;&lt;/div&gt; &lt;p /&gt;&lt;div &gt;&lt;b&gt;P.S. &lt;/b&gt;Sprememba DNS vam ne bo pospešila prenosa podatkov na internetu. Če imate počasno povezavo, bo še vedno počasna, samo prej bo računalnik prišel do pravih naslovov, ki jih rabi za se priklopit na spletna mesta.&lt;/div&gt; &lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Feedly - moje okno v RSS splet</title>
+      <link>https://blog.mclion.eu/2009/10/07/feedly-moje-okno-v-rss-splet/</link>
+      <pubDate>Wed, 07 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mclion.eu/2009/10/07/feedly-moje-okno-v-rss-splet/</guid>
+      <description>Sem en tistih uporabnikov, ki opazujejo splet skozi &lt;b&gt;RSS&lt;/b&gt; vire in &lt;a href=&#34;http://twitter.com/mclion&#34;&gt;&lt;b&gt;Twitter&lt;/b&gt;&lt;/a&gt;. Ne obiskujem strani in iščem &amp;quot;kaj je novega&amp;quot;, ampak se mi novosti same ponudijo preko avtomatičnih (RSS) poti oziroma preko uporabniško urejanih Twitter kanalov (feeds). Za branje RSS uporabljam &lt;b&gt;&lt;a href=&#34;http://reader.google.com&#34;&gt;Google Reader&lt;/a&gt;&lt;/b&gt; in v njemu sem prijavljen na 127 virov novic in blogov. &lt;p /&gt; Toliko virov je jasno preveč, da bi jih lahko navaden smrtnik redno pregledoval, razen če se ne loti resnega zapravljanja časa. Na srečo obstaja tudi za ta problem rešitev, ki zna RSS različne vire povezati &lt;b&gt;v uporabno celoto v obliki revije&lt;/b&gt;, kot pravijo snovalci servisa &lt;a href=&#34;http://www.feedly.com/&#34;&gt;&lt;b&gt;Feedly&lt;/b&gt;&lt;/a&gt;.&lt;p /&gt; &lt;a href=&#34;http://www.feedly.com/&#34;&gt;&lt;b&gt;Feedly&lt;/b&gt;&lt;/a&gt; je skupek spletnega servisa in je dodatka (plugin) za &lt;b&gt;Mozilla Firefox&lt;/b&gt;, ki delujeta v sožitju. Po instalaciji dodatka se Feedly poveže z vašim Google Readerjem in iz tamkajšnjih podatkov ustvari spletno mesto z vsebinami iz vaših RSS naročnin.&lt;p /&gt; Vsebine sortira in izpostavlja glede na vaše bralne navade. Podatke za to pa jemlje iz vašega Google Reader računa, kjer je zabeleženo katere vire in kako pogosto jih spremljate, katere novice ste posredovali prijateljem (share), kaj ste označili z zvezdico ipd. Te podatke združi še z zunanjimi podatki pogostosti objave, števila RSS bralcev in drugo. Za nameček k vsemu doda še vaš Twitter.&lt;p /&gt; Iz vsega tega Feedly ustvari &lt;b&gt;zelo pregleden&lt;/b&gt;, pravzaprav lahko rečem kar &lt;b&gt;všečen&lt;/b&gt; živ pregled dogajanja na spletu, ki ga vi spremljate.&lt;p /&gt;Še več. Ko iščete z Googlom ali Yahoojem, vam ponudi tudi rezultate iz vaših RSS virov. Tako, če iščete recimo &amp;quot;bar code&amp;quot;, vam bo izpisalo novice iz vaših virov na sami strani (desno spodaj, v jasno ločenem okvirčku). &lt;p /&gt;  Priporočam vsem, ki berejo splet s pomočjo RSS virov. &lt;b&gt;Feedly je moja nova domača stran. &lt;/b&gt;&lt;p /&gt; &lt;i&gt;&lt;br /&gt;McLion&lt;/i&gt;&lt;p /&gt;&lt;i&gt;P.S. Screenshot iskalnika je bil posnet na dan, ko je Google praznoval izum črtne kode, zato je tudi logotip v obliki le-te.&lt;/i&gt;&lt;p /&gt;&lt;br /&gt;
+&lt;p&gt;
+	{% img /images/posterous/2009/10/3413031-Picture%2014.jpg %}
+	{% img /images/posterous/2009/10/3413035-Picture%2016.jpg %}
+	{% img /images/posterous/2009/10/3413039-Picture%2018.jpg %}
+{% img /images/posterous/2009/10/3413033-Picture%2015.jpg %}
+ {% img /images/posterous/2009/10/3413037-Picture%2017.jpg %}
+  {% img /images/posterous/2009/10/3413041-feedly.tiff %}
+
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Video pove več kot 140 znakov</title>
+      <link>https://blog.mclion.eu/2009/09/07/video-pove-vec-kot-140-znakov/</link>
+      <pubDate>Mon, 07 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mclion.eu/2009/09/07/video-pove-vec-kot-140-znakov/</guid>
+      <description>&lt;p&gt;
+{% img /images/posterous/2009/09/2346289-Picture%204.jpg %}&lt;/p&gt;
+&lt;b&gt;Twitter&lt;/b&gt; je zadnji hit. V ZDA in na Japonskem je tako velik fenomen, da si razvijalci izmišljujejo nove in nove pristope kako bi izkoristili moč tega mikroblog servisa. Vsak dan je objavljena kakšna zanimiva nova storitev. Pred kratkim sem v svojem brskanju (bolj sledenju Twitterju) naletel na en zanimiv brezplačni servis, ki bi prišel prav vsem, ki morajo od časa do časa &lt;b&gt;komu razložiti kako se uporablja&lt;/b&gt; nek program ali spletna aplikacija. Spletna storitev se imenuje &lt;a href=&#34;http://screenr.com/&#34;&gt;&lt;b&gt;Screenr&lt;/b&gt;&lt;/a&gt; in omogoča t.i. &amp;quot;screen cast&amp;quot;, kar naj bi v prevodu pomenilo oddajanje zaslona, torej predvajanje dogajanja na vašem zaslonu (izbrani) javnosti.&lt;p /&gt; Za uporabo Screenrja potrebujete le &lt;b&gt;Twitter račun in brskalnik&lt;/b&gt;. Ta drugo imate, saj berete ta prispevek, prvo pa ustvarite brezplačno na &lt;a href=&#34;http://Twitter.com&#34;&gt;&lt;b&gt;Twitter.com&lt;/b&gt;&lt;/a&gt;. No, potrebujete še eno malenkost. Vaš brskalnik mora imeti nastavljeno podporo za Javo (kar verjetno že ima). Zadeva deluje na Firefoxu in Internet Explorerju, žal pa ne v Chrome brskalniku (ta je še vedno zelo beta v tem smislu).&lt;p /&gt;Naslednji korak je klik na &amp;quot;Record your Screencast now&amp;quot; in sledenje navodilom. Po tem, ko dovolite Javi dostop do vašega enkrana, se bo pojavil okvir s katerim nastavite območje na ekranu, ki ga boste posneli. Snemanje se prične čim pritisnete na gum &amp;quot;Record&amp;quot;. Screenr podpira tudi snemanje zvoka iz vašega mikrofona ali druge naprave (to lahko nastavite). Ob koncu vam program ponudi objavo neposredno na Twitter ali pa kam drugam (Youtube). Enostavno in hitro.&lt;p /&gt;Največja dolžina posnetka je 5 min, kar bo dovolj za pokazat sorodniku ali kolegu kje mora kliknit, da se nekaj v programu zgodi. Seveda pa lahko Screenr uporabite tudi za snemanje sebe (z malim trikom). Na ekran, ki ga snemate postavite prikaz videa iz vaše kamere in že imate &amp;quot;&lt;b&gt;self casting&lt;/b&gt;&amp;quot;. Ampak pozor,&lt;b&gt; vsi posnetki na Screenr so javni&lt;/b&gt;! :)&lt;p /&gt; &lt;iframe src=&#34;http://www.youtube.com/embed/s0QK6M5l7FQ?wmode=transparent&#34; allowfullscreen frameborder=&#34;0&#34; height=&#34;417&#34; width=&#34;500&#34;&gt;&lt;/iframe&gt;&lt;p /&gt;&lt;i&gt;(Video je nastal &amp;quot;v živo&amp;quot; brez neke posebne priprave in vsebuje kar nekaj neumnosti oziroma jezikovnih napak...Če se že zgražate, počnite to za mojim hrbtom, hvala:))&lt;/i&gt;&lt;br /&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
