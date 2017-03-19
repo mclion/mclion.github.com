@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Apple on McLion&#39;s Mindstream</title>
-    <link>https://blog.mclion.eu/categories/apple/index.xml</link>
+    <link>http://blog.mclion.eu/categories/apple/index.xml</link>
     <description>Recent content in Apple on McLion&#39;s Mindstream</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sl-SI</language>
-    <atom:link href="https://blog.mclion.eu/categories/apple/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://blog.mclion.eu/categories/apple/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Slovenski črkovalnik v Mac OSX (Snow) Leopard in Lion</title>
-      <link>https://blog.mclion.eu/2012/02/23/slovenski-crkovalnik-v-mac-osx-snow-leopard-i/</link>
+      <link>http://blog.mclion.eu/2012/02/23/slovenski-crkovalnik-v-mac-osx-snow-leopard-i/</link>
       <pubDate>Thu, 23 Feb 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.mclion.eu/2012/02/23/slovenski-crkovalnik-v-mac-osx-snow-leopard-i/</guid>
+      <guid>http://blog.mclion.eu/2012/02/23/slovenski-crkovalnik-v-mac-osx-snow-leopard-i/</guid>
       <description>&lt;p&gt;Na spletu je moč najti navodila kako naložiti slovenski črkovalnik v OSX s pomočjo paketa Aspell. Ta metoda ni najbolj optimalna, je pa bila edina do nedavnega edina. Mnogi so spregledali, da OSX od verzije 10.6 podpira nalaganje drugih slovarjev preko odprtega sistema. Apple je namreč v Leopardu zamenjal črkovalnik in uporabil odprto-kodnega, ki koristi slovarje istega formata kot Openoffice.org (oz. sedaj LibreOffice).&lt;p /&gt; Tukaj so navodila kako to storimo na nov način, ki ne zahteva instalacije posebnih programov, deluje pa v vseh t.i. Cocoa aplikacijah, torej tudi v iWork paketih, Safariju, Twitterju in podobno &amp;hellip;&lt;br /&gt;&lt;strong&gt;&lt;br /&gt;Kako naložimo slovenski črkovalnik v OSX Leopard, Snow Leopard ali Lion?&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;*Prenesite črkovalnik iz &lt;a href=&#34;http://extensions.services.openoffice.org/en/project/pack-sl&#34; target=&#34;_blank&#34;&gt;http://extensions.services.openoffice.org/en/project/pack-sl&lt;/a&gt;.&amp;nbsp;&lt;/li&gt;
