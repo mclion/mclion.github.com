@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.mclion.eu/2017/03/21/trije-lonci-%C4%8Daja/</loc>
+    <lastmod>2017-03-21T14:27:01+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.mclion.eu/2016/10/31/zakaj-sem-nehal-piti/</loc>
     <lastmod>2016-10-31T00:00:00+00:00</lastmod>
   </url>
@@ -215,7 +220,7 @@
   
   <url>
     <loc>http://blog.mclion.eu/categories/blebetanje/</loc>
-    <lastmod>2014-01-19T00:00:00+00:00</lastmod>
+    <lastmod>2017-03-21T14:27:01+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -248,13 +253,13 @@
   
   <url>
     <loc>http://blog.mclion.eu/</loc>
-    <lastmod>2016-10-31T00:00:00+00:00</lastmod>
+    <lastmod>2017-03-21T14:27:01+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.mclion.eu/post/</loc>
-    <lastmod>2016-10-31T00:00:00+00:00</lastmod>
+    <lastmod>2017-03-21T14:27:01+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -278,7 +283,7 @@
   
   <url>
     <loc>http://blog.mclion.eu/categories/zgodbe/</loc>
-    <lastmod>2016-10-31T00:00:00+00:00</lastmod>
+    <lastmod>2017-03-21T14:27:01+01:00</lastmod>
     <priority>0</priority>
   </url>
   
