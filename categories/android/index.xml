@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Android on McLion&#39;s Mindstream</title>
-    <link>http://blog.mclion.eu/categories/android/index.xml</link>
+    <link>http://blog.mclion.eu/categories/android/</link>
     <description>Recent content in Android on McLion&#39;s Mindstream</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sl-SI</language>
-    <atom:link href="http://blog.mclion.eu/categories/android/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Jul 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.mclion.eu/categories/android/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Dobil sem Jelly Bean!</title>
@@ -14,65 +17,8 @@
       <pubDate>Wed, 25 Jul 2012 00:00:00 +0000</pubDate>
       
       <guid>http://blog.mclion.eu/2012/07/25/dobil-sem-jelly-bean/</guid>
-      <description>&lt;p&gt;Končno mi je Google nadgradil Androida na &lt;strong&gt;Jelly Bean&lt;/strong&gt;. Bil sem kar neučakan, čeprav sem verjetno med prvimi v Sloveniji z zadnjo verzijo androida. Zanimalo me je predvsem kako se v Sloveniji izkažeta novi Google Voice Search in Google Now ...&lt;/p&gt;
-&lt;p&gt;Včeraj sem preko vsemogočnih radijskih zvez dobil nadgradnjo mojega NEXUS S telefona na Jelly Bean oz.&lt;strong&gt; Android 4.1&lt;/strong&gt;. Hitrih nadgradenj so deležne samo NEXUS naprave, ostali pa morajo počakati, da se proizvajalci odločijo, če se splača podalj&amp;scaron;ati življenjsko dobo aparata in kdaj bodo to storili. Razlog zakaj va&amp;scaron; aparat &#34;ne NEXUS&#34; aparat ne bo doživel nadgradnje je torej pogosto predvsem marketin&amp;scaron;ki.&lt;/p&gt;
-&lt;p&gt;Nova verzija prina&amp;scaron;a kar nekaj googlove magije, ki odlično deluje v Ameriki, Kako se pa obnese pri nas? Moram priznati, da dokaj klavrno, približno tako slabo, kot se obnese Applov iOS. Smo pač majhni. Ampak vseeno, pojdimo po vrsti.&lt;/p&gt;
-&lt;p&gt;&lt;span style=&#34;font-size: medium;&#34;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;Uporabni&amp;scaron;ki vmesnik&lt;/h2&gt;
-&lt;p&gt;Malenkost je polep&amp;scaron;an, določene neumnosti so odstranjene. Nadvse me navdu&amp;scaron;uje nekaj, kar ima iOS že od začetka in to je avtomatično razporejanje ikon, ko eno premika&amp;scaron; po ekranu. To me je na Androidu hudo jezilo. Sedaj mi ni potrebno več vnaprej pripravljati prostora za neko ikono ali widget. Yeey!&lt;/p&gt;
-&lt;p&gt;Razveselila me je tudi nova ikonca v galeriji - &lt;strong&gt;kanta za smeti&lt;/strong&gt;. Za brisanje slik je sedaj ta ikona ves čas vidna in lahko po fotografiranju neumnosti takoj pobri&amp;scaron;em. Prej si za brisanje moral klikniti gumb za meni in tam izbrati opcijo Delete. Končno.&lt;/p&gt;
-&lt;p&gt;Bolj&amp;scaron;i je tudi način za izbiro privzete aplikacije za neko povezavo ali akcijo, je bolj pregleden, čeprav zahteva klik več.&lt;/p&gt;
-&lt;p&gt;Takih malenkosti je malo morje in so razložene na Android 4.1 changelog, kjer si jih lahko v miru preberete.&lt;/p&gt;
-&lt;p&gt;&lt;span style=&#34;font-size: medium;&#34;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;Uporabni&amp;scaron;ka izku&amp;scaron;nja&lt;/h2&gt;
-&lt;p&gt;Google je večkrat izpostavil, da je Jelly Bean &#34;more buttery&#34;, kar bi po slovensko pomenilo, da je bolj maslen &amp;hellip; Morda bi moral to prevesti bolj pomensko ... Teče &#34;kot po maslu&#34;, tako. :)&lt;/p&gt;
-&lt;p&gt;Uporabni&amp;scaron;ki vmesnik je dejansko hitrej&amp;scaron;i in to kljub temu, da pri meni teče starem in že hudo obremenjenem Nexus S telefonu, ki poganja &amp;scaron;e kup programov v ozadju, ki jih &#34;nujno rabim&#34;, ampak se ne spomnim več kaj počnejo.&lt;/p&gt;
-&lt;p&gt;V tej verziji so dodali grafične prehode med programi, animacijo ob fotografiranju in povsod drugod, kjer je doslej uporabnik strmel v enobarven (bel ali črn) ekran medtem, ko je telefon procesiral podatke. To pomeni, da so &lt;strong&gt;uporabili grafični procesor&lt;/strong&gt; (GPU) v telefonu v času, ko je glavni procesor (CPU) pod največjim stresom in ga tako razbremenili, uporabnika pa s tem zamotijo. Nekaj takega počne Apple v iOS skoraj od samega začetka. Trik torej ni novost - če uporabnika zamoti&amp;scaron; med čakanjem, se mu zdi, da sploh ne čaka. Priznam, ta malenkost me je prav razveselila.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Bolj hiter&lt;/strong&gt; je tudi vmesnik za telefoniranje, tudi pri mojem ogromnem telefonskem imeniku (več kot 1000 kontaktov). Prej sem zgubljal potrpljenje pri čakanju, da mi izpi&amp;scaron;e spisek zadnjih klicev, sedaj pa se to zgodi v par sekundah.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;h2&gt;Google Voice Search&lt;/h2&gt;
-&lt;p&gt;Igral sem se v angle&amp;scaron;čini, ker slovensko ne zna. Verjamem, da je za ameri&amp;scaron;ko trži&amp;scaron;če hudo uporabno, saj zna ogromno podatkovno bazo znanja povezati z navadami uporabnika telefona in s pomočjo grafa znanja (Knowledge Graph) ponuditi tisto, kar uporabnika zanima. Razume stanje cest, vreme, &amp;scaron;portne rezultate in podatke o restavracijah in razne zanimivosti (recimo vi&amp;scaron;ino hriba).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;V Sloveniji se ne izkaže najbolje&lt;/strong&gt;. Baza restavracij in druge ponudbe je zelo skopa in če vpis obstaja, vsebuje ponavadi le naziv in lokacijo, včasih celo napačno (ker je s.p. registriran drugod).&lt;/p&gt;
-&lt;p&gt;Sicer ta verzija bolje razume mojo polomljeno angle&amp;scaron;čino (sem Primorec), kar mu &amp;scaron;tejem v plus, ampak kaj, ko je baza lokalnega znanja zelo zelo majhna. Vreme mi pokaže in ve, da sem v Kopru, ampak temperature prikaže po ameri&amp;scaron;ko. Fahrenheitovih stopinj ne znam na pamet pretvarjat &amp;hellip;  Obstaja pa finta. Če ga vpra&amp;scaron;am &#34;show me the weather&#34;, mi pokaže rezultat iz Google.com, ki pa je v stopinjah Celzija.&lt;/p&gt;
-&lt;p&gt;Google Voice Search je prav lu&amp;scaron;tna igrača. Žal za nas skoraj popolnoma neuporabna, tudi recimo za klicanje kontaktov &amp;hellip; Razen za tiste, ki znate imena svojih prijateljev spačiti po angle&amp;scaron;ko in imate ob tem &amp;scaron;e obilico sreče.&lt;/p&gt;
-&lt;p&gt;Zadevo sem preskusil &amp;scaron;e v italijan&amp;scaron;čini. Niti vremena mi ni pokazalo. Sicer je pokazalo iskalnik z rezultati povezanimi z vremenom, ampak nič neposrednega. V italijan&amp;scaron;čini deluje samo usmerjanje po cesti.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;!--more--&gt;
-&lt;h2&gt;Google Now&lt;/h2&gt;
-&lt;p&gt;To je najbolj mindblowing zadeva &amp;hellip; v Ameriki. :) &lt;strong&gt;Googlov iskalnik brez iskanja&lt;/strong&gt;, ker Google že ve.&lt;/p&gt;
-&lt;p&gt;Če se spomnite komplikacij pred nekaj meseci, ko je Google združil vse pravilnike v enega skupnega in so nekateri paničarili? No, to je posledica tega združevanja. Tisto, kar je Google prej vedel, sedaj odkrito prizna in nam pokaže.&lt;/p&gt;
-&lt;p&gt;Google Now naj bi glede na tvojo lokacijo in navade vedel kaj namerava&amp;scaron; storiti in ti predlagal re&amp;scaron;itve. Zna te usmeriti po manj prometni cesti do službe in domov, prikazati vozni red vlakov in letal, preračunati valute in prevesti tekst. Pri nas pride do izraza pot do službe in domov, na&amp;scaron;ih voznih redov pa ne pozna. Sicer ne vem, če ima dostop do podatkov o obremenitvah cest. Verjetno ne.&lt;/p&gt;
-&lt;p&gt;Me je &lt;strong&gt;presenetil&lt;/strong&gt;, priznam. Zjutraj mi je predlagal pot do službe. S tem, da sem kot službo nekoč označil pisarno, ki je 100 m stran od trenutne. Ta nove mu nisem nikoli določil, ampak se je naučil preko GPS-a oz. WiFi omrežij na katere se je priklopil moj telefon. Google pač ve. Kmalu zatem me je ponovno presenetil, ampak predvsem z WTF predlogom. Namreč okoli 13h mi je predlagal, da naj se peljem do koprskih gasilcev. Ne vem iz kje je to potegnil, ker tega &#34;sestanka&#34; nisem imel v koledarju ne nikjer drugje, je pa pred točno enim tednom bila na tej lokaciji tiskovna konferenca (na kateri sicer nisem bil, sem pa dobil povabilo v službeni email, ki teče na Google Apps). Mogoče je bil tam datum zapisan čudno in ker sloven&amp;scaron;čine ne razume najbolje &amp;hellip; No, se bo že naučil. Počutim se kot, ko gledam otroka, ki se razvija in prihaja do bizarnih napačnih ugotovitev.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;h2&gt;Podpora sloven&amp;scaron;čini in Sloveniji&lt;/h2&gt;
-&lt;p&gt;Celoten vmesnik je preveden tudi v sloven&amp;scaron;čino. Ne vem, če je bilo tako tudi prej, saj sem ga tokrat prvič preskusil. Ni mi v&amp;scaron;eč. Sistem podpira črnovalnike, ampak slovenskega (&amp;scaron;e) ni, je pa hrva&amp;scaron;ki. Spoznave govora za na&amp;scaron; jezik seveda ni, je pa za latin&amp;scaron;čino recimo &amp;hellip; Verjetno obstaja razlog za njeno podporo. Bi pa hudo zameril, če razvijejo spoznavo govora za klingon&amp;scaron;čino prej kot za sloven&amp;scaron;čino.&lt;/p&gt;
-&lt;p&gt;Za tipkovnico sem si zato pustil &lt;strong&gt;Swiftkey 3&lt;/strong&gt;, ki vsebuje tudi slovenski slovar.&lt;/p&gt;
-&lt;p&gt;Kar nekaj kup Googlovega programja je neuporabnega, ker se v Sloveniji da preko trgovine Play kupiti le programe.&lt;/p&gt;
-&lt;p&gt;&amp;Scaron;e vedno ne dela &lt;strong&gt;navigacija&lt;/strong&gt;. V Kopru mi jo sicer ponuja, ker sem fizično blizu Italije, ampak čim ugotovi, da mora po na&amp;scaron;em ozemlju, me opozori, da ni podprto in zaključi program. Mora bit kak&amp;scaron;nen pravni razlog. Ni mi v&amp;scaron;eč. Sploh ker mi Google Now ponuja pot do neke lokacije in ob kliku mi sporoči, da mi ne more pokazati poti. Sicer zadeva deluje, ko ne ponudi navigacije, ampak samo prikaz na mapi &amp;hellip; Življenje ob meji je stresno. :)&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;h2&gt;Ugotovitve&lt;/h2&gt;
-&lt;p&gt;Jelly Bean je v splo&amp;scaron;nem tudi marketin&amp;scaron;ka nadgradnja. Googlovi servisi so bolje integrirani vanj, nadgradnja doda morje novih ikon za razne nakupe, ki pa pri nas (&amp;scaron;e) ne delujejo. En tak primer je nakup pesmi. Zadevo so poenostavili, da je pravi užitek videti (kako bi lahko delala). Obstaja namreč en widget, ki ob kliku ugotovi katero pesem poslu&amp;scaron;a&amp;scaron; (kot npr. Soundhound) in ti ponudi možnost nakupa le-te. Seveda nakup dela samo v ZDA. Podobno je s knjigami in filmi. Samo v ZDA.&lt;/p&gt;
-&lt;p&gt;Vsekakor se telefon splača nadgraditi že zaradi pohitritve vmesnika, ki me končno ne spravlja ob živce &amp;hellip; Ker me zamotijo animacije. :)&lt;/p&gt;
-&lt;p&gt;
-{% img /images/posterous/2012/07/43217873-Screenshot_2012-07-24-20-57-48.png %}
-{% img /images/posterous/2012/07/43217879-Screenshot_2012-07-24-21-40-41.png %}
-{% img /images/posterous/2012/07/43217884-Screenshot_2012-07-24-23-24-04.png %}
-{% img /images/posterous/2012/07/43217889-Screenshot_2012-07-25-17-31-04.png %}
-{% img /images/posterous/2012/07/43217874-Screenshot_2012-07-24-20-57-59.png %}
-{% img /images/posterous/2012/07/43217880-Screenshot_2012-07-24-21-53-52.png %}
-{% img /images/posterous/2012/07/43217885-Screenshot_2012-07-25-00-07-33.png %}
-{% img /images/posterous/2012/07/43217890-Screenshot_2012-07-25-17-32-37.png %}
-{% img /images/posterous/2012/07/43217876-Screenshot_2012-07-24-21-10-27.png %}
-{% img /images/posterous/2012/07/43217881-Screenshot_2012-07-24-21-54-01.png %}
-{% img /images/posterous/2012/07/43217886-Screenshot_2012-07-25-00-19-00.png %}
-{% img /images/posterous/2012/07/43217877-Screenshot_2012-07-24-21-19-07.png %}
-{% img /images/posterous/2012/07/43217882-Screenshot_2012-07-24-22-58-13.png %}
-{% img /images/posterous/2012/07/43217887-Screenshot_2012-07-25-17-28-12.png %}
-{% img /images/posterous/2012/07/43217878-Screenshot_2012-07-24-21-19-12.png %}
-{% img /images/posterous/2012/07/43217883-Screenshot_2012-07-24-23-12-42.png %}
-{% img /images/posterous/2012/07/43217888-Screenshot_2012-07-25-17-28-30.png %}
-&lt;/p&gt;
-</description>
+      <description>Končno mi je Google nadgradil Androida na Jelly Bean. Bil sem kar neučakan, čeprav sem verjetno med prvimi v Sloveniji z zadnjo verzijo androida. Zanimalo me je predvsem kako se v Sloveniji izkažeta novi Google Voice Search in Google Now ...
+Včeraj sem preko vsemogočnih radijskih zvez dobil nadgradnjo mojega NEXUS S telefona na Jelly Bean oz. Android 4.1. Hitrih nadgradenj so deležne samo NEXUS naprave, ostali pa morajo počakati, da se proizvajalci odločijo, če se splača podalj&amp;scaron;ati življenjsko dobo aparata in kdaj bodo to storili.</description>
     </item>
     
   </channel>
