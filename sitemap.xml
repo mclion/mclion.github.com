@@ -212,7 +212,7 @@
   </url>
   
   <url>
-    <loc>http://blog.mclion.eu/categories/agilni-svet/</loc>
+    <loc>http://blog.mclion.eu/categories/agilno/</loc>
     <lastmod>2017-04-15T16:17:39+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -265,6 +265,12 @@
   
   <url>
     <loc>http://blog.mclion.eu/</loc>
+    <lastmod>2017-04-15T16:17:39+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.mclion.eu/categories/poslovno/</loc>
     <lastmod>2017-04-15T16:17:39+02:00</lastmod>
     <priority>0</priority>
   </url>
