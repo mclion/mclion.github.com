@@ -27,7 +27,7 @@ h1 {
 }
 
 html {
-    background: #111111 url('http://2.bp.blogspot.com/_H-s8ZY2Zxec/TPgHOK-PeUI/AAAAAAAAATQ/zIxSxhIrn8k/s0-R/bla122.JPG') top left;
+    background: #111111 url('/images/blog-background.jpg') top left;
     background-attachment: fixed;
     font-family: "Open Sans", sans;
 }

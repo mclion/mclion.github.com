@@ -275,7 +275,7 @@ h3,#search-button {border-color: #333333;}
 
 #content .blog-index article h1, h1.entry-title {font-family: 'Oswald', sans-serif;font-weight: bold;font-size:28px;line-height:2}
 
-html {background: #111111 url('http://2.bp.blogspot.com/_H-s8ZY2Zxec/TPgHOK-PeUI/AAAAAAAAATQ/zIxSxhIrn8k/s0-R/bla122.JPG') top left;background-attachment: fixed;font-family: "Open Sans", sans;}
+html {background: #111111 url('/images/blog-background.jpg') top left;background-attachment: fixed;font-family: "Open Sans", sans;}
 .sidebar {font-size:13px;font-family: "Open Sans", sans;}
 
 body > header h1 a {
