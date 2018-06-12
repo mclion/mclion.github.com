@@ -3,8 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://blog.mclion.eu/2018/06/11/kako-si-zapomnim-imena/</loc>
-    <lastmod>2018-06-11T07:34:39+02:00</lastmod>
+    <loc>http://blog.mclion.eu/2018/06/12/kako-si-zapomnim-imena/</loc>
+    <lastmod>2018-06-12T07:55:39+02:00</lastmod>
   </url>
   
   <url>
@@ -276,13 +276,13 @@
   
   <url>
     <loc>http://blog.mclion.eu/</loc>
-    <lastmod>2018-06-11T07:34:39+02:00</lastmod>
+    <lastmod>2018-06-12T07:55:39+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.mclion.eu/categories/nadgradnja/</loc>
-    <lastmod>2018-06-11T07:34:39+02:00</lastmod>
+    <lastmod>2018-06-12T07:55:39+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -294,7 +294,7 @@
   
   <url>
     <loc>http://blog.mclion.eu/post/</loc>
-    <lastmod>2018-06-11T07:34:39+02:00</lastmod>
+    <lastmod>2018-06-12T07:55:39+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -312,6 +312,12 @@
   <url>
     <loc>http://blog.mclion.eu/categories/tehnologija/</loc>
     <lastmod>2015-05-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.mclion.eu/categories/ucenje/</loc>
+    <lastmod>2018-06-12T07:55:39+02:00</lastmod>
     <priority>0</priority>
   </url>
   
