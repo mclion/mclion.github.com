@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://blog.mclion.eu/2018/11/05/po%C5%A1astne-kratke-zgodbe-2018/</loc>
+    <lastmod>2018-11-05T16:32:07+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.mclion.eu/2018/06/12/kako-si-zapomnim-imena/</loc>
     <lastmod>2018-06-12T07:55:39+02:00</lastmod>
   </url>
@@ -276,7 +281,7 @@
   
   <url>
     <loc>http://blog.mclion.eu/</loc>
-    <lastmod>2018-06-12T07:55:39+02:00</lastmod>
+    <lastmod>2018-11-05T16:32:07+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -294,7 +299,7 @@
   
   <url>
     <loc>http://blog.mclion.eu/post/</loc>
-    <lastmod>2018-06-12T07:55:39+02:00</lastmod>
+    <lastmod>2018-11-05T16:32:07+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -323,13 +328,13 @@
   
   <url>
     <loc>http://blog.mclion.eu/categories/zabava/</loc>
-    <lastmod>2017-10-20T10:42:32+02:00</lastmod>
+    <lastmod>2018-11-05T16:32:07+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.mclion.eu/categories/zgodbe/</loc>
-    <lastmod>2017-10-20T10:42:32+02:00</lastmod>
+    <lastmod>2018-11-05T16:32:07+01:00</lastmod>
     <priority>0</priority>
   </url>
   
