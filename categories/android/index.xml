@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Android on McLion&#39;s Mindstream</title>
-    <link>http://blog.mclion.eu/categories/android/</link>
+    <link>https://blog.mclion.eu/categories/android/</link>
     <description>Recent content in Android on McLion&#39;s Mindstream</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sl_SI</language>
     <lastBuildDate>Wed, 25 Jul 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://blog.mclion.eu/categories/android/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.mclion.eu/categories/android/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dobil sem Jelly Bean!</title>
-      <link>http://blog.mclion.eu/2012/07/25/dobil-sem-jelly-bean/</link>
+      <link>https://blog.mclion.eu/2012/07/25/dobil-sem-jelly-bean/</link>
       <pubDate>Wed, 25 Jul 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.mclion.eu/2012/07/25/dobil-sem-jelly-bean/</guid>
+      <guid>https://blog.mclion.eu/2012/07/25/dobil-sem-jelly-bean/</guid>
       <description>Končno mi je Google nadgradil Androida na Jelly Bean. Bil sem kar neučakan, čeprav sem verjetno med prvimi v Sloveniji z zadnjo verzijo androida. Zanimalo me je predvsem kako se v Sloveniji izkažeta novi Google Voice Search in Google Now ...
 Včeraj sem preko vsemogočnih radijskih zvez dobil nadgradnjo mojega NEXUS S telefona na Jelly Bean oz. Android 4.1. Hitrih nadgradenj so deležne samo NEXUS naprave, ostali pa morajo počakati, da se proizvajalci odločijo, če se splača podalj&amp;scaron;ati življenjsko dobo aparata in kdaj bodo to storili.</description>
     </item>
