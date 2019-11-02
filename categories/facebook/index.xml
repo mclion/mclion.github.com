@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Facebook on McLion&#39;s Mindstream</title>
+    <title>facebook on McLion&#39;s Mindstream</title>
     <link>https://blog.mclion.eu/categories/facebook/</link>
-    <description>Recent content in Facebook on McLion&#39;s Mindstream</description>
+    <description>Recent content in facebook on McLion&#39;s Mindstream</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>sl_SI</language>
+    <language>sl-SI</language>
     <lastBuildDate>Tue, 15 Nov 2011 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.mclion.eu/categories/facebook/index.xml" rel="self" type="application/rss+xml" />
@@ -17,8 +17,13 @@
       <pubDate>Tue, 15 Nov 2011 00:00:00 +0000</pubDate>
       
       <guid>https://blog.mclion.eu/2011/11/15/sortiraj-facebook-po-lastni-zelji/</guid>
-      <description>{% img /images/posterous/2011/11/34349863-sprememba%20izpisa.png %} Facebook je pred približno enim mesecem uvedel spremembe v načinu izpisa zgodb na zidovih uporabnikov. Kot vsaka sprememba, je tudi ta mnoge razjezila ...&amp;nbsp;
-Razvijalci na Facebooku so se odločili, da je bolj pomembno prikazovati zgodbe (objave prijateljev in drugih strani) urejene po pomembnosti in ne po času. &amp;Scaron;e najhuje je, da pomembnost določajo po nedokumentiranih parametrih, ki jih spreminjajo iz tedna v teden.&amp;nbsp; Z eksperimentiranjem so nekateri blogerji ugotovili, da je en od parametrov tudi vir iz kjer je bil vpis objavljen.</description>
+      <description>
+&lt;p&gt;
+{% img /images/posterous/2011/11/34349863-sprememba%20izpisa.png %}
+&lt;/p&gt;
+&lt;p&gt;Facebook je pred približno enim mesecem uvedel spremembe v načinu izpisa zgodb na zidovih uporabnikov. Kot vsaka sprememba, je tudi ta mnoge razjezila ...&amp;nbsp;&lt;/p&gt;
+&lt;p /&gt;
+</description>
     </item>
     
   </channel>

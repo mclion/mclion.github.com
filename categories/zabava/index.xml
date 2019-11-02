@@ -1,15 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zabava on McLion&#39;s Mindstream</title>
+    <title>zabava on McLion&#39;s Mindstream</title>
     <link>https://blog.mclion.eu/categories/zabava/</link>
-    <description>Recent content in Zabava on McLion&#39;s Mindstream</description>
+    <description>Recent content in zabava on McLion&#39;s Mindstream</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>sl_SI</language>
-    <lastBuildDate>Mon, 05 Nov 2018 16:32:07 +0100</lastBuildDate>
+    <language>sl-SI</language>
+    <lastBuildDate>Sat, 02 Nov 2019 16:13:41 +0100</lastBuildDate>
     
 	<atom:link href="https://blog.mclion.eu/categories/zabava/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Strah v kratkih zgodbah 2019</title>
+      <link>https://blog.mclion.eu/2019/11/02/strah-v-kratkih-zgodbah-2019/</link>
+      <pubDate>Sat, 02 Nov 2019 16:13:41 +0100</pubDate>
+      
+      <guid>https://blog.mclion.eu/2019/11/02/strah-v-kratkih-zgodbah-2019/</guid>
+      <description>&lt;p&gt;Ste prebrali vse &lt;strong&gt;strašne zgodbe&lt;/strong&gt; tega leta? Še ne? &lt;strong&gt;Odprite&lt;/strong&gt; to objavo in prisluhnite z očmi nanje &amp;hellip;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Pošastne kratke zgodbe 2018</title>
@@ -17,8 +26,7 @@
       <pubDate>Mon, 05 Nov 2018 16:32:07 +0100</pubDate>
       
       <guid>https://blog.mclion.eu/2018/11/05/po%C5%A1astne-kratke-zgodbe-2018/</guid>
-      <description>Temna praznika (dan reformacije in dan spomina na mrtve) zame predstavljata prvi korak v najtemnejše obdobje leta, tudi ker se zgodita nedolgo po zamenjavi ure v zimski čas. Letos ne bom dolgovezil z globjimi pomeni. Praznika sem izkoristil za objavo temačnih zgodb, ki jih sicer pišem med letom, ta dneva pa sta tematsko najbolj primerna in bralci pričakujejo bolj zastrašujočo tematiko.
-Moje najnovejše mikrozgodbe lahko prebirate na Twitterju pod profilom @kratkazgodba ali na Facebooku na istoimenskem profilu.</description>
+      <description>&lt;p&gt;&lt;strong&gt;Temna praznika&lt;/strong&gt; (dan reformacije in dan spomina na mrtve) zame predstavljata prvi korak v najtemnejše obdobje leta, tudi ker se zgodita nedolgo po zamenjavi ure v zimski čas.&lt;/p&gt;</description>
     </item>
     
     <item>

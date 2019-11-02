@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tehnologija on McLion&#39;s Mindstream</title>
+    <title>tehnologija on McLion&#39;s Mindstream</title>
     <link>https://blog.mclion.eu/categories/tehnologija/</link>
-    <description>Recent content in Tehnologija on McLion&#39;s Mindstream</description>
+    <description>Recent content in tehnologija on McLion&#39;s Mindstream</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>sl_SI</language>
+    <language>sl-SI</language>
     <lastBuildDate>Sun, 17 May 2015 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.mclion.eu/categories/tehnologija/index.xml" rel="self" type="application/rss+xml" />
@@ -48,8 +48,11 @@ Vsako leto me povabijo na Fakulteto za humanistične študije, kjer odpredavam k
       <pubDate>Wed, 25 Jul 2012 00:00:00 +0000</pubDate>
       
       <guid>https://blog.mclion.eu/2012/07/25/dobil-sem-jelly-bean/</guid>
-      <description>Končno mi je Google nadgradil Androida na Jelly Bean. Bil sem kar neučakan, čeprav sem verjetno med prvimi v Sloveniji z zadnjo verzijo androida. Zanimalo me je predvsem kako se v Sloveniji izkažeta novi Google Voice Search in Google Now ...
-Včeraj sem preko vsemogočnih radijskih zvez dobil nadgradnjo mojega NEXUS S telefona na Jelly Bean oz. Android 4.1. Hitrih nadgradenj so deležne samo NEXUS naprave, ostali pa morajo počakati, da se proizvajalci odločijo, če se splača podalj&amp;scaron;ati življenjsko dobo aparata in kdaj bodo to storili.</description>
+      <description>
+&lt;p&gt;Končno mi je Google nadgradil Androida na &lt;strong&gt;Jelly Bean&lt;/strong&gt;. Bil sem kar neučakan, čeprav sem verjetno med prvimi v Sloveniji z zadnjo verzijo androida. Zanimalo me je predvsem kako se v Sloveniji izkažeta novi Google Voice Search in Google Now ...&lt;/p&gt;
+&lt;p&gt;Včeraj sem preko vsemogočnih radijskih zvez dobil nadgradnjo mojega NEXUS S telefona na Jelly Bean oz.&lt;strong&gt; Android 4.1&lt;/strong&gt;. Hitrih nadgradenj so deležne samo NEXUS naprave, ostali pa morajo počakati, da se proizvajalci odločijo, če se splača podalj&amp;scaron;ati življenjsko dobo aparata in kdaj bodo to storili. Razlog zakaj va&amp;scaron; aparat &#34;ne NEXUS&#34; aparat ne bo doživel nadgradnje je torej pogosto predvsem marketin&amp;scaron;ki.&lt;/p&gt;
+&lt;p&gt;Nova verzija prina&amp;scaron;a kar nekaj googlove magije, ki odlično deluje v Ameriki, Kako se pa obnese pri nas? Moram priznati, da dokaj klavrno, približno tako slabo, kot se obnese Applov iOS. Smo pač majhni. Ampak vseeno, pojdimo po vrsti.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -58,7 +61,9 @@ Včeraj sem preko vsemogočnih radijskih zvez dobil nadgradnjo mojega NEXUS S te
       <pubDate>Thu, 23 Feb 2012 00:00:00 +0000</pubDate>
       
       <guid>https://blog.mclion.eu/2012/02/23/slovenski-crkovalnik-v-mac-osx-snow-leopard-i/</guid>
-      <description>Na spletu je moč najti navodila kako naložiti slovenski črkovalnik v OSX s pomočjo paketa Aspell. Ta metoda ni najbolj optimalna, je pa bila edina do nedavnega edina. Mnogi so spregledali, da OSX od verzije 10.6 podpira nalaganje drugih slovarjev preko odprtega sistema. Apple je namreč v Leopardu zamenjal črkovalnik in uporabil odprto-kodnega, ki koristi slovarje istega formata kot Openoffice.org (oz. sedaj LibreOffice).Tukaj so navodila kako to storimo na nov način, ki ne zahteva instalacije posebnih programov, deluje pa v vseh t.</description>
+      <description>
+&lt;p&gt;Na spletu je moč najti navodila kako naložiti slovenski črkovalnik v OSX s pomočjo paketa Aspell. Ta metoda ni najbolj optimalna, je pa bila edina do nedavnega edina. Mnogi so spregledali, da OSX od verzije 10.6 podpira nalaganje drugih slovarjev preko odprtega sistema. Apple je namreč v Leopardu zamenjal črkovalnik in uporabil odprto-kodnega, ki koristi slovarje istega formata kot Openoffice.org (oz. sedaj LibreOffice).&lt;p /&gt; Tukaj so navodila kako to storimo na nov način, ki ne zahteva instalacije posebnih programov, deluje pa v vseh t.i. Cocoa aplikacijah, torej tudi v iWork paketih, Safariju, Twitterju in podobno &amp;hellip;&lt;br /&gt;&lt;strong&gt;&lt;br /&gt;Kako naložimo slovenski črkovalnik v OSX Leopard, Snow Leopard ali Lion?&lt;/strong&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -67,7 +72,13 @@ Včeraj sem preko vsemogočnih radijskih zvez dobil nadgradnjo mojega NEXUS S te
       <pubDate>Thu, 24 Sep 2009 00:00:00 +0000</pubDate>
       
       <guid>https://blog.mclion.eu/2009/09/24/pogled-skozi-star-iphone/</guid>
-      <description>Včeraj sem spravil mojega dobrega starega iPhona v penzijo. Ne vem sicer če je to dokončno ali ne, trenutno imam HTC Magic &amp;quot;v testu&amp;quot;, bomo videli kako se bo obnesel...Odločil sem se objaviti posnetke &amp;quot;panoram&amp;quot;, ki sem jih v zadnjih dveh letih in pol posnel z iPhonom. Kot nekakšen obredni korak ob menjavi naprave, ki je bila ob meni nepretrgoma ves ta čas...Večinoma gre dejansko za panorame, nekaj jih je bolj &amp;quot;pogled trenutka v eno smer, še sam ne vem zakaj, ne spomnem se niti kam&amp;quot;.</description>
+      <description>
+&lt;b&gt;Včeraj&lt;/b&gt; sem spravil mojega dobrega starega &lt;b&gt;iPhona&lt;/b&gt; v penzijo. Ne vem sicer če je to dokončno ali ne, trenutno imam &lt;b&gt;HTC Magic&lt;/b&gt; &amp;quot;v testu&amp;quot;, bomo videli kako se bo obnesel...&lt;p /&gt;Odločil sem se objaviti posnetke &amp;quot;&lt;b&gt;panoram&lt;/b&gt;&amp;quot;, ki sem jih v zadnjih &lt;b&gt;dveh letih in pol posnel z iPhonom&lt;/b&gt;. Kot nekakšen obredni korak ob menjavi naprave, ki je bila ob meni nepretrgoma ves ta čas...&lt;p /&gt; Večinoma gre dejansko za panorame, nekaj jih je bolj &amp;quot;pogled trenutka v eno smer, še sam ne vem zakaj, ne spomnem se niti kam&amp;quot;. Ne bom jih interpretiral, ne bom jih naložil niti v pravem vrstnem redu, naj &lt;b&gt;avtomatika&lt;/b&gt; poskrbi za to, če se ji da. Prepustim vsem radovednežem v pogled. Lahko si tudi dol poberete, če si želite, lahko postanejo del vaše spletne prisotnosti, če se vam tako zdi...v tem primeru pa navedite mene kot avtorja.&lt;p /&gt; Kar se tiče lokacij posnetkov... Nobena in vse kjer sem se potikal zadnje dve leti in pol&lt;b&gt;&lt;/b&gt;. Posneto je bilo kjerkoli mi je padlo oko. Ali je bilo to pred domom, v Grčiji, v slovenskih gozdovih in gmajni ali v centru koprskega Miamija, ni bilo pomembno...lokacija pravzaprav ni nikoli bila (in prvi iphone nima GPS čipa, da bi jo shranil), bolj pomemben je bil &lt;b&gt;trenutek&lt;/b&gt;, &lt;b&gt;občutek&lt;/b&gt; ko sem pritisnil na ekran in je telefon shranil deformiran &lt;b&gt;posnetek&lt;/b&gt; moje trenutne &lt;b&gt;vizije&lt;/b&gt;.&lt;p /&gt; V miru počivaj (iPhone), sedaj je čas za &lt;b&gt;Google&lt;/b&gt;...&lt;p /&gt; &lt;p&gt;
+{% img /images/posterous/2009/09/2938021-IMG_0050.jpg %}
+{% img /images/posterous/2009/09/2938045-IMG_0352.JPG %}
+{% img /images/posterous/2009/09/2938071-IMG_0683.JPG %}
+{% img /images/posterous/2009/09/2938105-IMG_0825.JPG %}
+</description>
     </item>
     
     <item>

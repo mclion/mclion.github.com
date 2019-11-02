@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Internet on McLion&#39;s Mindstream</title>
+    <title>internet on McLion&#39;s Mindstream</title>
     <link>https://blog.mclion.eu/categories/internet/</link>
-    <description>Recent content in Internet on McLion&#39;s Mindstream</description>
+    <description>Recent content in internet on McLion&#39;s Mindstream</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>sl_SI</language>
+    <language>sl-SI</language>
     <lastBuildDate>Sun, 17 May 2015 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.mclion.eu/categories/internet/index.xml" rel="self" type="application/rss+xml" />
@@ -69,8 +69,12 @@ Skratka, kot mnogi sem bil postavljen pred odločitev: Kam prenesti blog?</descr
       <pubDate>Sat, 19 Jan 2013 00:00:00 +0000</pubDate>
       
       <guid>https://blog.mclion.eu/2013/01/19/merjenje-spletnega-obiska-za-laike/</guid>
-      <description>Tudi letos so me povabili na FH&amp;Scaron;, da &amp;scaron;tudentom medijskega &amp;scaron;tudija predstavim eno temo v sklopu predmeta Digitalni mediji in družba. Letos mi je nositelj predmeta kot temo predlagal &#34;merjenje obiska na internetu&#34;. Ben, ok &amp;hellip; Tema ni med najbolj zanimivimi za humaniste &amp;hellip; Približno tako kot nabiranje oljk - najde se kak&amp;scaron;en navdu&amp;scaron;enc, ampak večina bi raje komentirala družboslovni vidiku takega početja, mogoče.
-Predavanje sem dal skozi, ostalo mi je kar nekaj materiala .</description>
+      <description>
+&lt;p&gt;Tudi letos so me povabili na FH&amp;Scaron;, da &amp;scaron;tudentom medijskega &amp;scaron;tudija predstavim eno temo v sklopu predmeta Digitalni mediji in družba. Letos mi je nositelj predmeta kot temo predlagal &#34;merjenje obiska na internetu&#34;.  Ben, ok &amp;hellip; Tema ni med najbolj zanimivimi za humaniste &amp;hellip; Približno tako kot nabiranje oljk - najde se kak&amp;scaron;en navdu&amp;scaron;enc, ampak večina bi raje komentirala družboslovni vidiku takega početja, mogoče.&lt;/p&gt;
+&lt;p&gt;Predavanje sem dal skozi, ostalo mi je kar nekaj materiala ... Tema je zanimiva za večjo množico, zato sem se odločil, da jo objavim &amp;scaron;e tukaj. Vsebina je poljudna in ne zahteva tehničnega predznanja. Prijetno branje.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://j.mp/13Sfgjz&#34; title=&#34;Predstavitev FH&amp;Scaron; 2013&#34; target=&#34;_blank&#34;&gt;Digitalne diapozitive, ki sem jih med predavanjem uporabljal, dobite na tej povezavi.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -79,9 +83,9 @@ Predavanje sem dal skozi, ostalo mi je kar nekaj materiala .</description>
       <pubDate>Thu, 08 Nov 2012 00:00:00 +0000</pubDate>
       
       <guid>https://blog.mclion.eu/2012/11/08/vec-oglasov-kot-ljudi/</guid>
-      <description>Slovenski spletni mediji so padli v ogla&amp;scaron;evalsko črno luknjo, ki sem jo na ObalaNET doživel pred približno &amp;scaron;estimi leti in se je nisem zavedel, dokler tega fenomena nisem opazil pri najbolj branih slovenskih spletnih medijih dana&amp;scaron;njega časa. Tokrat ne bom samo nergal, ampak poskusil najti tudi re&amp;scaron;itev za izbolj&amp;scaron;anje stanja, vsaj iz vidika lastnika spletnega mesta.
-Na tipičnem nadpovprečno obiskanem slovenskem spletnem mediju dobimo sledeče tipe oglasov:
- Vodoravne, navpične in kvadratne oglasne pasice nad, pod, ob in med besedilom, veliko drsečo pasico na dnu, ki zasede okoli &amp;frac14; okna, drsni oglasi, ki se odprejo, ko uporabnik pride na dno članka (in mu premaknejo fokus na oglas), lebdeči oglasi, ki prekrijejo vsebino in se včasih ne dajo zapreti, oglasni premori pred in po video posnetkih, video oglasni premori pred branjem članka, oglasna ozadja, Piano plačni&amp;scaron;ki zid, Double Recall prekinitev, ki zahteva prepis dveh besed iz oglasa, Plista &#34;</description>
+      <description>
+&lt;p&gt;Slovenski spletni mediji so padli v &lt;strong&gt;ogla&amp;scaron;evalsko&lt;/strong&gt; &lt;strong&gt;črno luknj&lt;/strong&gt;o, ki sem jo na ObalaNET doživel pred približno &amp;scaron;estimi leti in se je nisem zavedel, dokler tega fenomena nisem opazil pri najbolj branih slovenskih spletnih medijih dana&amp;scaron;njega časa. Tokrat ne bom samo nergal, ampak poskusil najti tudi re&amp;scaron;itev za izbolj&amp;scaron;anje stanja, vsaj iz vidika lastnika spletnega mesta.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -90,8 +94,9 @@ Na tipičnem nadpovprečno obiskanem slovenskem spletnem mediju dobimo sledeče 
       <pubDate>Tue, 06 Dec 2011 00:00:00 +0000</pubDate>
       
       <guid>https://blog.mclion.eu/2011/12/06/moss-je-boljsi-od-google-analytics-ampak-zaka/</guid>
-      <description>&amp;Scaron;e danes se srečujem z nerazumevanjem delovanja projekta Meritve obiska spletnih strani, ki ga večina pozna pod kratico MOSS. Žal prihaja do nerazumevanja ravno v slovenski skupnosti &#34;webmasterjev&#34; in drugih spletnih strokovnjakov, ki bi kot prvi morali razumeti delovanje in pomen tak&amp;scaron;nih projektov.
-Dolga leta sem upal in tudi težil odgovornim znotraj projekta MOSS, da je potrebno izbolj&amp;scaron;ati komunikacijo z naročniki, pristopniki oziroma kakor koli se imenuje tiste, ki sodelujejo v projektu, pa tudi komunikacijo z zainteresirano javnostjo.</description>
+      <description>
+&lt;p&gt;&lt;span&gt;&amp;Scaron;e danes se srečujem z nerazumevanjem delovanja projekta Meritve obiska spletnih strani, ki ga večina pozna pod kratico &lt;strong&gt;MOSS&lt;/strong&gt;. Žal prihaja do nerazumevanja ravno v slovenski skupnosti &#34;webmasterjev&#34; in drugih spletnih strokovnjakov, ki bi kot prvi morali razumeti delovanje in pomen tak&amp;scaron;nih projektov.&lt;/span&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -100,8 +105,13 @@ Dolga leta sem upal in tudi težil odgovornim znotraj projekta MOSS, da je potre
       <pubDate>Tue, 15 Nov 2011 00:00:00 +0000</pubDate>
       
       <guid>https://blog.mclion.eu/2011/11/15/sortiraj-facebook-po-lastni-zelji/</guid>
-      <description>{% img /images/posterous/2011/11/34349863-sprememba%20izpisa.png %} Facebook je pred približno enim mesecem uvedel spremembe v načinu izpisa zgodb na zidovih uporabnikov. Kot vsaka sprememba, je tudi ta mnoge razjezila ...&amp;nbsp;
-Razvijalci na Facebooku so se odločili, da je bolj pomembno prikazovati zgodbe (objave prijateljev in drugih strani) urejene po pomembnosti in ne po času. &amp;Scaron;e najhuje je, da pomembnost določajo po nedokumentiranih parametrih, ki jih spreminjajo iz tedna v teden.&amp;nbsp; Z eksperimentiranjem so nekateri blogerji ugotovili, da je en od parametrov tudi vir iz kjer je bil vpis objavljen.</description>
+      <description>
+&lt;p&gt;
+{% img /images/posterous/2011/11/34349863-sprememba%20izpisa.png %}
+&lt;/p&gt;
+&lt;p&gt;Facebook je pred približno enim mesecem uvedel spremembe v načinu izpisa zgodb na zidovih uporabnikov. Kot vsaka sprememba, je tudi ta mnoge razjezila ...&amp;nbsp;&lt;/p&gt;
+&lt;p /&gt;
+</description>
     </item>
     
     <item>

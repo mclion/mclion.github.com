@@ -1,81 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on McLion&#39;s Mindstream</title>
     <link>https://blog.mclion.eu/categories/</link>
     <description>Recent content in Categories on McLion&#39;s Mindstream</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>sl_SI</language>
-    <lastBuildDate>Sat, 15 Apr 2017 16:17:39 +0200</lastBuildDate>
+    <language>sl-SI</language>
+    <lastBuildDate>Sat, 02 Nov 2019 16:13:41 +0100</lastBuildDate>
     
 	<atom:link href="https://blog.mclion.eu/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Agilno</title>
-      <link>https://blog.mclion.eu/categories/agilno/</link>
-      <pubDate>Sat, 15 Apr 2017 16:17:39 +0200</pubDate>
+      <title>zabava</title>
+      <link>https://blog.mclion.eu/categories/zabava/</link>
+      <pubDate>Sat, 02 Nov 2019 16:13:41 +0100</pubDate>
       
-      <guid>https://blog.mclion.eu/categories/agilno/</guid>
+      <guid>https://blog.mclion.eu/categories/zabava/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Android</title>
-      <link>https://blog.mclion.eu/categories/android/</link>
-      <pubDate>Wed, 25 Jul 2012 00:00:00 +0000</pubDate>
+      <title>zgodbe</title>
+      <link>https://blog.mclion.eu/categories/zgodbe/</link>
+      <pubDate>Sat, 02 Nov 2019 16:13:41 +0100</pubDate>
       
-      <guid>https://blog.mclion.eu/categories/android/</guid>
+      <guid>https://blog.mclion.eu/categories/zgodbe/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Apple</title>
-      <link>https://blog.mclion.eu/categories/apple/</link>
-      <pubDate>Thu, 23 Feb 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.mclion.eu/categories/apple/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Blebetanje</title>
-      <link>https://blog.mclion.eu/categories/blebetanje/</link>
-      <pubDate>Tue, 21 Mar 2017 14:27:01 +0100</pubDate>
-      
-      <guid>https://blog.mclion.eu/categories/blebetanje/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Facebook</title>
-      <link>https://blog.mclion.eu/categories/facebook/</link>
-      <pubDate>Tue, 15 Nov 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.mclion.eu/categories/facebook/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Glasba</title>
-      <link>https://blog.mclion.eu/categories/glasba/</link>
-      <pubDate>Mon, 12 Oct 2009 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.mclion.eu/categories/glasba/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Internet</title>
-      <link>https://blog.mclion.eu/categories/internet/</link>
-      <pubDate>Sun, 17 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.mclion.eu/categories/internet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nadgradnja</title>
+      <title>nadgradnja</title>
       <link>https://blog.mclion.eu/categories/nadgradnja/</link>
       <pubDate>Tue, 12 Jun 2018 07:55:39 +0200</pubDate>
       
@@ -84,34 +39,7 @@
     </item>
     
     <item>
-      <title>Poslovno</title>
-      <link>https://blog.mclion.eu/categories/poslovno/</link>
-      <pubDate>Sat, 15 Apr 2017 16:17:39 +0200</pubDate>
-      
-      <guid>https://blog.mclion.eu/categories/poslovno/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Social</title>
-      <link>https://blog.mclion.eu/categories/social/</link>
-      <pubDate>Mon, 29 Nov 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.mclion.eu/categories/social/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tehnologija</title>
-      <link>https://blog.mclion.eu/categories/tehnologija/</link>
-      <pubDate>Sun, 17 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.mclion.eu/categories/tehnologija/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ucenje</title>
+      <title>ucenje</title>
       <link>https://blog.mclion.eu/categories/ucenje/</link>
       <pubDate>Tue, 12 Jun 2018 07:55:39 +0200</pubDate>
       
@@ -120,20 +48,92 @@
     </item>
     
     <item>
-      <title>Zabava</title>
-      <link>https://blog.mclion.eu/categories/zabava/</link>
-      <pubDate>Mon, 05 Nov 2018 16:32:07 +0100</pubDate>
+      <title>agilno</title>
+      <link>https://blog.mclion.eu/categories/agilno/</link>
+      <pubDate>Sat, 15 Apr 2017 16:17:39 +0200</pubDate>
       
-      <guid>https://blog.mclion.eu/categories/zabava/</guid>
+      <guid>https://blog.mclion.eu/categories/agilno/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Zgodbe</title>
-      <link>https://blog.mclion.eu/categories/zgodbe/</link>
-      <pubDate>Mon, 05 Nov 2018 16:32:07 +0100</pubDate>
+      <title>poslovno</title>
+      <link>https://blog.mclion.eu/categories/poslovno/</link>
+      <pubDate>Sat, 15 Apr 2017 16:17:39 +0200</pubDate>
       
-      <guid>https://blog.mclion.eu/categories/zgodbe/</guid>
+      <guid>https://blog.mclion.eu/categories/poslovno/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blebetanje</title>
+      <link>https://blog.mclion.eu/categories/blebetanje/</link>
+      <pubDate>Tue, 21 Mar 2017 14:27:01 +0100</pubDate>
+      
+      <guid>https://blog.mclion.eu/categories/blebetanje/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>internet</title>
+      <link>https://blog.mclion.eu/categories/internet/</link>
+      <pubDate>Sun, 17 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mclion.eu/categories/internet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tehnologija</title>
+      <link>https://blog.mclion.eu/categories/tehnologija/</link>
+      <pubDate>Sun, 17 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mclion.eu/categories/tehnologija/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>android</title>
+      <link>https://blog.mclion.eu/categories/android/</link>
+      <pubDate>Wed, 25 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mclion.eu/categories/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>apple</title>
+      <link>https://blog.mclion.eu/categories/apple/</link>
+      <pubDate>Thu, 23 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mclion.eu/categories/apple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>facebook</title>
+      <link>https://blog.mclion.eu/categories/facebook/</link>
+      <pubDate>Tue, 15 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mclion.eu/categories/facebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social</title>
+      <link>https://blog.mclion.eu/categories/social/</link>
+      <pubDate>Mon, 29 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mclion.eu/categories/social/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>glasba</title>
+      <link>https://blog.mclion.eu/categories/glasba/</link>
+      <pubDate>Mon, 12 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mclion.eu/categories/glasba/</guid>
       <description></description>
     </item>
     

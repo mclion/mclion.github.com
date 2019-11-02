@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Social on McLion&#39;s Mindstream</title>
+    <title>social on McLion&#39;s Mindstream</title>
     <link>https://blog.mclion.eu/categories/social/</link>
-    <description>Recent content in Social on McLion&#39;s Mindstream</description>
+    <description>Recent content in social on McLion&#39;s Mindstream</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>sl_SI</language>
+    <language>sl-SI</language>
     <lastBuildDate>Mon, 29 Nov 2010 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.mclion.eu/categories/social/index.xml" rel="self" type="application/rss+xml" />

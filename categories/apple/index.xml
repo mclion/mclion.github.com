@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Apple on McLion&#39;s Mindstream</title>
+    <title>apple on McLion&#39;s Mindstream</title>
     <link>https://blog.mclion.eu/categories/apple/</link>
-    <description>Recent content in Apple on McLion&#39;s Mindstream</description>
+    <description>Recent content in apple on McLion&#39;s Mindstream</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>sl_SI</language>
+    <language>sl-SI</language>
     <lastBuildDate>Thu, 23 Feb 2012 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.mclion.eu/categories/apple/index.xml" rel="self" type="application/rss+xml" />
@@ -17,7 +17,9 @@
       <pubDate>Thu, 23 Feb 2012 00:00:00 +0000</pubDate>
       
       <guid>https://blog.mclion.eu/2012/02/23/slovenski-crkovalnik-v-mac-osx-snow-leopard-i/</guid>
-      <description>Na spletu je moč najti navodila kako naložiti slovenski črkovalnik v OSX s pomočjo paketa Aspell. Ta metoda ni najbolj optimalna, je pa bila edina do nedavnega edina. Mnogi so spregledali, da OSX od verzije 10.6 podpira nalaganje drugih slovarjev preko odprtega sistema. Apple je namreč v Leopardu zamenjal črkovalnik in uporabil odprto-kodnega, ki koristi slovarje istega formata kot Openoffice.org (oz. sedaj LibreOffice).Tukaj so navodila kako to storimo na nov način, ki ne zahteva instalacije posebnih programov, deluje pa v vseh t.</description>
+      <description>
+&lt;p&gt;Na spletu je moč najti navodila kako naložiti slovenski črkovalnik v OSX s pomočjo paketa Aspell. Ta metoda ni najbolj optimalna, je pa bila edina do nedavnega edina. Mnogi so spregledali, da OSX od verzije 10.6 podpira nalaganje drugih slovarjev preko odprtega sistema. Apple je namreč v Leopardu zamenjal črkovalnik in uporabil odprto-kodnega, ki koristi slovarje istega formata kot Openoffice.org (oz. sedaj LibreOffice).&lt;p /&gt; Tukaj so navodila kako to storimo na nov način, ki ne zahteva instalacije posebnih programov, deluje pa v vseh t.i. Cocoa aplikacijah, torej tudi v iWork paketih, Safariju, Twitterju in podobno &amp;hellip;&lt;br /&gt;&lt;strong&gt;&lt;br /&gt;Kako naložimo slovenski črkovalnik v OSX Leopard, Snow Leopard ali Lion?&lt;/strong&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
