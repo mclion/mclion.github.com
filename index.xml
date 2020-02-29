@@ -6,10 +6,19 @@
     <description>Recent content on McLion&#39;s Mindstream</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sl-SI</language>
-    <lastBuildDate>Sun, 03 Nov 2019 11:13:41 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 29 Feb 2020 14:41:14 +0100</lastBuildDate>
     
 	<atom:link href="https://blog.mclion.eu/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kratke zgodbe epskih razsežnosti</title>
+      <link>https://blog.mclion.eu/kratkazgodba/</link>
+      <pubDate>Sat, 29 Feb 2020 14:41:14 +0100</pubDate>
+      
+      <guid>https://blog.mclion.eu/kratkazgodba/</guid>
+      <description>Tweets by kratkazgodba</description>
+    </item>
     
     <item>
       <title>Strašne kratke zgodbe 2019</title>
@@ -36,10 +45,8 @@
       
       <guid>https://blog.mclion.eu/2018/06/12/kako-si-zapomnim-imena/</guid>
       <description>&lt;p&gt; &lt;/p&gt;
-
 &lt;p&gt;Spoznaš novo osebo, steče pogovor, izmenjata si kontakte in … Ne veš pod katero ime jo shraniti. Veš s čim se ukvarja, kakšnega psa ima, da navija za isti klub …
 Ampak imena … &lt;strong&gt;Nimaš pojma kako ji je ime&lt;/strong&gt;.&lt;/p&gt;
-
 &lt;p&gt;Koliko pogosto se ti to zgodi in koliko na živce ti gre, od ena do deset?
 Milijon? Imam rešitev zate. Takšno, ki deluje tudi brez interneta in baterij.&lt;/p&gt;</description>
     </item>
@@ -51,7 +58,7 @@ Milijon? Imam rešitev zate. Takšno, ki deluje tudi brez interneta in baterij.&
       
       <guid>https://blog.mclion.eu/2017/10/20/po%C5%A1astna-reformacija/</guid>
       <description>Pošasti so med nami. Prave pošasti. Pogosto se skrivajo v popolnoma normalnih ljudeh in situacijah, do trenutka, ko jih normalnost zapusti. Strah nas je pošasti, saj jih večinoma ne znamo ločiti od navadnih oseb, stvari oz. situacij.
-Saj poznate zgodbo soseda, ki je bil odličen človek, dokler ni ubil svoje žene, otrok in si sodil sam &amp;hellip; Ali pa tisti policist, ki je leta vestno opravljal svoje dolžnosti, dokler &amp;hellip; Ali pa tisti filmski režiser/producent, ki je igralske sposobnosti igralk ocenjeval s spodnjo glavo &amp;hellip; Da o duhovnikih, ki pod besedo &amp;laquo;celibat&amp;raquo; razumejo &amp;laquo;dovoljeno otipavanje fantkov&amp;raquo; sploh ne izgubljam besed.</description>
+Saj poznate zgodbo soseda, ki je bil odličen človek, dokler ni ubil svoje žene, otrok in si sodil sam &amp;hellip; Ali pa tisti policist, ki je leta vestno opravljal svoje dolžnosti, dokler &amp;hellip; Ali pa tisti filmski režiser/producent, ki je igralske sposobnosti igralk ocenjeval s spodnjo glavo &amp;hellip; Da o duhovnikih, ki pod besedo &amp;ldquo;celibat&amp;rdquo; razumejo &amp;ldquo;dovoljeno otipavanje fantkov&amp;rdquo; sploh ne izgubljam besed.</description>
     </item>
     
     <item>
@@ -62,7 +69,7 @@ Saj poznate zgodbo soseda, ki je bil odličen človek, dokler ni ubil svoje žen
       <guid>https://blog.mclion.eu/2017/04/15/odgovornost-nas-pospe%C5%A1i/</guid>
       <description>Sposobnost človeka, da dela ogromno časa z veliko vnemo, se pozno iztroši in posledično naredi mnogo za malo denarja, ni glavna poslovna prednost v svetu agilnega razvoja.
 Agilni razvoj zahteva optimizacijo vseh (delovnih) procesov, da se zmanjša mentalna obremenitev z manj-pomembnostmi in se mentalno sposobnost lahko fokusira na reševanje zastavljenih opravil. Le tako lahko, ob preprekah, najdemo najhitrejšo rešitev.
-V mojem pogledu na svet je želja delovnega posameznika, da se lahko kadarkoli ustavi in &amp;laquo;voha rožice&amp;raquo;.</description>
+V mojem pogledu na svet je želja delovnega posameznika, da se lahko kadarkoli ustavi in &amp;ldquo;voha rožice&amp;rdquo;.</description>
     </item>
     
     <item>
@@ -95,7 +102,7 @@ Večinoma je dovolj, da jo spesnim v tvit, ki ga objavim kot @kratkazgodba, vča
       <guid>https://blog.mclion.eu/2015/10/25/strah-nas-lahko-resi/</guid>
       <description>Pred nami so mračni dnevi. Dnevi, ko se bomo trudili iskati sonce, ampak dobili bomo predvsem temo in hlad. V več smislih …
 Pred kratkim smo premaknili uro, pred nami je dan mrtvih, še prej pa noč pred vsemi svetimi, noč čarovnic, ki se zgodi na dan reformacije. Komplicirano? :)
-O noči pred &amp;laquo;Dnevom mrtvih&amp;raquo;, ki so ga nekoč imenovali &amp;laquo;Vsi sveti&amp;raquo; in ga tako še v nekaterih (pretežno krščanskih) državah, vemo marsikaj.</description>
+O noči pred &amp;ldquo;Dnevom mrtvih&amp;quot;, ki so ga nekoč imenovali &amp;ldquo;Vsi sveti&amp;rdquo; in ga tako še v nekaterih (pretežno krščanskih) državah, vemo marsikaj.</description>
     </item>
     
     <item>
@@ -117,7 +124,7 @@ Seveda ni vsaka zgodba dobra. Definicija dobrega je subjektivna, znamo pa vse do
       <guid>https://blog.mclion.eu/2015/01/25/korak-za-korakom/</guid>
       <description>Prvi koraki so najtežji. Najprej se naučiš obračati na hrbet oz. trebuh, zatem pride na vrsto kobacanje, plezanje, stanje na nogah &amp;hellip; in TEK!
 Tek je zate, ko si še otrok, bolj naraven od hoje. No, saj s starši niti nimaš izbire, če se že moraš sprehajati z njimi.
-Menim, da se tek pri otroku razvije kot odgovor na silo teže. &amp;laquo;Če bom dovolj hitro premikal noge, ne bom padel!&amp;raquo; Zanimivo je, da z odraščanjem tek opustimo kot način premikanja in ga zabašemo v predal med ostale športne rekvizite s katerimi so nas mučili v osnovni in srednji šoli.</description>
+Menim, da se tek pri otroku razvije kot odgovor na silo teže. &amp;ldquo;Če bom dovolj hitro premikal noge, ne bom padel!&amp;rdquo; Zanimivo je, da z odraščanjem tek opustimo kot način premikanja in ga zabašemo v predal med ostale športne rekvizite s katerimi so nas mučili v osnovni in srednji šoli.</description>
     </item>
     
     <item>
@@ -126,7 +133,7 @@ Menim, da se tek pri otroku razvije kot odgovor na silo teže. &amp;laquo;Če bo
       <pubDate>Tue, 30 Sep 2014 00:00:00 +0000</pubDate>
       
       <guid>https://blog.mclion.eu/2014/09/30/kako-skuhati-uspesen-projekt-ekipa/</guid>
-      <description>TL;DR - Ekipa je srce projekta, to so kuharji ki zmešajo sestavine. Brez njih se nič ne skuha, saj &amp;laquo;replikatorji&amp;raquo; iz Star Treka še niso bili izumljeni. :) Kakšna pa je uspešna ekipa?
+      <description>TL;DR - Ekipa je srce projekta, to so kuharji ki zmešajo sestavine. Brez njih se nič ne skuha, saj &amp;ldquo;replikatorji&amp;rdquo; iz Star Treka še niso bili izumljeni. :) Kakšna pa je uspešna ekipa?
 Pred tem: Recept za uspešen projekt in kako do dobre ideje Zadnjič sem razpredal o receptu za uspešen projekt oz. sestavinah zanj. Tokrat nadaljujem z eno najpomembnejših sestavin, ki pa pri nas povzroča tudi največ preglavic. Gre za družabno sestavino, ki lahko še tako dober projekt popolnoma uniči, če njena interakcija ne deluje konstruktivno.</description>
     </item>
     
@@ -159,8 +166,8 @@ Pet tednov brez sladkorja, alkohola in drugih dobrot, katerih sem pozabil imena 
       <guid>https://blog.mclion.eu/2014/04/13/ko-me-je-poklicala-evelin/</guid>
       <description>Nedelja. Prijeten pomladni dan. Ne prevroč in niti prehladen. Sedim ob morju in se predajam prijetnemu vetriču, ki mi polni nosnice z omamnim vonjem morja. Idila.
 Telefon mi zazvoni. Nisem ugasnil zvonjenja? Vedno ga izklopim, ko grem na te sprehode. Hm &amp;hellip; Čudna številka. +14155633300. Pomislim na sodelavca v tujini, morda ravno na nedeljo predstavlja naš produkt in verjetno nekaj ne dela.
-&amp;laquo;Halo?&amp;raquo; …
-&amp;laquo;Ciao tata, mama je rekla da te pokličem, ker hočemo v šoping … Je rekla, da nehaj lejžurat pri morju in drajvaj avto domov, ga nidamo za šoping.</description>
+&amp;ldquo;Halo?&amp;rdquo; …
+&amp;ldquo;Ciao tata, mama je rekla da te pokličem, ker hočemo v šoping … Je rekla, da nehaj lejžurat pri morju in drajvaj avto domov, ga nidamo za šoping.</description>
     </item>
     
     <item>
@@ -170,7 +177,7 @@ Telefon mi zazvoni. Nisem ugasnil zvonjenja? Vedno ga izklopim, ko grem na te sp
       
       <guid>https://blog.mclion.eu/2014/01/19/preprican-v-dvom/</guid>
       <description>Rad bi zaupal v eno vero, v eno stranko, v en poklic in v en zato. Rad bi bil tak kot večina ljudi, ker sem že dolgo prebolel obdobje upora in norij.
-Rad bi znal narediti spisek dobrih in slabih ljudi, jih ločevati na črne in bele &amp;hellip; Tako kot to počnejo politiki, razvajenci in kreteni. Rad bi znal pokazati s prstom na tisto pošast: &amp;laquo;On je kriv, da nisem naredil ničesar v svojem življenju, ON!</description>
+Rad bi znal narediti spisek dobrih in slabih ljudi, jih ločevati na črne in bele &amp;hellip; Tako kot to počnejo politiki, razvajenci in kreteni. Rad bi znal pokazati s prstom na tisto pošast: &amp;ldquo;On je kriv, da nisem naredil ničesar v svojem življenju, ON!</description>
     </item>
     
     <item>
@@ -201,7 +208,7 @@ Sedaj pa je napočil trenutek, da to obdobje zaključim in se ponovno posvetim d
       <guid>https://blog.mclion.eu/2013/03/31/kaj-slovence-zanima/</guid>
       <description>To vprašanje si postavlja marsikateri tržnik, marsikateri novinar in predvsem vsak politik. No, tudi navadnega državljana zanima kaj navdušuje sotrpnike.
 Zato sem se pred par meseci lotil vikend projekta, ki se je razširil na več vikendov in zrasel v obliko, ki jo lahko trenutno testirate na mclion.tuinzdaj.net/novicev/.
-Na tem spletnem mestu boste dobili odgovor &amp;laquo;Kaj Slovence danes zanima?&amp;raquo;. Odgovor bo v obliki spiska novic, ki je obtežen po zanimanju slovenskih bralcev in časom objave.</description>
+Na tem spletnem mestu boste dobili odgovor &amp;ldquo;Kaj Slovence danes zanima?&amp;quot;. Odgovor bo v obliki spiska novic, ki je obtežen po zanimanju slovenskih bralcev in časom objave.</description>
     </item>
     
     <item>

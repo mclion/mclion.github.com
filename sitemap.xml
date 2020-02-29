@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blog.mclion.eu/categories/</loc>
-    <lastmod>2019-11-03T11:13:41+01:00</lastmod>
+    <loc>https://blog.mclion.eu/kratkazgodba/</loc>
+    <lastmod>2020-02-29T14:41:14+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.mclion.eu/</loc>
+    <lastmod>2020-02-29T14:41:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.mclion.eu/categories/</loc>
     <lastmod>2019-11-03T11:13:41+01:00</lastmod>
   </url>
   
